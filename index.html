@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>广东省高校教师岗·行政岗招聘信息</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #0f1419;
+      --card: #1a2332;
+      --border: #2d3a4d;
+      --text: #e6edf3;
+      --muted: #8b949e;
+      --accent: #58a6ff;
+      --accent-visited: #a371f7;
+      --teacher: #3fb950;
+      --admin: #d29922;
+    }
+    * { box-sizing: border-box; }
+    body {
+      font-family: "Noto Sans SC", -apple-system, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      margin: 0;
+      padding: 24px 16px 48px;
+      min-height: 100vh;
+    }
+    .container { max-width: 960px; margin: 0 auto; }
+    h1 {
+      font-size: 1.75rem;
+      font-weight: 700;
+      margin: 0 0 8px;
+      letter-spacing: -0.02em;
+    }
+    .subtitle {
+      color: var(--muted);
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+    }
+    .filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+      margin-bottom: 24px;
+      padding: 16px;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+    }
+    .filters label { margin-right: 6px; color: var(--muted); font-size: 0.9rem; }
+    .filters select {
+      background: var(--bg);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 8px 12px;
+      font-size: 0.9rem;
+      cursor: pointer;
+    }
+    .pill {
+      display: inline-block;
+      padding: 6px 14px;
+      border-radius: 999px;
+      font-size: 0.85rem;
+      cursor: pointer;
+      border: 1px solid var(--border);
+      background: var(--card);
+      color: var(--text);
+      margin-right: 8px;
+      margin-bottom: 8px;
+    }
+    .pill:hover { border-color: var(--accent); color: var(--accent); }
+    .pill.active { background: var(--accent); border-color: var(--accent); color: var(--bg); }
+    .pill.teacher.active { background: var(--teacher); border-color: var(--teacher); }
+    .pill.admin.active { background: var(--admin); border-color: var(--admin); }
+    .meta {
+      color: var(--muted);
+      font-size: 0.85rem;
+      margin-bottom: 20px;
+    }
+    .meta a { color: var(--accent); }
+    section {
+      margin-bottom: 32px;
+    }
+    section h2 {
+      font-size: 1.15rem;
+      font-weight: 600;
+      margin: 0 0 12px;
+      color: var(--text);
+    }
+    .job-list, .school-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    .job-item, .school-item {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 14px 16px;
+      margin-bottom: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .job-item a, .school-item a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+    .job-item a:hover, .school-item a:hover { text-decoration: underline; }
+    .job-item a:visited, .school-item a:visited { color: var(--accent-visited); }
+    .job-type {
+      font-size: 0.75rem;
+      padding: 3px 8px;
+      border-radius: 6px;
+      flex-shrink: 0;
+    }
+    .job-type.教师岗 { background: rgba(63, 185, 80, 0.2); color: var(--teacher); }
+    .job-type.行政岗 { background: rgba(210, 153, 34, 0.2); color: var(--admin); }
+    .job-type.其他 { background: rgba(88, 166, 255, 0.2); color: var(--accent); }
+    .job-school, .school-name { color: var(--muted); font-size: 0.9rem; }
+    .empty { color: var(--muted); padding: 24px; text-align: center; }
+    .tabs {
+      display: flex;
+      gap: 4px;
+      margin-bottom: 16px;
+    }
+    .tabs button {
+      padding: 10px 20px;
+      border: 1px solid var(--border);
+      background: var(--card);
+      color: var(--text);
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 0.95rem;
+    }
+    .tabs button:hover { border-color: var(--accent); }
+    .tabs button.active { background: var(--accent); border-color: var(--accent); color: var(--bg); }
+    .panel { display: none; }
+    .panel.active { display: block; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>广东省高校教师岗 · 行政岗招聘信息</h1>
+    <p class="subtitle">收集广东省内本科、专科院校人事处/招聘页入口与抓取的招聘公告，便于统一查看与更新。</p>
+
+    <div class="filters">
+      <span><label>岗位</label>
+        <span class="pill active" data-type="all">全部</span>
+        <span class="pill teacher" data-type="教师岗">教师岗</span>
+        <span class="pill admin" data-type="行政岗">行政岗</span>
+      </span>
+      <span><label>城市</label>
+        <select id="filterCity">
+          <option value="">全部城市</option>
+        </select>
+      </span>
+      <span><label>院校类型</label>
+        <select id="filterSchoolType">
+          <option value="">全部</option>
+          <option value="本科">本科</option>
+          <option value="专科">专科</option>
+        </select>
+      </span>
+    </div>
+
+    <p class="meta" id="meta">加载中…</p>
+
+    <div class="tabs">
+      <button type="button" data-tab="schools">按学校入口（106 所院校直达链接）</button>
+      <button type="button" data-tab="jobs">招聘信息列表</button>
+    </div>
+
+    <section id="panel-schools" class="panel active">
+      <h2>各校招聘/人事处入口</h2>
+      <ul class="school-list" id="schoolList"></ul>
+    </section>
+
+    <section id="panel-jobs" class="panel">
+      <h2>招聘信息（来自各校人事处页面抓取）</h2>
+      <ul class="job-list" id="jobList"></ul>
+      <p class="empty" id="jobEmpty" style="display:none;">暂无抓取到的招聘条目。在终端执行：<br><code>cd 项目目录 && pip3 install -r requirements.txt && python3 update_jobs.py</code></p>
+    </section>
+  </div>
+
+  <script>
+    let jobsData = { last_updated: "", jobs: [], sources: [] };
+    let universitiesData = { universities: [] };
+    let currentType = "all";
+    let currentCity = "";
+    let currentSchoolType = "";
+
+    async function loadData() {
+      try {
+        const [jobsRes, univRes] = await Promise.all([
+          fetch("data/jobs.json"),
+          fetch("data/universities_guangdong.json")
+        ]);
+        if (jobsRes.ok) jobsData = await jobsRes.json();
+        if (univRes.ok) universitiesData = await univRes.json();
+      } catch (e) {
+        console.error(e);
+        document.getElementById("meta").textContent = "无法加载 data 下的 JSON（请用本地服务器打开页面，如 python -m http.server）。";
+        return;
+      }
+      const u = universitiesData.universities || [];
+      const jobs = jobsData.jobs || [];
+      document.getElementById("meta").innerHTML =
+        "数据更新时间：<strong>" + (jobsData.last_updated || "—") + "</strong>。"
+        + " 共 " + u.length + " 所院校、当前抓取 " + jobs.length + " 条招聘相关信息。"
+        + " 更新方式见 README。";
+      fillCityOptions(u);
+      renderPills();
+      renderJobs();
+      renderSchools(u);
+    }
+
+    function fillCityOptions(universities) {
+      const set = new Set(universities.map(x => x.city).filter(Boolean));
+      const sel = document.getElementById("filterCity");
+      ["全部城市", ...Array.from(set).sort()].forEach((c, i) => {
+        const opt = document.createElement("option");
+        opt.value = i === 0 ? "" : c;
+        opt.textContent = c;
+        sel.appendChild(opt);
+      });
+      sel.addEventListener("change", () => { currentCity = sel.value; renderJobs(); renderSchools(universitiesData.universities || []); });
+    }
+
+    document.getElementById("filterSchoolType").addEventListener("change", function() {
+      currentSchoolType = this.value;
+      renderJobs();
+      renderSchools(universitiesData.universities || []);
+    });
+
+    function renderPills() {
+      document.querySelectorAll(".filters .pill[data-type]").forEach(el => {
+        el.classList.toggle("active", el.dataset.type === currentType);
+        el.onclick = () => { currentType = el.dataset.type; renderPills(); renderJobs(); };
+      });
+    }
+
+    function filterJob(job) {
+      if (currentType !== "all" && job.type !== currentType) return false;
+      const schools = universitiesData.universities || [];
+      const school = schools.find(s => s.name === job.school);
+      if (currentCity && (!school || school.city !== currentCity)) return false;
+      if (currentSchoolType && (!school || school.type !== currentSchoolType)) return false;
+      return true;
+    }
+
+    function renderJobs() {
+      const jobs = (jobsData.jobs || []).filter(filterJob);
+      const ul = document.getElementById("jobList");
+      const empty = document.getElementById("jobEmpty");
+      ul.innerHTML = "";
+      if (jobs.length === 0) {
+        empty.style.display = "block";
+        return;
+      }
+      empty.style.display = "none";
+      jobs.forEach(job => {
+        const li = document.createElement("li");
+        li.className = "job-item";
+        li.innerHTML =
+          "<span class=\"job-school\">" + escapeHtml(job.school) + "</span> "
+          + "<span class=\"job-type " + escapeHtml(job.type) + "\">" + escapeHtml(job.type) + "</span> "
+          + "<a href=\"" + escapeHtml(job.url) + "\" target=\"_blank\" rel=\"noopener\">" + escapeHtml(job.title) + "</a>";
+        ul.appendChild(li);
+      });
+    }
+
+    function renderSchools(universities) {
+      let list = universities;
+      if (currentCity) list = list.filter(u => u.city === currentCity);
+      if (currentSchoolType) list = list.filter(u => u.type === currentSchoolType);
+      const ul = document.getElementById("schoolList");
+      ul.innerHTML = "";
+      list.forEach(u => {
+        const url = (u.recruitment_url || "").trim();
+        const li = document.createElement("li");
+        li.className = "school-item";
+        li.innerHTML =
+          "<span class=\"school-name\">" + escapeHtml(u.name) + " · " + escapeHtml(u.city || "") + " · " + escapeHtml(u.type || "") + "</span> "
+          + (url
+            ? "<a href=\"" + escapeHtml(url) + "\" target=\"_blank\" rel=\"noopener\">" + escapeHtml(u.recruitment_name || "招聘页") + " →</a>"
+            : "<span class=\"muted\">未配置链接</span>");
+        ul.appendChild(li);
+      });
+    }
+
+    function escapeHtml(s) {
+      if (s == null) return "";
+      const div = document.createElement("div");
+      div.textContent = s;
+      return div.innerHTML;
+    }
+
+    document.querySelectorAll(".tabs button").forEach(btn => {
+      btn.addEventListener("click", () => {
+        document.querySelectorAll(".tabs button").forEach(b => b.classList.remove("active"));
+        document.querySelectorAll(".panel").forEach(p => p.classList.remove("active"));
+        btn.classList.add("active");
+        document.getElementById("panel-" + btn.dataset.tab).classList.add("active");
+      });
+    });
+    // 默认选中「按学校入口」
+    document.querySelector(".tabs button[data-tab='schools']").classList.add("active");
+    document.querySelector("#panel-jobs").classList.remove("active");
+    document.querySelector("#panel-schools").classList.add("active");
+
+    loadData();
+  </script>
+</body>
+</html>
