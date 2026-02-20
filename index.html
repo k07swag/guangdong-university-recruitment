@@ -125,6 +125,8 @@
     .job-type.行政岗 { background: rgba(210, 153, 34, 0.2); color: var(--admin); }
     .job-type.其他 { background: rgba(88, 166, 255, 0.2); color: var(--accent); }
     .job-school, .school-name { color: var(--muted); font-size: 0.9rem; }
+    .link-primary { font-weight: 500; }
+    .search-fallback { font-size: 0.8rem; color: var(--muted); margin-left: 8px; }
     .empty { color: var(--muted); padding: 24px; text-align: center; }
     .tabs {
       display: flex;
@@ -180,6 +182,7 @@
 
     <section id="panel-schools" class="panel active">
       <h2>各校招聘/人事处入口</h2>
+      <p class="meta" style="margin-top:0;">点击「<strong>搜索该校招聘</strong>」会打开百度搜索，从结果中可进入该校人事处/招聘页（链接长期有效）。「尝试直达」为整理的人事处地址，部分可能已失效。</p>
       <ul class="school-list" id="schoolList"></ul>
     </section>
 
@@ -284,14 +287,16 @@
       const ul = document.getElementById("schoolList");
       ul.innerHTML = "";
       list.forEach(u => {
-        const url = (u.recruitment_url || "").trim();
+        const directUrl = (u.recruitment_url || "").trim();
+        const searchUrl = "https://www.baidu.com/s?wd=" + encodeURIComponent(u.name + " 人事处 招聘");
         const li = document.createElement("li");
         li.className = "school-item";
         li.innerHTML =
           "<span class=\"school-name\">" + escapeHtml(u.name) + " · " + escapeHtml(u.city || "") + " · " + escapeHtml(u.type || "") + "</span> "
-          + (url
-            ? "<a href=\"" + escapeHtml(url) + "\" target=\"_blank\" rel=\"noopener\">" + escapeHtml(u.recruitment_name || "招聘页") + " →</a>"
-            : "<span class=\"muted\">未配置链接</span>");
+          + "<a href=\"" + searchUrl + "\" target=\"_blank\" rel=\"noopener\" class=\"link-primary\">搜索该校招聘</a>"
+          + (directUrl
+            ? " <a href=\"" + escapeHtml(directUrl) + "\" target=\"_blank\" rel=\"noopener\" class=\"search-fallback\">尝试直达</a>"
+            : "");
         ul.appendChild(li);
       });
     }
