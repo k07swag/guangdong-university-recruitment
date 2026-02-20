@@ -1,3253 +1,4219 @@
 {
-  "last_updated": "2026-02-20 22:21",
+  "last_updated": "2026-02-21 00:13",
   "jobs": [
-    {
-      "school": "中山大学",
-      "title": "人才招聘",
-      "url": "http://rcb.sysu.edu.cn",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "中山大学",
-      "title": "通知公告",
-      "url": "https://rsc.sysu.edu.cn/inform",
-      "type": "其他",
-      "fetched_at": "2026-02-20"
-    },
     {
       "school": "中山大学",
       "title": "人才引进工作",
       "url": "https://rsc.sysu.edu.cn/inform/rcfz",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "中山大学",
       "title": "博士后、专职科研人员工作",
       "url": "https://rsc.sysu.edu.cn/inform/zz",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "中山大学",
       "title": "师资发展工作",
       "url": "https://rsc.sysu.edu.cn/inform/sz",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "中山大学",
       "title": "人事管理（人才交流）工作",
       "url": "https://rsc.sysu.edu.cn/inform/rsgl",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "中山大学",
       "title": "人事服务（计划生育）工作",
       "url": "https://rsc.sysu.edu.cn/inform/rsfw",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "中山大学",
       "title": "人事档案工作",
       "url": "https://rsc.sysu.edu.cn/inform/rsda",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "中山大学",
-      "title": "人才招聘",
-      "url": "https://rcb.sysu.edu.cn",
+      "school": "暨南大学",
+      "title": "教职员",
+      "url": "https://www.jnu.edu.cn/2851/list.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "广东海洋大学",
-      "title": "通知公告",
-      "url": "https://rsc.gdou.edu.cn/tzgg.htm",
+      "school": "暨南大学",
+      "title": "高层次人才引进",
+      "url": "https://gccgl.jnu.edu.cn/jnuzpf/a/zp/base/Index",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "暨南大学",
+      "title": "博士后招聘",
+      "url": "https://hrdam.jnu.edu.cn/343/list.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "暨南大学",
+      "title": "行政教辅招聘",
+      "url": "https://zhaopin.jnu.edu.cn",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "汕头大学",
+      "title": "师资建设",
+      "url": "https://rsc.stu.edu.cn/Content.aspx?page_url=teachers",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "汕头大学",
+      "title": "关于印发《汕头大学公开招聘非事业编行政教辅人员办法》的通知（汕大发〔2025...",
+      "url": "https://rsc.stu.edu.cn/Detail.aspx?id=56d02d97-9de0-474d-9a1d-d6b544889a16",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "汕头大学",
+      "title": "关于印发《汕头大学教师师德失范行为处理办法》的通知（汕大党字〔2023〕3号...",
+      "url": "https://rsc.stu.edu.cn/Detail.aspx?id=21ff6360-730d-4153-b0cc-b02ebf40e22a",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "师资概况",
+      "url": "https://www.scau.edu.cn/1268/list.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "人才工作",
+      "url": "https://hr.scau.edu.cn/rcgz_15286/list.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "人事管理",
+      "url": "https://hr.scau.edu.cn/rsgl_15283/list.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "师资管理",
+      "url": "https://hr.scau.edu.cn/szgl_15284/list.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "博士后工作",
+      "url": "https://hr.scau.edu.cn/bshgz_15287/list.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "博士后网站",
+      "url": "https://hr.scau.edu.cn/pd/",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "博士后管理",
+      "url": "https://hr.scau.edu.cn/bshgl/list.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "人事服务",
+      "url": "https://hr.scau.edu.cn/rsk/list.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "广州市博士和博士后中...",
+      "url": "https://hr.scau.edu.cn/gzsbshbshzxkczbjjbtsqsh/list.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "职称师资",
+      "url": "https://hr.scau.edu.cn/zcszk/list.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "人才引育",
+      "url": "https://hr.scau.edu.cn/rcgzkwbshglbgsw/list.htm",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "人才服务",
+      "url": "https://hr.scau.edu.cn/19361/list.htm",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "人才培养",
+      "url": "https://hr.scau.edu.cn/19362/list.htm",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "人才成长",
+      "url": "https://hr.scau.edu.cn/19363/list.htm",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "人员招聘",
+      "url": "https://hr.scau.edu.cn/19369/list.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "人才工作",
+      "url": "https://hr.scau.edu.cn/rcgzkwbshglbgsw_15204/list.htm",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "人事工作",
+      "url": "https://hr.scau.edu.cn/rsk_15201/list.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "师资管理",
+      "url": "https://hr.scau.edu.cn/zcszk_15202/list.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "电子人事证明上线了！",
+      "url": "https://hr.scau.edu.cn/2025/0930/c7721a418470/page.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "华南农业大学2025年集中公开招聘高层次和急需紧缺人才直接业务考核通知",
+      "url": "https://hr.scau.edu.cn/2025/0714/c7721a413876/page.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "华南农业大学2025年集中公开招聘高层次和急需紧缺人才资格复审相关事项公告",
+      "url": "https://hr.scau.edu.cn/2025/0527/c7721a410004/page.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "华南农业大学关于2025年公开招聘辅导员笔试安排及有关事项的公告",
+      "url": "https://hr.scau.edu.cn/2025/0331/c7721a404167/page.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "华南农业大学2025年公开招聘辅导员公告｜百万英才汇南粤",
+      "url": "https://hr.scau.edu.cn/2025/0314/c7721a402354/page.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "华南农业大学2025年全职博士后招聘公告|百万英才汇南粤",
+      "url": "https://hr.scau.edu.cn/pd/2025/0318/c9921a402801/page.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "华南农业大学2025年人才引进招聘公告｜百万英才汇南粤",
+      "url": "https://hr.scau.edu.cn/2025/0317/c6122a402557/page.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "华南农业大学基地管理处合同制员工招聘公告",
+      "url": "https://hr.scau.edu.cn/2025/1217/c6122a424937/page.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "华南农业大学数信学院2025年招聘博士复试通知",
+      "url": "https://hr.scau.edu.cn/2025/1102/c6122a421116/page.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "华南农业大学2025年集中公开招聘高层次和急需紧缺人才资格复审公告（第二轮滚动招聘）",
+      "url": "https://hr.scau.edu.cn/2025/1019/c6122a419802/page.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "招聘系统",
+      "url": "https://zp.scau.edu.cn/",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "博士后之家",
+      "url": "https://hr.scau.edu.cn/pd/main.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南农业大学",
+      "title": "人事业务一站通",
+      "url": "https://hr.scau.edu.cn/2023/0403/c14870a341155/page.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东海洋大学",
       "title": "教师发展",
       "url": "https://jszyzx.gdou.edu.cn/",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东海洋大学",
       "title": "广东海洋大学2025年招聘教学岗合同制专…",
       "url": "https://rsc.gdou.edu.cn/info/1003/2322.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东海洋大学",
       "title": "广东海洋大学门诊部招聘合同制医护人员…",
       "url": "https://rsc.gdou.edu.cn/info/1003/2261.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东海洋大学",
       "title": "广东省事业单位2025年集中公开招聘高层…",
       "url": "https://rsc.gdou.edu.cn/info/1003/2112.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东海洋大学",
       "title": "人事调配",
       "url": "https://rsc.gdou.edu.cn/bszn/rsdp.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东医科大学",
+      "title": "新闻公告",
+      "url": "https://rsc.gdmu.edu.cn/xwgg/xwzx.htm",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东医科大学",
+      "title": "师资培训",
+      "url": "https://rsc.gdmu.edu.cn/szpx1/pxhd.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东医科大学",
+      "title": "博士后",
+      "url": "https://rsc.gdmu.edu.cn/bsh/gzzd.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东医科大学",
+      "title": "广东医科大学亮相“百万英才汇南粤”招聘会：...",
+      "url": "https://rsc.gdmu.edu.cn/info/1039/2042.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东医科大学",
+      "title": "广东医科大学2025年公开招聘事业编制工作人员...",
+      "url": "https://rsc.gdmu.edu.cn/info/1090/2132.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东医科大学",
+      "title": "百万英才汇南粤│广东医科大学2025年人才引进...",
+      "url": "https://rsc.gdmu.edu.cn/info/1090/2082.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东医科大学",
+      "title": "岑令平教授团队特聘研究员/博士后招聘启事",
+      "url": "https://rsc.gdmu.edu.cn/info/1090/1458.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东医科大学",
+      "title": "广东医科大学2024年公开招聘事业编制工作人员...",
+      "url": "https://rsc.gdmu.edu.cn/info/1090/1417.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东医科大学",
+      "title": "关于广东医科大学2024年公开招聘笔试准考证打...",
+      "url": "https://rsc.gdmu.edu.cn/info/1090/1407.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州中医药大学",
       "title": "人才引进",
       "url": "https://rsc.gzucm.edu.cn/rcyj.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州中医药大学",
       "title": "博士后工作",
       "url": "https://rsc.gzucm.edu.cn/bshgz.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广州中医药大学",
-      "title": "招聘信息",
-      "url": "https://rsc.gzucm.edu.cn/zpxx.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州中医药大学",
       "title": "广州中医药大学公开招聘马克...",
       "url": "https://rsc.gzucm.edu.cn/info/1003/2562.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "韶关学院",
-      "title": "招聘首页",
-      "url": "https://rsc.sgu.edu.cn/product/recruit/website/RecruitIndex.jsp?FM_SYS_ID=sgxy",
+      "school": "华南师范大学",
+      "title": "新闻公告",
+      "url": "http://rsc.scnu.edu.cn/xinwengonggao/",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "博士后之家",
+      "url": "http://pd.scnu.edu.cn/",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "人才项目",
+      "url": "http://rsc.scnu.edu.cn/banshizhinan/rencaixiangmu/",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "教学流动岗",
+      "url": "http://rsc.scnu.edu.cn/banshizhinan/jiaoxueliudonggang/",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "博士后管理",
+      "url": "http://rsc.scnu.edu.cn/banshizhinan/boshihouguanli/",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "教师资格证",
+      "url": "http://rsc.scnu.edu.cn/banshizhinan/jiaoshizigezheng/",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "高层次人才工作",
+      "url": "http://rsc.scnu.edu.cn/banshizhinan/gaocengci/",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "人才引进",
+      "url": "https://module.scnu.edu.cn/lists-7506-1-116.html",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "人才工程",
+      "url": "https://module.scnu.edu.cn/lists-7507-1-116.html",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "公开招聘",
+      "url": "https://module.scnu.edu.cn/lists-7508-1-116.html",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "博士后管理",
+      "url": "https://module.scnu.edu.cn/lists-7515-1-116.html",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "高层次人才工作",
+      "url": "https://module.scnu.edu.cn/lists-8215-1-116.html",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "人事调配",
+      "url": "http://rsc.scnu.edu.cn/xiazaizhuanqu/renshidiaopei/",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "师资培养",
+      "url": "http://rsc.scnu.edu.cn/xiazaizhuanqu/shizipeiyang/",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "人才项目",
+      "url": "http://rsc.scnu.edu.cn/xiazaizhuanqu/rencaixiangmu/",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "博士后管理",
+      "url": "http://rsc.scnu.edu.cn/xiazaizhuanqu/boshihouguanli/",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "高层次人才工作",
+      "url": "http://rsc.scnu.edu.cn/xiazaizhuanqu/gaocengci/",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "百万英才汇南粤｜华南师范大学西安站、长沙站、南京站招聘会即将启动！",
+      "url": "http://rsc.scnu.edu.cn/a/20250421/973.html",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "百万英才汇南粤｜华南师范大学北京、杭州、武汉招聘会即将启动！",
+      "url": "http://rsc.scnu.edu.cn/a/20250415/972.html",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "百万英才汇南粤｜华南师范大学北京站、上海站招聘会即将启动！",
+      "url": "http://rsc.scnu.edu.cn/a/20250410/969.html",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "百万英才汇南粤 | 华南师范大学2025年公开招聘工作人员公告",
+      "url": "http://rsc.scnu.edu.cn/a/20250317/967.html",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "华南师范大学2024年公开招聘工作人员公告",
+      "url": "http://rsc.scnu.edu.cn/a/20240401/920.html",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "关于推迟华南师范大学2022年公开招聘学生思想政治教育工作人员资格审查时间的通知",
+      "url": "http://rsc.scnu.edu.cn/a/20220321/797.html",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "人事调配",
+      "url": "http://rsc.scnu.edu.cn/yewufenlei/renshitiaopei/",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "师资建设",
+      "url": "http://rsc.scnu.edu.cn/yewufenlei/shizijianshe/",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "华南师范大学诚聘海内外优秀人才（长期有效）",
+      "url": "http://rsc.scnu.edu.cn/a/20241223/959.html",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "华南师范大学2026年公开招聘幼儿教师公告",
+      "url": "http://rsc.scnu.edu.cn/a/20260127/1006.html",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "华南师范大学2026年公开招聘教辅人员公告",
+      "url": "http://rsc.scnu.edu.cn/a/20260116/1005.html",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "华南师范大学环境学院非事业编制人员招聘启事",
+      "url": "http://rsc.scnu.edu.cn/a/20251224/1004.html",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "华南师范大学人才引进暂行办法",
+      "url": "https://module.scnu.edu.cn/",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "华南师范大学",
+      "title": "《华南师范大学教师公派出国研修管理办法（修订）》",
+      "url": "https://sso.scnu.edu.cn/AccountService/article/a_xxgw_88713_1.html",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "韶关学院",
       "title": "招聘公告",
       "url": "https://rsc.sgu.edu.cn/product/recruit/website/RecruitNoticeNew.jsp?FM_SYS_ID=sgxy",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "韶关学院",
       "title": "招聘岗位",
       "url": "https://rsc.sgu.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=sgxy",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "韶关学院",
       "title": "应聘指南",
       "url": "https://rsc.sgu.edu.cn/product/recruit/website/RecruitGuideNew.jsp?FM_SYS_ID=sgxy",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "韶关学院",
       "title": "人事处",
       "url": "http://www.sgu.edu.cn/rczpw/zpgg.htm?FM_SYS_ID=sgxy",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "惠州学院",
       "title": "人事概况",
       "url": "http://rsc.hzu.edu.cn/2017/0104/c166a3937/page.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "惠州学院",
       "title": "人事管理",
       "url": "https://rsc.hzu.edu.cn/rsgl_806/list.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "惠州学院",
       "title": "教师发展",
       "url": "https://rsc.hzu.edu.cn/jsfz_807/list.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "惠州学院",
-      "title": "通知公告",
-      "url": "https://rsc.hzu.edu.cn/tzgg/list.htm",
-      "type": "其他",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "惠州学院",
-      "title": "人才招聘",
-      "url": "http://rsc.hzu.edu.cn/180/list.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "惠州学院",
       "title": "招聘公告",
       "url": "https://rsc.hzu.edu.cn/180/list.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "惠州学院",
       "title": "2026年惠州学院诚邀海外优秀青年人才申报国家优青项目（海外...",
       "url": "https://rsc.hzu.edu.cn/2026/0126/c180a274602/page.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "惠州学院",
       "title": "惠州学院2026年专任教师招聘预告",
       "url": "https://rsc.hzu.edu.cn/2026/0126/c180a274594/page.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "惠州学院",
       "title": "惠州学院2025年下半年高层次人才招聘简...",
       "url": "https://rsc.hzu.edu.cn/2025/1205/c180a273103/page.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "惠州学院",
       "title": "惠州学院2025年集中公开招聘高层次人才...",
       "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/rygs/content/post_4808154.html",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "惠州学院",
       "title": "广东省事业单位2025年集中公开招聘高层...",
       "url": "https://rsc.hzu.edu.cn/2025/1126/c180a272638/page.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "惠州学院",
       "title": "关于广东省事业单位2025年集中公开招聘...",
       "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/content/post_4796943.html",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "惠州学院",
       "title": "惠州学院2025年公开招聘硕士专任教师、...",
       "url": "https://rsc.hzu.edu.cn/2025/1106/c180a271829/page.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "惠州学院",
       "title": "2025年惠州学院公开招聘行政教辅人员（...",
       "url": "https://rsc.hzu.edu.cn/2025/1015/c180a270796/page.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "惠州学院",
       "title": "惠州学院2025年公开招聘行政教辅人员（...",
       "url": "https://rsc.hzu.edu.cn/2025/0930/c180a270596/page.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "惠州学院",
       "title": "惠州学院召开人才工作会议",
       "url": "https://rsc.hzu.edu.cn/2023/0625/c194a242565/page.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "惠州学院",
       "title": "党委教师工作部、人事处：赴南方科技大学访学教师欢迎会",
       "url": "https://rsc.hzu.edu.cn/2023/0331/c194a237155/page.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "惠州学院",
       "title": "惠州学院外聘教师审批表",
       "url": "https://rsc.hzu.edu.cn/2025/0909/c162a269825/page.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "惠州学院",
       "title": "查（借）阅干部人事档案审批表",
       "url": "https://rsc.hzu.edu.cn/2013/1213/c162a4312/page.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "惠州学院",
       "title": "惠州学院教师挂职锻炼相关表格",
       "url": "https://rsc.hzu.edu.cn/2017/0605/c162a47705/page.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "惠州学院",
       "title": "惠州学院教师进修协议书",
       "url": "https://rsc.hzu.edu.cn/2017/0616/c162a48048/page.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "惠州学院",
       "title": "关于开展2022年“双师双能型”教师 资格认定工作的通知     ...",
       "url": "https://rsc.hzu.edu.cn/2022/0322/c195a222657/page.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "惠州学院",
       "title": "我校召开2021年优秀教师代表慰问座谈会",
       "url": "https://rsc.hzu.edu.cn/2022/0322/c195a222738/page.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "惠州学院",
       "title": "关于选派我校中青年教师赴南方科技大学进修访学的通知",
       "url": "https://rsc.hzu.edu.cn/2019/0911/c195a184280/page.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "肇庆学院",
-      "title": "人才招聘",
-      "url": "https://rsc.zqu.edu.cn/rczp.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "肇庆学院",
       "title": "专任教师招聘",
       "url": "https://rsc.zqu.edu.cn/rczp/zrjszp.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "肇庆学院",
       "title": "非专任教师招聘",
       "url": "https://rsc.zqu.edu.cn/rczp/fzrjszp.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "肇庆学院",
       "title": "新闻公告",
       "url": "https://rsc.zqu.edu.cn/xwgg.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "肇庆学院",
       "title": "肇庆学院招聘校卫队员启事",
       "url": "https://rsc.zqu.edu.cn/info/2452/3181.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "肇庆学院",
       "title": "肇庆学院公开招聘二级学院院长公告",
       "url": "https://rsc.zqu.edu.cn/info/2452/2941.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "肇庆学院",
       "title": "肇庆学院公开选聘托管学校校长的公告",
       "url": "https://rsc.zqu.edu.cn/info/2452/2951.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "肇庆学院",
       "title": "百万英才汇南粤丨肇庆学院赴成都参加人才专场招聘会",
       "url": "https://rsc.zqu.edu.cn/info/2452/2961.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "肇庆学院",
       "title": "肇庆学院2025年公开招聘教学科研人员、工作人员招聘会议评审考核工作安排公告",
       "url": "https://rsc.zqu.edu.cn/info/2602/3191.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "肇庆学院",
       "title": "肇庆学院2025年公开招聘教学科研人员、工作人员资格复审公告",
       "url": "https://rsc.zqu.edu.cn/info/2602/3161.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "肇庆学院",
       "title": "肇庆学院2026年教学科研人员招聘公告",
       "url": "https://rsc.zqu.edu.cn/info/2602/3151.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "肇庆学院",
       "title": "肇庆学院2025年公开招聘二级学院院长公告",
       "url": "https://rsc.zqu.edu.cn/info/2602/3141.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "肇庆学院",
       "title": "广东省事业单位2025年集中公开招聘高层次和急需紧缺人才（肇庆学院）第二轮滚动招聘会议评审考核工作安排公告",
       "url": "https://rsc.zqu.edu.cn/info/2602/3061.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "肇庆学院",
       "title": "肇庆学院雅思四科技能课程教师招聘启事",
       "url": "https://rsc.zqu.edu.cn/info/2612/3201.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "肇庆学院",
       "title": "肇庆学院2025年12月科研助理招聘启事",
       "url": "https://rsc.zqu.edu.cn/info/2612/3091.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "肇庆学院",
       "title": "肇庆学院2025年下半年管理教辅人员招聘面试相关事项公告",
       "url": "https://rsc.zqu.edu.cn/info/2612/3081.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "肇庆学院",
       "title": "肇庆学院2025年下半年管理教辅人员招聘考试安排公告",
       "url": "https://rsc.zqu.edu.cn/info/2612/3071.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "肇庆学院",
       "title": "【人事管理】005-组织机构设置与调整流程",
       "url": "https://rsc.zqu.edu.cn/info/2552/1861.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "肇庆学院",
       "title": "【人事管理】004-人才引进、员工聘用流程",
       "url": "https://rsc.zqu.edu.cn/info/2552/1851.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "肇庆学院",
       "title": "【人事管理】003-工资薪金发放流程",
       "url": "https://rsc.zqu.edu.cn/info/2552/1841.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "肇庆学院",
       "title": "广东省人事考试局",
       "url": "http://www.gdkszx.com.cn/",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "肇庆学院",
       "title": "肇庆市人事考试中心信息网",
       "url": "http://zq.gdkszx.com.cn/",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "肇庆学院",
       "title": "人事人才培训教育网上报名系统",
       "url": "http://zqrsj.gaoyao.gd.cn/",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "广州美术学院",
-      "title": "人才招聘",
-      "url": "https://rsc.gzarts.edu.cn/tzgg/rczp.htm",
+      "school": "广州体育学院",
+      "title": "广州体育学院公开招聘网",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "广州美术学院",
-      "title": "通知公告",
-      "url": "https://rsc.gzarts.edu.cn/tzgg.htm",
+      "school": "广州体育学院",
+      "title": "招聘公告",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/job",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "广州体育学院2026年第一批公开招聘非事业编制工作人员公告",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=42",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "广东省事业单位2026年集中公开招聘高校毕业生公告（广州体育学院）",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=41",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "2025年广州体育学院第五批公开招聘非编合同工",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=40",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "关于广东省事业单位2025年集中公开招聘高层次和急需紧缺人才第三轮招聘有关事项的公告",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=39",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "2025年广州体育学院第四批公开招聘非编合同工",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=38",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "广州体育学院2025年第二批公开招聘事业单位工作人员公告",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=37",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "广州体育学院2025年第一批公开招聘事业单位工作人员公告",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=36",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "广州体育学院2024年第一批公开招聘事业编制人员公告",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=24",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "运动医学康复中心2024年第一批公开招聘医护人员公告",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=23",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "广州体育学院2023年第二批公开招聘辅导员公告",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=21",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "广州体育学院2022年第二批公开招聘事业编制人员公告",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=15",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "广州体育学院2022年第一批公开招聘事业编制人员公告",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/job?project_id=11",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "广州体育学院2026年第一批公开招聘非事业编制工作人员公告",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/job?id=108",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "广东省事业单位2026年集中公开招聘高校毕业生公告（广州体育学院）",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/job?id=107",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "2025年广州体育学院第五批公开招聘非编合同工公告",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/job?id=100",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "关于广东省事业单位2025年集中公开招聘高层次和急需紧缺人才第三轮招聘有关事项的公告",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/job?id=99",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "2025年广州体育学院第四批公开招聘非编合同工公告",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/job?id=95",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "广州体育学院2025年集中公开招聘高层次和急需紧缺人才第三轮滚动招聘拟聘用人员公示",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/employ?id=106",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "广州体育学院2025年集中公开招聘高层次和急需紧缺人才拟聘用人员公示",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/employ?id=77",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "广州体育学院2025年集中公开招聘高校毕业生拟聘人员名单公示",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/employ?id=74",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "2024年广州体育学院高层次、急需紧缺人才拟聘人员公示（五）",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/employ?id=58",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "2024年广州体育学院高层次、急需紧缺人才拟聘人员公示（四）",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/employ?id=57",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "广东省事业单位2025年集中公开招聘高层次和急需紧缺人才第三轮滚动招聘面试成绩及入围体检人员名单公告（广州体育学院）",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/notice?id=105",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "广东省事业单位2025年集中公开招聘高层次和急需紧缺人才第三轮滚动招聘面试公告",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/notice?id=104",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "2025年广东省事业单位集中公开招聘 高层次和急需紧缺人才第三轮滚动招聘资格复审公告（广州体育学院）",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/notice?id=103",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "广东省事业单位2025年集中公开招聘高层次和急需紧缺人才入围体检人员名单公告（广州体育学院）",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/notice?id=76",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州体育学院",
+      "title": "广东省事业单位2025年集中公开招聘高层次和急需紧缺人才面试成绩公告（广州体育学院）",
+      "url": "https://zp.gzsport.edu.cn/zhaopin/notice?id=75",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州美术学院",
       "title": "人事处2015年寒假值班安排",
       "url": "https://rsc.gzarts.edu.cn/info/1071/1329.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州美术学院",
       "title": "2014年公开招聘",
       "url": "https://rsc.gzarts.edu.cn/info/1071/1330.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州美术学院",
       "title": "关于做好2021年中青年教师国内访问学者工作的通知",
       "url": "https://rsc.gzarts.edu.cn/info/1009/2335.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州美术学院",
       "title": "关于做好2020年中青年教师国内访问学者工作的通知",
       "url": "https://rsc.gzarts.edu.cn/info/1009/2126.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州美术学院",
       "title": "关于组织我校博士教师申报2020年广东省高校优秀青年科研人才...",
       "url": "https://rsc.gzarts.edu.cn/info/1009/2117.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州美术学院",
       "title": "关于做好2020年艺术类人才培养特别项目实施工作的通知",
       "url": "https://rsc.gzarts.edu.cn/info/1009/2114.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州美术学院",
       "title": "人事调配",
       "url": "https://rsc.gzarts.edu.cn/tzgg/rsdp.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州美术学院",
       "title": "师资建设",
       "url": "https://rsc.gzarts.edu.cn/tzgg/szjs.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州美术学院",
       "title": "教师资格",
       "url": "https://rsc.gzarts.edu.cn/tzgg/jszg.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州美术学院",
       "title": "非编招聘",
       "url": "https://rsc.gzarts.edu.cn/fbzp.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州美术学院",
       "title": "人事调配",
       "url": "https://rsc.gzarts.edu.cn/gzzd/rsdp.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州美术学院",
       "title": "师资建设",
       "url": "https://rsc.gzarts.edu.cn/gzzd/szjs.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州美术学院",
       "title": "教师资格",
       "url": "https://rsc.gzarts.edu.cn/gzzd/jszg.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州美术学院",
       "title": "人事调配",
       "url": "https://rsc.gzarts.edu.cn/bscx/rsdp.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州美术学院",
       "title": "师资建设",
       "url": "https://rsc.gzarts.edu.cn/bscx/szjs.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州美术学院",
       "title": "教师资格",
       "url": "https://rsc.gzarts.edu.cn/bscx/jszg.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州美术学院",
       "title": "人事调配",
       "url": "https://rsc.gzarts.edu.cn/xzzx/rsdp.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州美术学院",
       "title": "师资建设",
       "url": "https://rsc.gzarts.edu.cn/xzzx/szjs.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州美术学院",
       "title": "教师资格",
       "url": "https://rsc.gzarts.edu.cn/xzzx/jszg.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "星海音乐学院",
-      "title": "人事调配",
-      "url": "https://rsc.xhcom.edu.cn/rsdp.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "星海音乐学院",
-      "title": "师资队伍",
-      "url": "https://rsc.xhcom.edu.cn/szdw.htm",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "星海音乐学院",
-      "title": "师资情况",
-      "url": "https://rsc.xhcom.edu.cn/szdw/szqk.htm",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "星海音乐学院",
-      "title": "人才招聘",
-      "url": "https://rsc.xhcom.edu.cn/rczp.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "星海音乐学院",
-      "title": "关于开展2025年教师思想政治素质和师德...",
-      "url": "https://rsc.xhcom.edu.cn/info/1066/1825.htm",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "星海音乐学院",
-      "title": "关于开展2025年高等学校教师岗前培训工...",
-      "url": "https://rsc.xhcom.edu.cn/info/1066/1797.htm",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "星海音乐学院",
-      "title": "关于组织办理2024年高等学校教师资格证...",
-      "url": "https://rsc.xhcom.edu.cn/info/1066/1813.htm",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "星海音乐学院",
-      "title": "[09-12]学校举行第41个教师节座谈暨表彰大会",
-      "url": "https://mp.weixin.qq.com/s/0rtr9_hA-xTE9qL4TXN5iA",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "星海音乐学院",
-      "title": "星海音乐学院2025年第二批人才招聘拟聘用人员公示",
-      "url": "https://rsc.xhcom.edu.cn/info/1057/1863.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "星海音乐学院",
-      "title": "01/18关于公布星海音乐学院2025年第三批公开招聘专职辅导员岗位笔试成绩及相关安排的通知",
-      "url": "https://rsc.xhcom.edu.cn/info/1057/1862.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "星海音乐学院",
-      "title": "01/14星海音乐学院2026年公开招聘后勤综合服务岗工作人员公告",
-      "url": "https://rsc.xhcom.edu.cn/info/1057/1860.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "星海音乐学院",
-      "title": "11/03星海音乐学院2025年后勤基建岗位公开招聘拟聘人员公示",
-      "url": "https://rsc.xhcom.edu.cn/info/1057/1842.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "星海音乐学院",
-      "title": "09/02星海音乐学院2025年第二批公开招聘工作人员公告",
-      "url": "https://rsc.xhcom.edu.cn/info/1057/1837.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "星海音乐学院",
-      "title": "08/10星海音乐学院附属中等音乐学校2025年公开招聘工作人员拟聘用人员公示",
-      "url": "https://rsc.xhcom.edu.cn/info/1057/1836.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "title": "立即应聘",
+      "url": "https://zp.xhcom.edu.cn/post",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东技术师范大学",
       "title": "南昌师范学院人事处来我校调研交流(2026/01/04)",
-      "url": "https://rsc.gpnu.edu.cn/info/1043/5100.htm",
+      "url": "http://rsc.gpnu.edu.cn/info/1043/5100.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东技术师范大学",
       "title": "学校在河源校区开展教师国情研修活动(2025/12/30)",
-      "url": "https://rsc.gpnu.edu.cn/info/1043/5098.htm",
+      "url": "http://rsc.gpnu.edu.cn/info/1043/5098.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东技术师范大学",
       "title": "蔡君副校长率队开展教师国情研修活动(2025/12/09)",
-      "url": "https://rsc.gpnu.edu.cn/info/1043/5089.htm",
+      "url": "http://rsc.gpnu.edu.cn/info/1043/5089.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东技术师范大学",
       "title": "岭南师范学院人事处来校调研交流(2025/12/04)",
-      "url": "https://rsc.gpnu.edu.cn/info/1043/5079.htm",
+      "url": "http://rsc.gpnu.edu.cn/info/1043/5079.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东技术师范大学",
       "title": "人事处赴广东外语外贸大学开展人事人才工作交流(2025/10/24)",
-      "url": "https://rsc.gpnu.edu.cn/info/1043/5050.htm",
+      "url": "http://rsc.gpnu.edu.cn/info/1043/5050.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东技术师范大学",
       "title": "党委教师工作部部长许竹君率队到暨南大学交流学习(2025/10/17)",
-      "url": "https://rsc.gpnu.edu.cn/info/1043/5046.htm",
+      "url": "http://rsc.gpnu.edu.cn/info/1043/5046.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东技术师范大学",
       "title": "学校举办2025年庆祝教师节大会(2025/09/11)",
-      "url": "https://rsc.gpnu.edu.cn/info/1043/4996.htm",
+      "url": "http://rsc.gpnu.edu.cn/info/1043/4996.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东技术师范大学",
       "title": "广东技术师范大学2025年面向全球招聘二级学院院长公告(2025/10/21)",
-      "url": "https://rsc.gpnu.edu.cn/info/1044/5049.htm",
+      "url": "http://rsc.gpnu.edu.cn/info/1044/5049.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东技术师范大学",
       "title": "广东技术师范大学2025年诚聘海内外优秀人才公告|百万英...(2025/02/13)",
-      "url": "https://rsc.gpnu.edu.cn/info/1044/4857.htm",
+      "url": "http://rsc.gpnu.edu.cn/info/1044/4857.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东技术师范大学",
       "title": "广东技术师范大学退役军人教育发展研究院专任教师招聘公告(2026/01/23)",
-      "url": "https://rsc.gpnu.edu.cn/info/1044/5116.htm",
+      "url": "http://rsc.gpnu.edu.cn/info/1044/5116.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东技术师范大学",
       "title": "广东技术师范大学2025年集中公开招聘高层次和急需紧缺...(2025/12/01)",
-      "url": "https://rsc.gpnu.edu.cn/info/1044/5076.htm",
+      "url": "http://rsc.gpnu.edu.cn/info/1044/5076.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东技术师范大学",
       "title": "广东技术师范大学2025年公开招聘高层次和急需紧缺人才...(2025/10/16)",
-      "url": "https://rsc.gpnu.edu.cn/info/1044/5039.htm",
+      "url": "http://rsc.gpnu.edu.cn/info/1044/5039.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东技术师范大学",
       "title": "广东技术师范大学2025年公开招聘高层次和急需紧缺人才...(2025/09/15)",
-      "url": "https://rsc.gpnu.edu.cn/info/1044/5007.htm",
+      "url": "http://rsc.gpnu.edu.cn/info/1044/5007.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东技术师范大学",
       "title": "关于校内招聘离退休工作处工作人员启事(2026/01/07)",
-      "url": "https://rsc.gpnu.edu.cn/info/1045/5101.htm",
+      "url": "http://rsc.gpnu.edu.cn/info/1045/5101.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东技术师范大学",
       "title": "关于开展学校2025年教师国情研修第二场活动的通知(2025/12/18)",
-      "url": "https://rsc.gpnu.edu.cn/info/1045/5094.htm",
+      "url": "http://rsc.gpnu.edu.cn/info/1045/5094.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东技术师范大学",
       "title": "关于做好2022年下半年和2023年引进人才期中考核的通知(2025/12/16)",
-      "url": "https://rsc.gpnu.edu.cn/info/1045/5093.htm",
+      "url": "http://rsc.gpnu.edu.cn/info/1045/5093.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东技术师范大学",
       "title": "关于选派教师带队赴西藏、新疆支教的通知(2025/12/11)",
-      "url": "https://rsc.gpnu.edu.cn/info/1045/5092.htm",
+      "url": "http://rsc.gpnu.edu.cn/info/1045/5092.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东技术师范大学",
       "title": "关于公布学校2025年教师国情研修第一场活动参训教师名单的通知(2025/12/04)",
-      "url": "https://rsc.gpnu.edu.cn/info/1045/5086.htm",
+      "url": "http://rsc.gpnu.edu.cn/info/1045/5086.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东技术师范大学",
       "title": "2025年“双师双能型”教师认定通过人员结果公示(2026/01/19)",
-      "url": "https://rsc.gpnu.edu.cn/info/1046/5106.htm",
+      "url": "http://rsc.gpnu.edu.cn/info/1046/5106.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东技术师范大学",
       "title": "广东技术师范大学2025年拟引进人才名单公示（三十...(2025/12/09)",
-      "url": "https://rsc.gpnu.edu.cn/info/1046/5091.htm",
+      "url": "http://rsc.gpnu.edu.cn/info/1046/5091.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东技术师范大学",
       "title": "广东技术师范大学2025年拟引进人才名单公示（三十...(2025/12/05)",
-      "url": "https://rsc.gpnu.edu.cn/info/1046/5088.htm",
+      "url": "http://rsc.gpnu.edu.cn/info/1046/5088.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "深圳大学",
-      "title": "人才",
-      "url": "https://hr.szu.edu.cn/rc.htm",
-      "type": "其他",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "深圳大学",
-      "title": "人才招聘",
-      "url": "https://hr.szu.edu.cn/rczp1.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "博士后",
       "url": "https://hr.szu.edu.cn/bsh.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "深圳大学教师招聘公告",
       "url": "https://hr.szu.edu.cn/info/1139/7553.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "深圳大学博士后招聘公告",
       "url": "https://hr.szu.edu.cn/info/1024/7266.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "深圳大学海外博士后招聘公告",
       "url": "https://hr.szu.edu.cn/info/1024/7193.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "深圳大学“百人计划”教师招聘公告",
       "url": "https://hr.szu.edu.cn/info/1139/7217.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "深圳大学公开招聘金融科技学院院长公告",
       "url": "https://hr.szu.edu.cn/info/1138/7216.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "深圳大学思想政治理论课教师招聘公告（长期招聘）",
       "url": "https://hr.szu.edu.cn/info/1139/6023.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "深圳大学艺术学部赵璐特聘教授团队博士后招聘",
       "url": "https://hr.szu.edu.cn/info/1024/9740.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "深圳大学高等研究院王晨课题组博士后招聘",
       "url": "https://hr.szu.edu.cn/info/1024/9730.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "深圳大学金融科技学院博士后招聘简章",
       "url": "https://hr.szu.edu.cn/info/1024/9720.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "深圳大学",
-      "title": "通知公告",
-      "url": "https://hr.szu.edu.cn/rczp.jsp?urltype=tree.TreeTempUrl&wbtreeid=1030",
-      "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "关于2024年度马克思主义理论专业教师系列职称评聘...",
       "url": "https://www1.szu.edu.cn/board/view.asp?id=566403",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "关于2025年国家重大人才工程建议人选名单的公示",
       "url": "https://www1.szu.edu.cn/board/view.asp?id=566285",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "2024年度教师（不含教学为主型）及实验技术系列职...",
       "url": "https://www1.szu.edu.cn/board/view.asp?id=566149",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "2025年预聘-长聘制教师岗位晋升各学科评议组建议名单及...",
       "url": "https://www1.szu.edu.cn/board/view.asp?id=565914",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "2024年度马克思主义理论专业教师系列职称评聘申报材料...",
       "url": "https://www1.szu.edu.cn/board/view.asp?id=565614",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "关于协助深圳职业技术大学完善招聘面试考官库的通知",
       "url": "https://www1.szu.edu.cn/board/view.asp?id=565603",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "招聘入口",
       "url": "http://zp.szu.edu.cn",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "深圳市出站博士后留（来）深生活补助",
       "url": "https://hr.szu.edu.cn/info/1019/8041.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "深圳市新引进博士人才生活补贴",
       "url": "https://hr.szu.edu.cn/info/1019/6710.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "教师参加国际学术会议资助申请",
       "url": "https://hr.szu.edu.cn/info/1020/1127.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "教师公派出国（含留学基金）学术访问基本流程",
       "url": "https://hr.szu.edu.cn/info/1020/1123.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "教师资格认定",
       "url": "https://hr.szu.edu.cn/info/1020/1103.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "高端人才退税申报",
       "url": "https://hr.szu.edu.cn/info/1021/1119.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "新引进高端人才科研启动经费申报",
       "url": "https://hr.szu.edu.cn/info/1021/1118.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "海外高层次人才认定申报",
       "url": "https://hr.szu.edu.cn/info/1021/1116.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "深圳市海外高层次人才评审申报",
       "url": "https://hr.szu.edu.cn/info/1021/1114.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "高层次人才奖励补贴申请",
       "url": "https://hr.szu.edu.cn/info/1021/1113.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "深圳市高层次人才评估办理",
       "url": "https://hr.szu.edu.cn/info/1021/1109.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳大学",
       "title": "深圳市高层次人才学术研修津贴申请",
       "url": "https://hr.szu.edu.cn/info/1021/1106.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "人事管理科",
       "url": "https://rsc.gdufe.edu.cn/rsglk/list.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "高层次人才管理与服务办公室",
       "url": "https://rsc.gdufe.edu.cn/gccrcglyfwbgs/list.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "教师工作科（教师发展中心办公室...",
       "url": "https://rsc.gdufe.edu.cn/jsgzkwjsfzzxbgsw/list.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东财经大学",
-      "title": "师资队伍",
-      "url": "https://rsc.gdufe.edu.cn/szdw/list.htm",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "教师资格",
       "url": "https://rsc.gdufe.edu.cn/jszg/list.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东财经大学",
-      "title": "人才招聘",
-      "url": "https://rsc.gdufe.edu.cn/7198/list.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "人事调配",
       "url": "https://rsc.gdufe.edu.cn/7227/list.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "师资培养",
       "url": "https://rsc.gdufe.edu.cn/7228/list.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "高层次人才管理与服务",
       "url": "https://rsc.gdufe.edu.cn/7229/list.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "博士后站",
       "url": "https://rsc.gdufe.edu.cn/7232/list.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "博士后",
       "url": "https://rsc.gdufe.edu.cn/4710/list.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "博士后招聘",
       "url": "https://rsc.gdufe.edu.cn/bshzp/list.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "教师发展中心",
       "url": "https://rsc.gdufe.edu.cn/jsfzzx/list.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东财经大学",
-      "title": "通知公告",
-      "url": "https://rsc.gdufe.edu.cn/tzgg/list.htm",
-      "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "广东财经大学教师在线学习中心",
       "url": "https://www.enetedu.com/",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "人事调配",
       "url": "https://rsc.gdufe.edu.cn/7217/list.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "师资培养",
       "url": "https://rsc.gdufe.edu.cn/7218/list.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "博士后工作",
       "url": "https://rsc.gdufe.edu.cn/7221/list.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "广东财经大学2025年集中公开招聘高...",
       "url": "https://rsc.gdufe.edu.cn/2025/1225/c7208a232300/page.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "2025年第二次公开招聘合同制工作人...",
       "url": "https://rsc.gdufe.edu.cn/2025/1223/c7208a232186/page.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "广东财经大学2025年集中公开招聘高...",
       "url": "https://rsc.gdufe.edu.cn/2025/1201/c7208a231125/page.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "广东财经大学2025年集中公开招聘高...",
       "url": "https://rsc.gdufe.edu.cn/2025/1014/c7208a228582/page.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "2025年公开招聘合同制工作人员（体...",
       "url": "https://rsc.gdufe.edu.cn/2025/1013/c7208a228497/page.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "广东财经大学2025年集中公开招聘高...",
       "url": "https://rsc.gdufe.edu.cn/2025/1013/c7208a228458/page.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "广东财经大学2025年集中公开招聘高...",
       "url": "https://rsc.gdufe.edu.cn/2025/0915/c7208a226242/page.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "广东财经大学2025年集中公开招聘高...",
       "url": "https://rsc.gdufe.edu.cn/2025/0618/c7208a222499/page.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "人力资源部组织开展人事人才工作...",
       "url": "https://rsc.gdufe.edu.cn/2026/0128/c7920a233220/page.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "学校召开《高层次人才引进与管理...",
       "url": "https://rsc.gdufe.edu.cn/2025/1223/c7920a232176/page.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "人力资源部召开本科教育教学审核...",
       "url": "https://rsc.gdufe.edu.cn/2025/0913/c7920a225821/page.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "广东财经大学招聘“数智时代税收...",
       "url": "https://rsc.gdufe.edu.cn/2025/0410/c7920a218181/page.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "广东财经大学招聘共建“一带一路”研究方向...",
       "url": "https://rsc.gdufe.edu.cn/2025/0326/c7920a217517/page.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "2025年第二次公开招聘合同制工作...",
       "url": "https://rsc.gdufe.edu.cn/2025/1223/c7198a232186/page.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "广东财经大学2025年集中公开招聘...",
       "url": "https://rsc.gdufe.edu.cn/2025/1201/c7198a231125/page.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "2025年公开招聘合同制工作人员（...",
       "url": "https://rsc.gdufe.edu.cn/2025/1013/c7198a228497/page.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "广东财经大学2025年集中公开招聘...",
       "url": "https://rsc.gdufe.edu.cn/2025/0915/c7198a226242/page.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "广东财经大学2025年集中公开招聘...",
       "url": "https://rsc.gdufe.edu.cn/2025/0618/c7198a222499/page.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "广东财经大学2025年集中公开招聘高层次和急...",
       "url": "https://rsc.gdufe.edu.cn/2025/0530/c7198a221380/page.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "我校教师进博士后站工作程序",
       "url": "https://rsc.gdufe.edu.cn/2021/0907/c7197a134761/page.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "我校博士后科研工作站招收博士后程...",
       "url": "https://rsc.gdufe.edu.cn/2021/0907/c7197a134759/page.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "外聘教师聘任和审批工作程序",
       "url": "https://rsc.gdufe.edu.cn/2021/0907/c7197a134758/page.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "广东财经大学博士后合作导师申请表",
       "url": "https://rsc.gdufe.edu.cn/2026/0106/c7200a232682/page.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "广东财经大学外聘教师审批表",
       "url": "https://rsc.gdufe.edu.cn/2026/0106/c7200a232681/page.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东财经大学",
       "title": "广东省人事考试局",
       "url": "http://rsks.gd.gov.cn/",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东白云学院",
+      "title": "管理岗",
+      "url": "https://rlzy.baiyunu.edu.cn/rczp/glg.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东白云学院",
+      "title": "教师培养",
+      "url": "https://rlzy.baiyunu.edu.cn/zczd/jspy.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东白云学院",
+      "title": "人事类",
+      "url": "https://rlzy.baiyunu.edu.cn/fwzn/rsl.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东白云学院",
+      "title": "师资类",
+      "url": "https://rlzy.baiyunu.edu.cn/fwzn/szl.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东白云学院",
+      "title": "教师培养",
+      "url": "https://rlzy.baiyunu.edu.cn/zzzx/jspy.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东白云学院",
+      "title": "广东白云学院电气与信息工程学院诚聘专任教师招聘公告",
+      "url": "https://rlzy.baiyunu.edu.cn/info/1894/4448.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东白云学院",
+      "title": "广东白云学院学科带头人招聘公告",
+      "url": "https://rlzy.baiyunu.edu.cn/info/1894/4348.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东白云学院",
+      "title": "广东白云学院副校长招聘公告",
+      "url": "https://rlzy.baiyunu.edu.cn/info/1894/3048.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东白云学院",
+      "title": "广东白云学院院校研究中心招聘公告",
+      "url": "https://rlzy.baiyunu.edu.cn/info/1894/3058.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东白云学院",
+      "title": "百万英才汇南粤广东白云学院优秀博士招聘公告",
+      "url": "https://rlzy.baiyunu.edu.cn/info/1894/3018.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东白云学院",
+      "title": "广东白云学院银龄教师招聘计划",
+      "url": "https://rlzy.baiyunu.edu.cn/info/1894/3028.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东白云学院",
+      "title": "关于庆祝第41个教师节暨表彰先进大会的通知",
+      "url": "https://rlzy.baiyunu.edu.cn/info/1534/4868.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东白云学院",
+      "title": "学校召开人事工作会议：引进“双高”人才，构建四位一体人才发展生态",
+      "url": "https://rlzy.baiyunu.edu.cn/info/1924/4978.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东白云学院",
+      "title": "人事处（党委教师工作部）召开学习贯彻党的二十届四中全会精神学习宣讲会",
+      "url": "https://rlzy.baiyunu.edu.cn/info/1924/4968.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东白云学院",
+      "title": "铸魂强师守初心 筑梦强国担使命！我校隆重举行庆祝第41个教师节暨表彰先进大会",
+      "url": "https://rlzy.baiyunu.edu.cn/info/1924/4468.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东白云学院",
+      "title": "【献礼教师节·名师风采】南粤优秀教师，我校新增三人！",
+      "url": "https://rlzy.baiyunu.edu.cn/info/1924/4478.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东白云学院",
+      "title": "金蝶EAS人事管理系统",
+      "url": "https://isec.educationgroup.cn",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东白云学院",
+      "title": "广东省人事考试局",
+      "url": "http://rsks.gd.gov.cn/",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东白云学院",
+      "title": "广东省教师继续教育管理信息系统",
+      "url": "https://jsglpt.gdedu.gov.cn/login.jsp",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州航海学院",
       "title": "新闻公告",
       "url": "https://rsc.gzmtu.edu.cn/xwgg.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广州航海学院",
-      "title": "人才招聘",
-      "url": "https://rsc.gzmtu.edu.cn/rczp.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广州航海学院",
-      "title": "师资队伍",
-      "url": "https://rsc.gzmtu.edu.cn/szdw/szgk.htm",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州航海学院",
       "title": "人事处职责",
       "url": "https://rsc.gzmtu.edu.cn/bmgk/rsczz.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广州航海学院",
-      "title": "通知公告",
-      "url": "https://rsc.gzmtu.edu.cn/zcpp/tzgg1.htm",
-      "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州航海学院",
       "title": "广州航海学院举办新进教师岗前教育培训",
       "url": "https://rsc.gzmtu.edu.cn/info/1026/1922.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州航海学院",
       "title": "弘扬教育家精神——广州航海学院召开庆祝第40个教师节教师代表座谈会",
       "url": "https://rsc.gzmtu.edu.cn/info/1026/1836.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州航海学院",
       "title": "应用信息技术  赋能英语教学 --广州航海学院赴开平市开展基础教育帮扶培训活动",
       "url": "https://rsc.gzmtu.edu.cn/info/1026/1824.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州航海学院",
       "title": "广东省人力资源和社会保障厅 广东省教育厅 广东省科学技术厅关于印发《广东省深化实验技术人才职称制度改革的实施方案》的通知",
       "url": "https://rsc.gzmtu.edu.cn/info/1049/1818.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州航海学院",
       "title": "新时代高等学校思想政治理论课教师队伍建设规定",
       "url": "https://rsc.gzmtu.edu.cn/info/1048/1815.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州航海学院",
       "title": "广州航海学院关于2024年公开招聘专职教 ...",
       "url": "https://rsc.gzmtu.edu.cn/info/1003/1798.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州航海学院",
       "title": "广州航海学院2023年第二次公开招聘非事 ...",
       "url": "https://rsc.gzmtu.edu.cn/info/1003/1731.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州航海学院",
       "title": "2025年公开招聘B岗工作人员拟聘人员公示",
       "url": "https://rsc.gzmtu.edu.cn/info/1003/2003.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "仲恺农业工程学院",
-      "title": "人力资源部（教师工作部）",
-      "url": "https://rsc.zhku.edu.cn/index.htm",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "仲恺农业工程学院",
-      "title": "教师工作部",
-      "url": "https://rsc.zhku.edu.cn/jsgzb.htm",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "仲恺农业工程学院",
-      "title": "通知公告",
-      "url": "https://rsc.zhku.edu.cn/tzgg.htm",
+      "school": "五邑大学",
+      "title": "公示公告",
+      "url": "https://www.wyu.edu.cn/hr/tzgg/gsgg.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "仲恺农业工程学院",
-      "title": "人才招聘",
-      "url": "https://rsc.zhku.edu.cn/rczp.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "仲恺农业工程学院",
-      "title": "博士后工作站",
-      "url": "https://rsc.zhku.edu.cn/bshgzz.htm",
+      "school": "五邑大学",
+      "title": "博士生导师",
+      "url": "https://www.wyu.edu.cn/hr/sz/bssds.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "仲恺农业工程学院",
-      "title": "人事动态",
-      "url": "https://rsc.zhku.edu.cn/rsdt.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "仲恺农业工程学院",
-      "title": "汇智高层次人才，共谋高质量发展——学校召开2025...",
-      "url": "https://rsc.zhku.edu.cn/info/1013/4812.htm",
+      "school": "五邑大学",
+      "title": "杰出人才",
+      "url": "https://www.wyu.edu.cn/hr/sz/jcrc.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "仲恺农业工程学院",
-      "title": "学校三位教师获“南粤优秀教师”“南粤优秀教育工...",
-      "url": "https://rsc.zhku.edu.cn/info/1013/5222.htm",
+      "school": "五邑大学",
+      "title": "海外人才引进",
+      "url": "https://www.wyu.edu.cn/hr/rczp/hwrcyj.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "五邑大学",
+      "title": "教师招聘简章",
+      "url": "https://www.wyu.edu.cn/hr/rczp/jszpjz.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "五邑大学",
+      "title": "辅导员招聘",
+      "url": "https://www.wyu.edu.cn/hr/rczp/fdyzp.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "五邑大学",
+      "title": "专技人员招聘",
+      "url": "https://www.wyu.edu.cn/hr/rczp/zjryzp.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "五邑大学",
+      "title": "职员招聘",
+      "url": "https://www.wyu.edu.cn/hr/rczp/zyzp.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "五邑大学",
+      "title": "管理助理、教学助理招录",
+      "url": "https://www.wyu.edu.cn/hr/rczp/glzl_jxzlzl.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "仲恺农业工程学院",
-      "title": "凝聚师者力量，擘画育人新篇——学校召开教师节教...",
-      "url": "https://rsc.zhku.edu.cn/info/1013/5052.htm",
+      "school": "五邑大学",
+      "title": "学校人事制度",
+      "url": "https://www.wyu.edu.cn/hr/2024list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1662",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "五邑大学",
+      "title": "教师评聘",
+      "url": "https://www.wyu.edu.cn/hr/xzzq/jspp.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "仲恺农业工程学院",
-      "title": "学校召开2025年第2次党委教师工作委员会暨师德建设...",
-      "url": "https://rsc.zhku.edu.cn/info/1013/5022.htm",
+      "school": "五邑大学",
+      "title": "人事表格",
+      "url": "https://www.wyu.edu.cn/hr/xzzq/rsbg.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "五邑大学",
+      "title": "教师教学发展中心",
+      "url": "https://www.wyu.edu.cn/jsjxfzzx/",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "仲恺农业工程学院",
-      "title": "2024年梅州市丰顺县中学班主任教师培训班顺利开班",
-      "url": "https://rsc.zhku.edu.cn/info/1013/4892.htm",
+      "school": "五邑大学",
+      "title": "“中期学生反馈教学咨询服务”工作坊顺利举办",
+      "url": "https://www.wyu.edu.cn/hr/info/1572/5631.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "仲恺农业工程学院",
-      "title": "仲恺农业工程学院2025年高层次人才招聘公告",
-      "url": "https://rsc.zhku.edu.cn/info/1004/3932.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "仲恺农业工程学院",
-      "title": "仲恺农业工程学院2025年公开招聘实验员及其他行政教...",
-      "url": "https://rsc.zhku.edu.cn/info/1004/5552.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "仲恺农业工程学院",
-      "title": "仲恺农业工程学院2025年公开招聘国际教育学院硕士专...",
-      "url": "https://rsc.zhku.edu.cn/info/1004/5542.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "仲恺农业工程学院",
-      "title": "2025年公开招聘实验员及其他行政教辅人员综合面试成...",
-      "url": "https://rsc.zhku.edu.cn/info/1004/5532.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "仲恺农业工程学院",
-      "title": "2025年公开招聘国际教育学院硕士专任教师综合面试成...",
-      "url": "https://rsc.zhku.edu.cn/info/1004/5522.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "仲恺农业工程学院",
-      "title": "2025年仲恺农业工程学院公开招聘硕士专任教师、实验...",
-      "url": "https://rsc.zhku.edu.cn/info/1004/5502.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "仲恺农业工程学院",
-      "title": "国际教育学院2025年公开招聘硕士专任教师专业技能测...",
-      "url": "https://rsc.zhku.edu.cn/info/1004/5482.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "仲恺农业工程学院",
-      "title": "关于印发《仲恺农业工程学院外聘教师管理办法》的通知",
-      "url": "https://rsc.zhku.edu.cn/info/1007/3522.htm",
+      "school": "五邑大学",
+      "title": "明确标准，同向同行——教师考核评价相关制度宣贯会顺利召开",
+      "url": "https://www.wyu.edu.cn/hr/info/1572/5501.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "仲恺农业工程学院",
-      "title": "广东省事业单位公开招聘人员办法（广东省人民政府令...",
-      "url": "https://rsc.zhku.edu.cn/info/1006/3292.htm",
+      "school": "五邑大学",
+      "title": "五邑大学举行庆祝第41个教师节表彰大会暨新教师入职仪式",
+      "url": "https://www.wyu.edu.cn/hr/info/1572/5411.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "五邑大学",
+      "title": "五邑大学2025年新入职聘用制职员人事制度宣贯会顺利召开",
+      "url": "https://www.wyu.edu.cn/hr/info/1572/5401.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "仲恺农业工程学院",
-      "title": "关于印发《仲恺农业工程学院干部人事档案管理办法（...",
-      "url": "https://rsc.zhku.edu.cn/info/1009/3212.htm",
+      "school": "五邑大学",
+      "title": "关于举办第六届全国高校教师教学创新大赛校赛的通知",
+      "url": "https://www.wyu.edu.cn/hr/info/1552/5621.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "五邑大学",
+      "title": "五邑大学2026年1月教师招聘拟聘用人员公示",
+      "url": "https://www.wyu.edu.cn/hr/info/1562/5731.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "仲恺农业工程学院",
-      "title": "关于开展2025年优秀青年科研人才国际培养计划的通知",
-      "url": "https://rsc.zhku.edu.cn/info/1003/4882.htm",
+      "school": "五邑大学",
+      "title": "五邑大学2025年12月教师招聘拟聘用人员公示",
+      "url": "https://www.wyu.edu.cn/hr/info/1562/5671.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "五邑大学",
+      "title": "五邑大学关于公布广东省事业单位2025年集中公开招聘高层次及急需紧缺人才入围体检和考察人员名单的公告",
+      "url": "https://www.wyu.edu.cn/hr/info/1562/5661.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "五邑大学",
+      "title": "五邑大学关于广东省事业单位2025年集中公开招聘高层次和急需紧缺人才的直接业务考核公告",
+      "url": "https://www.wyu.edu.cn/hr/info/1562/5611.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "五邑大学",
+      "title": "五邑大学教学名师培育选拔实施办法（试行）",
+      "url": "https://www.wyu.edu.cn/hr/2024content.jsp?urltype=news.NewsContentUrl&wbtreeid=1662&wbnewsid=5291",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "五邑大学",
+      "title": "五邑大学产业兼职教师聘用管理办法",
+      "url": "https://www.wyu.edu.cn/hr/2024content.jsp?urltype=news.NewsContentUrl&wbtreeid=1662&wbnewsid=5271",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "五邑大学",
+      "title": "五邑大学教师职业行为负面清单及处理办法（试行）",
+      "url": "https://www.wyu.edu.cn/hr/2024content.jsp?urltype=news.NewsContentUrl&wbtreeid=1662&wbnewsid=5251",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "五邑大学",
+      "title": "五邑大学教师教学竞赛及奖励管理办法（试行）",
+      "url": "https://www.wyu.edu.cn/hr/2024content.jsp?urltype=news.NewsContentUrl&wbtreeid=1662&wbnewsid=5241",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "五邑大学",
+      "title": "江门市高层次人才认定申请指南",
+      "url": "https://www.wyu.edu.cn/hr/info/1682/3161.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "仲恺农业工程学院",
-      "title": "关于开展2025年“双师双能型”教师认定工作的通知",
-      "url": "https://rsc.zhku.edu.cn/info/1003/4852.htm",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "仲恺农业工程学院",
-      "title": "关于开展 2024年高等学校教师资格认定工作的通知",
-      "url": "https://rsc.zhku.edu.cn/info/1003/4842.htm",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东金融学院",
-      "title": "人事政策",
-      "url": "https://rsc.gduf.edu.cn/gzzd/rszc.htm",
+      "school": "五邑大学",
+      "title": "五邑大学2025年招聘简章",
+      "url": "https://www.wyu.edu.cn/hr/info/1742/4451.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东金融学院",
-      "title": "人事改革",
-      "url": "https://rsc.gduf.edu.cn/gzzd/rsgg.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东金融学院",
       "title": "新闻公告",
       "url": "https://rsc.gduf.edu.cn/xwgg.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东金融学院",
       "title": "师资建设",
       "url": "https://rsc.gduf.edu.cn/szjs/kygg.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东金融学院",
       "title": "[01-15]喜讯 | 我校教师在广东省第七届高校（本科",
       "url": "https://rsc.gduf.edu.cn/info/1069/1935.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东金融学院",
       "title": "[11-08]人事处召开第二场规章制度学习、建设研讨会",
       "url": "https://rsc.gduf.edu.cn/info/1069/1901.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东金融学院",
       "title": "广东金融学院大数据与人工智能学院 招聘...",
       "url": "https://rsc.gduf.edu.cn/info/1045/2004.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东金融学院",
       "title": "广东金融学院大数据与人工智能学院 招聘...",
       "url": "https://rsc.gduf.edu.cn/info/1045/2002.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东金融学院",
       "title": "广东金融学院2025年公开招聘工作人员笔...",
       "url": "https://rsc.gduf.edu.cn/info/1045/2001.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东金融学院",
       "title": "人事管理系统",
       "url": "http://172.18.1.6/base/frame/login.jsp?FM_SYS_ID=gdjr_EPX",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "电子科技大学中山学院",
       "title": "人事劳资人事管理工资福利办事指南表格下载",
       "url": "https://rsc.zsc.edu.cn/rslz",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "电子科技大学中山学院",
       "title": "人事管理",
       "url": "https://rsc.zsc.edu.cn/rslz/rsgl",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "电子科技大学中山学院",
       "title": "师资建设职称工作教师资格认定师德师风表格下载",
       "url": "https://rsc.zsc.edu.cn/szjs",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "电子科技大学中山学院",
       "title": "教师资格认定",
       "url": "https://rsc.zsc.edu.cn/szjs/jszgrd",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "电子科技大学中山学院",
       "title": "资料下载组织干部人事劳资师资建设",
       "url": "https://rsc.zsc.edu.cn/zlxz",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "电子科技大学中山学院",
       "title": "人事劳资",
       "url": "https://rsc.zsc.edu.cn/zlxz/xzrslz",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "电子科技大学中山学院",
       "title": "师资建设",
       "url": "https://rsc.zsc.edu.cn/zlxz/xzszjs",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "电子科技大学中山学院",
       "title": "袁正希参加组织人事部（处）党...",
       "url": "https://rsc.zsc.edu.cn/gzdt/1io9d1pqv6ihl.shtml",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "电子科技大学中山学院",
       "title": "2025年电子科技大学中山学院合同制人员招聘公告...",
       "url": "https://rsc.zsc.edu.cn/tzgg/1jc30oq2qr73o.shtml",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "电子科技大学中山学院",
       "title": "2025年电子科技大学中山学院合同制人员招聘公告...",
       "url": "https://rsc.zsc.edu.cn/tzgg/1jbcg9imq3ccu.shtml",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "电子科技大学中山学院",
       "title": "2025年电子科技大学中山学院校管合同工招聘公告...",
       "url": "https://rsc.zsc.edu.cn/tzgg/1j9en2cpdbrg6.shtml",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "电子科技大学中山学院",
       "title": "2025年电子科技大学中山学院校管合同工招聘公告...",
       "url": "https://rsc.zsc.edu.cn/tzgg/1j8hs0gs9aad2.shtml",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "电子科技大学中山学院",
       "title": "2025年电子科技大学中山学院合同制人员招聘公告...",
       "url": "https://rsc.zsc.edu.cn/tzgg/1iudtd92069ih.shtml",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "广东外语外贸大学",
-      "title": "教师思政科",
-      "url": "https://rsc.gdufs.edu.cn/bmjs/jsszk.htm",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东外语外贸大学",
-      "title": "人事科",
-      "url": "https://rsc.gdufs.edu.cn/bmjs/rsk.htm",
+      "school": "广东石油化工学院",
+      "title": "人事新闻",
+      "url": "https://site.gdupt.edu.cn/renshichu/rsxw.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "广东外语外贸大学",
-      "title": "师资科",
-      "url": "https://rsc.gdufs.edu.cn/bmjs/szk.htm",
+      "school": "广东石油化工学院",
+      "title": "人才服务政策",
+      "url": "https://site.gdupt.edu.cn/renshichu/zcfg/rcfwzc.htm",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东石油化工学院",
+      "title": "人才服务系统",
+      "url": "https://site.gdupt.edu.cn/renshichu/glxt/rcfwxt.htm",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东石油化工学院",
+      "title": "教师资格",
+      "url": "https://site.gdupt.edu.cn/renshichu/rdlm/jszg.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "广东外语外贸大学",
-      "title": "高层次人才办公室",
-      "url": "https://rsc.gdufs.edu.cn/bmjs/gccrcbgs.htm",
-      "type": "其他",
-      "fetched_at": "2026-02-20"
+      "school": "广东石油化工学院",
+      "title": "03/09人力资源部组织召开本科教育教学审核评...",
+      "url": "https://site.gdupt.edu.cn/renshichu/info/1065/5349.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "广东外语外贸大学",
-      "title": "劳动管理科、人才交流中心",
-      "url": "https://rsc.gdufs.edu.cn/bmjs/ldglk_rcjlzx.htm",
-      "type": "其他",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东外语外贸大学",
-      "title": "人事档案管理科",
-      "url": "https://rsc.gdufs.edu.cn/bmjs/rsdaglk.htm",
+      "school": "广东石油化工学院",
+      "title": "05/26查阅、借用人事档案须知",
+      "url": "https://site.gdupt.edu.cn/renshichu/info/1063/2515.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "广东外语外贸大学",
+      "school": "广东石油化工学院",
+      "title": "人事管理系统",
+      "url": "http://210.38.240.85:8080/renshi",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东石油化工学院",
+      "title": "人事内部信息网",
+      "url": "http://210.38.240.85/bookpublic/renshi",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东石油化工学院",
+      "title": "广东省教师资格认定网",
+      "url": "https://www.jszg.edu.cn/",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东石油化工学院",
       "title": "教师发展中心",
-      "url": "https://rsc.gdufs.edu.cn/bmjs/jsfzzx.htm",
+      "url": "https://site.gdupt.edu.cn/jsfzzx/",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "广东外语外贸大学",
-      "title": "人事科",
-      "url": "https://rsc.gdufs.edu.cn/gzdt/rsk.htm",
+      "school": "广东石油化工学院",
+      "title": "教师在线学习中心",
+      "url": "https://onlinenew.enetedu.com/mmc/Index/Index",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "东莞理工学院",
+      "title": "人事新闻",
+      "url": "https://rs.dgut.edu.cn/rsxw.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "广东外语外贸大学",
-      "title": "师资科",
-      "url": "https://rsc.gdufs.edu.cn/gzdt/szk.htm",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东外语外贸大学",
-      "title": "人才办",
-      "url": "https://rsc.gdufs.edu.cn/gzdt/rcb.htm",
-      "type": "其他",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东外语外贸大学",
-      "title": "教师发展中心",
-      "url": "https://rsc.gdufs.edu.cn/gzdt/jsfzzx.htm",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东外语外贸大学",
-      "title": "师资建设",
-      "url": "https://rsc.gdufs.edu.cn/szjs.htm",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东外语外贸大学",
-      "title": "人才招聘",
-      "url": "https://rsc.gdufs.edu.cn/zpxx.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东外语外贸大学",
-      "title": "人事调配",
-      "url": "https://rsc.gdufs.edu.cn/gzzd/rsdp.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东外语外贸大学",
-      "title": "人才工程",
-      "url": "https://rsc.gdufs.edu.cn/gzzd/rcgc.htm",
-      "type": "其他",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东外语外贸大学",
-      "title": "博士后流动站",
-      "url": "https://rsc.gdufs.edu.cn/bshldz.htm",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东外语外贸大学",
-      "title": "人事调配",
-      "url": "https://rsc.gdufs.edu.cn/zlxz/rsdp.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东外语外贸大学",
-      "title": "教师资格认定",
-      "url": "https://rsc.gdufs.edu.cn/zlxz/jszgrd.htm",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东外语外贸大学",
+      "school": "东莞理工学院",
       "title": "博士后",
-      "url": "https://rsc.gdufs.edu.cn/zlxz/bsh.htm",
+      "url": "https://rs.dgut.edu.cn/bsh.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "广东外语外贸大学",
-      "title": "人才工程",
-      "url": "https://rsc.gdufs.edu.cn/zlxz/rcgc.htm",
+      "school": "东莞理工学院",
+      "title": "教师工作",
+      "url": "https://dwjsgzb.dgut.edu.cn/",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "东莞理工学院",
+      "title": "我校教师获东莞市劳动关系协调师竞赛第一名",
+      "url": "https://rs.dgut.edu.cn/info/1015/7543.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "东莞理工学院",
+      "title": "博士后入职体检及入职报到流程指引（202...",
+      "url": "https://rs.dgut.edu.cn/info/1043/1904.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "东莞理工学院",
+      "title": "东莞理工学院博士后工作管理办法 （2025...",
+      "url": "https://rs.dgut.edu.cn/info/1042/6813.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "东莞理工学院",
+      "title": "东莞市博士后培养扶持资助资金申报指引",
+      "url": "https://rs.dgut.edu.cn/info/1043/6683.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "东莞理工学院",
+      "title": "东莞理工学院博士后工作管理办法 （2024...",
+      "url": "https://rs.dgut.edu.cn/info/1042/6393.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "东莞理工学院",
+      "title": "东莞理工学院联合培养博士后进站备案流...",
+      "url": "https://rs.dgut.edu.cn/info/1043/6003.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "东莞理工学院",
+      "title": "博士后离校流程指引",
+      "url": "https://rs.dgut.edu.cn/info/1043/5443.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "东莞理工学院",
+      "title": "东莞理工学院、华南理工大学博士后进站...",
+      "url": "https://rs.dgut.edu.cn/info/1043/5303.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "东莞理工学院",
+      "title": "东莞理工学院2025年准聘教师引进公告",
+      "url": "https://rs.dgut.edu.cn/info/1018/6703.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "东莞理工学院",
+      "title": "东莞理工学院2025年第二批招聘聘用人员...",
+      "url": "https://rs.dgut.edu.cn/info/1018/7473.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "东莞理工学院",
+      "title": "派驻东莞理工学院管理助理和教学助理招...",
+      "url": "https://rs.dgut.edu.cn/info/1018/7123.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "东莞理工学院",
+      "title": "东莞理工学院2025年第一批招聘聘用人员...",
+      "url": "https://rs.dgut.edu.cn/info/1018/7033.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "东莞理工学院",
+      "title": "东莞理工学院2025年高层次人才招聘公告",
+      "url": "https://rs.dgut.edu.cn/info/1018/6963.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "东莞理工学院",
+      "title": "东莞理工学院产业兼职教师选聘公告（第...",
+      "url": "https://rs.dgut.edu.cn/info/1018/6803.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "东莞理工学院",
+      "title": "人事科-介绍信、公务卡申办证明等自助办...",
+      "url": "https://rs.dgut.edu.cn/info/1041/5323.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "东莞理工学院",
+      "title": "东莞理工学院2026年第一批准聘教师岗位...",
+      "url": "https://rs.dgut.edu.cn/info/1016/7713.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "东莞理工学院",
+      "title": "东莞理工学院2025年第二批招聘聘用人员...",
+      "url": "https://rs.dgut.edu.cn/info/1016/7583.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "东莞理工学院",
+      "title": "东莞理工学院2025年第十一批准聘教师岗...",
+      "url": "https://rs.dgut.edu.cn/info/1016/7563.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "东莞理工学院",
+      "title": "东莞理工学院2025年第十批准聘教师岗位...",
+      "url": "https://rs.dgut.edu.cn/info/1016/7523.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "东莞理工学院",
+      "title": "关于校内招聘国际设计学院（筹）教学秘...",
+      "url": "https://rs.dgut.edu.cn/info/1016/7503.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "东莞理工学院",
+      "title": "东莞理工学院2025年第二批招聘聘用人员...",
+      "url": "https://rs.dgut.edu.cn/info/1016/7493.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "东莞理工学院",
+      "title": "东莞理工学院2025年第九批准聘教师岗位...",
+      "url": "https://rs.dgut.edu.cn/info/1016/7403.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "东莞理工学院",
+      "title": "东莞理工学院外籍教师聘用审批表",
+      "url": "https://rs.dgut.edu.cn/info/1021/6163.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东工业大学",
+      "title": "博士后",
+      "url": "http://rscbgb.gdut.edu.cn/",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东工业大学",
+      "title": "机电工程学院课题组公开招聘科研助理公告",
+      "url": "https://hr.gdut.edu.cn/info/1076/4763.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东工业大学",
+      "title": "广东工业大学2024年公开招聘第二批聘用制职...",
+      "url": "https://hr.gdut.edu.cn/info/1076/4762.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东工业大学",
+      "title": "继续教育学院招聘非学历教育项目拓展工作人...",
+      "url": "https://hr.gdut.edu.cn/info/1076/4764.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东工业大学",
+      "title": "管理学院专业型研究生教育中心公开招聘工作人员",
+      "url": "https://hr.gdut.edu.cn/info/1076/4765.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东工业大学",
+      "title": "广东工业大学高层次人才一站式报到流程",
+      "url": "https://hr.gdut.edu.cn/info/1054/2619.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "广东外语外贸大学",
-      "title": "杰出校友李形受聘为广外云山领军学者\n2024-09-29\n本网讯 9月26日下午，我校云山领军学者李形聘用仪式在白云山校区行政楼...",
-      "url": "https://rsc.gdufs.edu.cn/info/1071/11953.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东外语外贸大学",
-      "title": "以教育家精神铸魂强师，锻造新时代高水平教师队伍\n2024-09-20\n本网讯 9月9日至10日，全国教育大会在北京召开。中共中央总书记、国家主...",
-      "url": "https://rsc.gdufs.edu.cn/info/1071/11948.htm",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东外语外贸大学",
-      "title": "戴建业工作坊：广外“最美教师”创意营  精彩开班\n2024-01-03\n本网讯 12月29日下午，由学校教师发展中心联合招生办公室举办的戴建业工...",
-      "url": "https://rsc.gdufs.edu.cn/info/1071/11640.htm",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东外语外贸大学",
-      "title": "校长闫相斌与高层次人才代表交流座谈\n2023-11-18\n本网讯 11月16日下午，校长闫相斌与我校高层次人才代表在白云山校区行政...",
-      "url": "https://rsc.gdufs.edu.cn/info/1071/11598.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东外语外贸大学",
-      "title": "广东外语外贸大学前沿交叉研究院2025年人才招聘公告",
-      "url": "https://rsc.gdufs.edu.cn/info/1080/12256.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东外语外贸大学",
-      "title": "国家社科基金重大项目首席专家团队招聘学术骨干团队成员启事",
-      "url": "https://rsc.gdufs.edu.cn/info/1080/12241.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东外语外贸大学",
-      "title": "广东外语外贸大学未来人文实验室特聘教授全球招聘公告",
-      "url": "https://rsc.gdufs.edu.cn/info/1080/12058.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东外语外贸大学",
-      "title": "国家社科重大项目首席专家王治敏教授团队招聘课题组成员启事",
-      "url": "https://rsc.gdufs.edu.cn/info/1080/12048.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东外语外贸大学",
-      "title": "广东外语外贸大学2025年公开招聘专业教师成绩 （土耳其语、波兰语、匈牙利语、保加利亚语专业）",
-      "url": "https://rsc.gdufs.edu.cn/info/1017/12188.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东外语外贸大学",
-      "title": "广东外语外贸大学2025年公开招聘事业编制工作人员综合成绩表",
-      "url": "https://rsc.gdufs.edu.cn/info/1093/12179.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东外语外贸大学",
-      "title": "广东外语外贸大学2025年公开招聘事业编制工作人员5月21日面试成绩",
-      "url": "https://rsc.gdufs.edu.cn/info/1093/12175.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东外语外贸大学",
-      "title": "广东外语外贸大学2025年公开招聘事业编制工作人员5月20日面试成绩",
-      "url": "https://rsc.gdufs.edu.cn/info/1093/12173.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东外语外贸大学",
-      "title": "广东外语外贸大学人才招聘系统",
-      "url": "https://rsc.gdufs.edu.cn/info/1013/5220.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东外语外贸大学",
-      "title": "网上招聘系统",
-      "url": "https://zp.gdufs.edu.cn/rsfw/sys/zpglxt/login/index.do",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东外语外贸大学",
-      "title": "教师发展中心",
-      "url": "https://ctd.gdufs.edu.cn",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广州工商学院",
-      "title": "通知公告",
-      "url": "https://www.gzgs.edu.cn/rsc/tzgg.htm",
+      "school": "广东工业大学",
+      "title": "广州市人才绿卡申领指南",
+      "url": "https://hr.gdut.edu.cn/info/1060/4540.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "广州工商学院",
-      "title": "人才招聘",
-      "url": "https://www.gzgs.edu.cn/rsc/rczp.htm",
+      "school": "广东工业大学",
+      "title": "广东省人才优粤卡申办通知",
+      "url": "https://hr.gdut.edu.cn/info/1060/4530.htm",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东工业大学",
+      "title": "百万英才汇南粤--广东工业大学高层次人才招聘...",
+      "url": "https://hr.gdut.edu.cn/info/1064/4370.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东工业大学",
+      "title": "广东工业大学揭阳校区2025年公开招聘聘用制职...",
+      "url": "https://jyxq.gdut.edu.cn/info/1132/6079.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东工业大学",
+      "title": "广东工业大学2025年公开招聘聘用制职员拟聘公...",
+      "url": "https://hr.gdut.edu.cn/info/1068/4950.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东工业大学",
+      "title": "广东工业大学揭阳校区2025年公开招聘聘用制职...",
+      "url": "https://jyxq.gdut.edu.cn/info/1132/6042.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东工业大学",
+      "title": "广东工业大学2025年公开招聘聘用制职员管理岗...",
+      "url": "https://hr.gdut.edu.cn/info/1068/4940.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东工业大学",
+      "title": "总务部自营食堂仓库管理员招聘启事",
+      "url": "https://hr.gdut.edu.cn/info/1068/4936.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东工业大学",
+      "title": "广东工业大学揭阳校区2025年公开招聘聘用制职...",
+      "url": "https://jyxq.gdut.edu.cn/info/1132/6021.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东工业大学",
+      "title": "研究生院办事员招聘启事",
+      "url": "https://hr.gdut.edu.cn/info/1076/4766.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东工业大学",
+      "title": "广州市越秀区申领广州市人才绿卡指南",
+      "url": "https://hr.gdut.edu.cn/info/1073/3541.htm",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东工业大学",
+      "title": "各学院人才引进专员联系方式",
+      "url": "https://hr.gdut.edu.cn/info/1073/2311.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东工业大学",
+      "title": "项目聘用编外人员招聘考试情况记录表",
+      "url": "https://hr.gdut.edu.cn/info/1072/1250.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州理工学院",
+      "title": "人事处",
+      "url": "https://rsc.gzist.edu.cn/index.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州理工学院",
+      "title": "人事动态",
+      "url": "https://rsc.gzist.edu.cn/rsdt.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州理工学院",
+      "title": "招聘公告",
+      "url": "https://rsc.gzist.edu.cn/zpxx/zpgg.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州理工学院",
+      "title": "教学名师",
+      "url": "https://rsc.gzist.edu.cn/jxms.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州理工学院",
+      "title": "教师培训",
+      "url": "https://rsc.gzist.edu.cn/jspx.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州理工学院",
+      "title": "学校召开庆祝第40个教师节...",
+      "url": "https://rsc.gzist.edu.cn/info/2060/1855.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州理工学院",
+      "title": "学校召开人事财务师资评建...",
+      "url": "https://rsc.gzist.edu.cn/info/2060/1821.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州理工学院",
+      "title": "学校召开评建工作师资与财...",
+      "url": "https://rsc.gzist.edu.cn/info/2060/1802.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州理工学院",
+      "title": "人事处召开本科教学工作合...",
+      "url": "https://rsc.gzist.edu.cn/info/2060/1801.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州理工学院",
+      "title": "学校三位教师荣获“南粤优秀教师”和“南粤优秀教育工作者”荣誉称号",
+      "url": "https://rsc.gzist.edu.cn/info/2020/1927.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州理工学院",
+      "title": "学校黄圣诚书记等领导率团赴国内知名高校引进人才",
+      "url": "https://rsc.gzist.edu.cn/info/2020/1767.htm",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州理工学院",
+      "title": "关于2022年符合认定高等学校教师资格人员名单的公示",
+      "url": "https://rsc.gzist.edu.cn/info/2020/1739.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州理工学院",
+      "title": "2021年符合认定高等学校教师资格人员名单公示",
+      "url": "https://rsc.gzist.edu.cn/info/2020/1697.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州理工学院",
+      "title": "2021-2022学年第一学期人事财务部工作会议",
+      "url": "https://rsc.gzist.edu.cn/info/2020/1672.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州理工学院",
+      "title": "我校获批设立广东省博士工作站",
+      "url": "https://rsc.gzist.edu.cn/info/2020/1611.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州理工学院",
+      "title": "学为人师，行为世范！我校教师黄爱青副...",
+      "url": "https://rsc.gzist.edu.cn/info/2049/1682.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州理工学院",
+      "title": "张艳红-校级教学名师",
+      "url": "https://rsc.gzist.edu.cn/info/2049/1643.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州理工学院",
+      "title": "刘琰-校级教学名师",
+      "url": "https://rsc.gzist.edu.cn/info/2049/1637.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州理工学院",
+      "title": "李棱雪-校级教学名师",
+      "url": "https://rsc.gzist.edu.cn/info/2049/1634.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州理工学院",
+      "title": "陈玉莲-校级教学名师",
+      "url": "https://rsc.gzist.edu.cn/info/2049/1633.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州理工学院",
+      "title": "高等学校教师职业道德规范",
+      "url": "https://rsc.gzist.edu.cn/info/2023/1127.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州理工学院",
+      "title": "广州理工学院人事处关于2025年高校教师...",
+      "url": "https://rsc.gzist.edu.cn/page.jsp?urltype=news.NewsContentUrl&wbtreeid=2029&wbnewsid=1933",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州理工学院",
+      "title": "关于2022年符合认定高等学校教师资格人...",
+      "url": "https://rsc.gzist.edu.cn/info/2029/1738.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州理工学院",
+      "title": "关于做好2022年高等学校教师资格认定工...",
+      "url": "https://rsc.gzist.edu.cn/info/2029/1725.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州理工学院",
+      "title": "青年教师职业发展主题座谈会",
+      "url": "https://rsc.gzist.edu.cn/info/2029/1683.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "珠海科技学院",
+      "title": "教师资格认定",
+      "url": "https://hr.zcst.edu.cn/1090/list.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "珠海科技学院",
+      "title": "关于开通人事处处长信箱的通知",
+      "url": "https://hr.zcst.edu.cn/2019/0925/c1087a162545/page.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "珠海科技学院",
+      "title": "外聘教师考核表",
+      "url": "https://hr.zcst.edu.cn/2022/0827/c1093a168948/page.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "珠海科技学院",
+      "title": "珠海科技学院外聘教师...",
+      "url": "https://hr.zcst.edu.cn/2022/0827/c1093a168947/page.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "珠海科技学院",
+      "title": "教职工在职攻读博士研...",
+      "url": "https://hr.zcst.edu.cn/2021/0617/c1093a161759/page.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "珠海科技学院",
+      "title": "2024年广东省教师继续教育信息管...",
+      "url": "https://hr.zcst.edu.cn/2021/0623/c1092a162520/page.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州工商学院",
       "title": "高校人才网",
       "url": "http://www.gaoxiaojob.com/company/detail/69.html#announcement",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州工商学院",
       "title": "教师培养",
       "url": "https://www.gzgs.edu.cn/rsc/dwjs/jspy.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州工商学院",
       "title": "师资考核",
       "url": "https://www.gzgs.edu.cn/rsc/dwjs/szkh.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州工商学院",
       "title": "[09-25]躬耕教坛 熠熠芳华——我校六位教师荣获省",
       "url": "https://www.gzgs.edu.cn/rsc/info/1144/2113.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州工商学院",
       "title": "[09-15]我校三名教师荣获“南粤优秀教师”“南粤优",
       "url": "https://www.gzgs.edu.cn/rsc/info/1144/2110.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州工商学院",
       "title": "[09-12]我校召开庆祝第41个教师节座谈会",
       "url": "https://www.gzgs.edu.cn/rsc/info/1144/2109.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州工商学院",
       "title": "关于人事证明自助打印系统的启用说明",
       "url": "https://www.gzgs.edu.cn/rsc/info/1161/1990.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州工商学院",
       "title": "花都区申领广州市人才绿卡指南",
       "url": "https://www.gzgs.edu.cn/rsc/info/1161/1950.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州工商学院",
       "title": "广州市人才绿卡申请指南",
       "url": "https://www.gzgs.edu.cn/rsc/info/1161/1949.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广州工商学院",
-      "title": "人事档案办事指南",
-      "url": "https://www.gzgs.edu.cn/rsc/info/1161/1943.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州工商学院",
       "title": "[09-22]广州工商学院中青年高层次人才招聘启事",
       "url": "https://www.gzgs.edu.cn/rsc/info/1152/2112.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州工商学院",
       "title": "[04-09]汇聚博士精英，助力学校发展 --我校参加9场",
       "url": "https://www.gzgs.edu.cn/rsc/info/1152/1989.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州工商学院",
       "title": "中共中央 国务院关于全面深化新时代教师...",
       "url": "http://m.moe.gov.cn/jyb_xwfb/moe_1946/fj_2018/201801/t20180131_326148.html",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广州工商学院",
       "title": "广东省加强新时代高校教师队伍建设改革...",
       "url": "https://www.gzgs.edu.cn/rsc/info/1155/1978.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东科技学院",
-      "title": "通知公告",
-      "url": "https://www.gdust.edu.cn/rsc/tzgg/tzgg/",
-      "type": "其他",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东科技学院",
-      "title": "人才引进",
-      "url": "https://www.gdust.edu.cn/rsc/rcyj/rcyj",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东科技学院",
-      "title": "我校9名教师再获殊荣",
-      "url": "https://www.gdust.edu.cn/rsc/rsc/20250927/5904.html",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东科技学院",
-      "title": "我校3名教师获“粤优秀教师”等...",
-      "url": "https://www.gdust.edu.cn/rsc/rsc/20250927/5903.html",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东科技学院",
-      "title": "广东科技学院教师发展...",
-      "url": "https://www.gdust.edu.cn/rsc/rsc/20250617/3887.html",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东科技学院",
-      "title": "教育部公开曝光第十三批7起违反教师职...",
-      "url": "https://www.gdust.edu.cn/rsc/rsc/20230904/2707.html",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东科技学院",
-      "title": "教育部公开曝光第十二批7起违反教师职...",
-      "url": "https://www.gdust.edu.cn/rsc/rsc/20230423/664.html",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东科技学院",
-      "title": "广东省人才优粤卡实施办法",
-      "url": "https://www.gdust.edu.cn/rsc/rsc/20240803/3801.html",
-      "type": "其他",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东科技学院",
-      "title": "东莞市产业发展与科技创新人才经济贡献奖励...",
-      "url": "https://www.gdust.edu.cn/rsc/rsc/20230304/650.html",
-      "type": "其他",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东科技学院",
-      "title": "东莞市加强研发人才引进培养实施办法",
-      "url": "https://www.gdust.edu.cn/rsc/rsc/20230304/649.html",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东科技学院",
-      "title": "关于加强新时代高技能人才队伍建设的意见",
-      "url": "https://www.gdust.edu.cn/rsc/rsc/20221011/608.html",
-      "type": "其他",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东科技学院",
-      "title": "关于深化高等学校教师职称制度改革的指...",
-      "url": "https://www.gdust.edu.cn/rsc/rsc/20210210/275.html",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东科技学院",
-      "title": "东莞市人才政策汇总",
-      "url": "https://www.gdust.edu.cn/rsc/rsc/20240803/3800.html",
-      "type": "其他",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东科技学院",
-      "title": "教师自助打印工作证明使用流程 （手机...",
-      "url": "https://www.gdust.edu.cn/rsc/rsc/20250707/4895.html",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东科技学院",
-      "title": "广东科技学院教师办理档案接收流程（20...",
-      "url": "https://www.gdust.edu.cn/rsc/rsc/20230303/645.html",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东科技学院",
-      "title": "广东科技学院教师继续教育学时申报及...",
-      "url": "https://www.gdust.edu.cn/rsc/rsc/20230221/631.html",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东科技学院",
-      "title": "广东科技学院教师继续教育学习指南（省...",
-      "url": "https://www.gdust.edu.cn/rsc/rsc/20210317/339.html",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东科技学院",
-      "title": "本科教学工作审核评估审核项目及要素释义",
-      "url": "https://www.gdust.edu.cn/rsc/rsc/20241202/3825.html",
-      "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "人事制度",
       "url": "https://hr.sztu.edu.cn/rszd.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "招聘启事",
       "url": "https://hr.sztu.edu.cn/zpqs.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "教学科研岗位",
       "url": "https://hr.sztu.edu.cn/zpqs/jxkygw.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "行政管理岗位",
       "url": "https://hr.sztu.edu.cn/zpqs/xzglgw.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "博士后",
       "url": "https://hr.sztu.edu.cn/zpqs/bsh.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "深圳技术大学",
-      "title": "通知公告",
-      "url": "https://hr.sztu.edu.cn/tzgg.htm",
-      "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "师资建设",
       "url": "https://hr.sztu.edu.cn/bszn/szjs.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "高端人才",
       "url": "https://hr.sztu.edu.cn/bszn/gdrc.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "博士后",
       "url": "https://hr.sztu.edu.cn/bszn/bsh.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "4关于《广东省教育厅关于下达2026年青年优秀科研人才国际培养计划资金及做好有关工作的通知》\n2026-01-23",
       "url": "https://nbw.sztu.edu.cn/info/1020/50642.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "7转发《肇庆学院关于委托推荐公开招聘业务考核评审专家的函》\n2026-01-20",
       "url": "https://nbw.sztu.edu.cn/info/1020/50601.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "8关于启动2025年八级、九级、十级行政职员职级认定工作的通知\n2026-01-16",
       "url": "https://nbw.sztu.edu.cn/info/1020/50570.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "1深圳技术大学附属中学关于2024年11月面向2025年应届毕业生赴外公开招聘教师拟聘人员的公示\n2025-09-23",
       "url": "https://zp.sztu.edu.cn/#/app/szjsdx/szjd-recruit/zpwz/RECRUIT?pageId=c2ad415d88fc4802ad1ff2a37b634424&id=984ADB65DEB04421B2F17D8408BEA150",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "2深圳技术大学2024年面向全球遴选教学科研人员（含学术带头人）\n2024-04-26",
       "url": "https://zp.sztu.edu.cn/#/app/szjsdx/szjd-recruit/zpwz/RECRUIT?pageId=c2ad415d88fc4802ad1ff2a37b634424&id=61A85CDA208B421A8C7CE83C2B92C1AB",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "3深圳技术大学2024年实验技术岗招聘启事\n2024-01-25",
       "url": "https://zp.sztu.edu.cn/#/app/szjsdx/szjd-recruit/zpwz/RECRUIT?pageId=c2ad415d88fc4802ad1ff2a37b634424&id=9EB69A2CB7EF43A498D46091DFC95655",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "4校办、教务、宣传、科研、人力：招聘行政管理岗（博士）共6人\n2023-09-25",
       "url": "https://zp.sztu.edu.cn/#/app/szjsdx/szjd-recruit/zpwz/RECRUIT?pageId=c2ad415d88fc4802ad1ff2a37b634424&id=43CE27C7B7104987A65B633AE32F4108",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "5先进材料测试技术研究中心：曹磊峰教授团队招聘专职研究人员5-8人\n2023-06-16",
       "url": "https://zp.sztu.edu.cn/#/app/szjsdx/szjd-recruit/zpwz/RECRUIT?pageId=c2ad415d88fc4802ad1ff2a37b634424&id=630BE01CD3C84BF3BCD61EBEA94FF5F0",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "6聚龙学院-刘清侠院士先进储能平台团队：招聘专职研究人员\n2023-04-17",
       "url": "https://zp.sztu.edu.cn/#/app/szjsdx/szjd-recruit/zpwz/RECRUIT?pageId=c2ad415d88fc4802ad1ff2a37b634424&id=4AB2D22CCF2D469C8AE0DE3E726FB0CD",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "7马克思主义学院（人文社科学院）招聘全职授课型教师(长期有效）\n2023-01-01",
       "url": "https://zp.sztu.edu.cn/#/app/szjsdx/szjd-recruit/zpwz/RECRUIT?pageId=c2ad415d88fc4802ad1ff2a37b634424&id=86494D379E4C43F29645B73752516CC7",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "8深圳技术大学医院招聘精神科医生1名\n2025-09-22",
       "url": "https://zp.sztu.edu.cn/#/app/szjsdx/szjd-recruit/zpwz/RECRUIT?pageId=c2ad415d88fc4802ad1ff2a37b634424&id=36FDC0D1E520461898FDD946F0363C3F",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "2在职人才引进落户办理指南",
       "url": "https://hr.sztu.edu.cn/info/1005/4887.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "2高层次人才任期评估办事指南",
       "url": "https://hr.sztu.edu.cn/info/1007/1184.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "3高层次人才补贴申请办事指南",
       "url": "https://hr.sztu.edu.cn/info/1007/1183.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "1深圳技术大学博士后招收及入站业务指南",
       "url": "https://hr.sztu.edu.cn/info/1011/1908.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "2深圳技术大学博士后入站业务指南 - 深圳大学土木工程流动站",
       "url": "https://hr.sztu.edu.cn/info/1011/1912.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "3深圳技术大学博士后入站业务指南 - 深圳大学生物医学与工程流动站",
       "url": "https://hr.sztu.edu.cn/info/1011/1911.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "4深圳技术大学博士后入站业务指南 - 深圳大学光学工程流动站",
       "url": "https://hr.sztu.edu.cn/info/1011/1910.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "5深圳技术大学博士后入站业务指南 - 华中科技大学",
       "url": "https://hr.sztu.edu.cn/info/1011/1909.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "1深圳市新引进博士人才生活补贴办理指南",
       "url": "https://hr.sztu.edu.cn/info/1021/4942.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "深圳技术大学",
       "title": "招聘入口",
       "url": "https://zp.sztu.edu.cn/#/login/szjsdx/szjd-recruit/zpwz?path=%2Fapp%2Fszjsdx%2Fszjd-recruit%2Fzpwz%2FRECRUIT&home=1",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "广东轻工职业技术大学",
-      "title": "人才招聘",
-      "url": "https://rsc.gdqy.edu.cn/rczp.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东轻工职业技术大学",
-      "title": "师资",
-      "url": "https://rsc.gdqy.edu.cn/xzzq1/sz1.htm",
+      "school": "深圳职业技术大学",
+      "title": "教学科研单位",
+      "url": "https://www.szpu.edu.cn/zzjg1.htm#md2",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
-      "school": "广东轻工职业技术大学",
-      "title": "人事",
-      "url": "https://rsc.gdqy.edu.cn/xzzq1/rs1.htm",
+      "school": "深圳职业技术大学",
+      "title": "教育教学",
+      "url": "https://www.szpu.edu.cn/jyjx1/rcpy.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "深圳职业技术大学",
+      "title": "师资培训",
+      "url": "https://www.szpu.edu.cn/pxfw1/szpx.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "深圳职业技术大学",
+      "title": "深圳职业技术大学博士后招聘公告（长期招聘）\n\n01-21\n2026",
+      "url": "https://www.szpu.edu.cn/info/1025/22744.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "深圳职业技术大学",
+      "title": "深圳职业技术大学高层次人才招聘公告（长期招聘）\n\n12-31\n2025",
+      "url": "https://www.szpu.edu.cn/info/1025/11454.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "深圳职业技术大学",
+      "title": "组织人事处",
+      "url": "http://rs.szpu.edu.cn",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "人力资源部参加广东省高校人事管理研究会年会研讨交流",
-      "url": "https://rsc.gdqy.edu.cn/info/1011/3022.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1011/3022.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "学校举行庆祝第41个教师节暨表彰大会",
       "url": "https://www.gdip.edu.cn/info/1057/24553.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "学校召开庆祝第40个教师节教师座谈会",
       "url": "https://www.gdqy.edu.cn/info/1057/15143.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "广东省教育厅师资处到我校调研",
       "url": "https://www.gdqy.edu.cn/info/1058/13793.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "躬耕教坛、强国有我：学校举行庆祝第39个教师节表...",
       "url": "https://www.gdqy.edu.cn/info/1057/12084.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "学校召开教师节座谈会：广泛听取民意 积极建言献策...",
       "url": "https://www.gdqy.edu.cn/info/1057/10802.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "我校教师作品在广东省第十一届师德主题征文活动中...",
       "url": "https://www.gdqy.edu.cn/info/1057/10779.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "学校举行庆祝第37个教师节表彰大会：表彰优秀教师 ...",
       "url": "https://www.gdqy.edu.cn/info/1057/9418.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "广东轻工职业技术大学2026年集中招聘公告",
-      "url": "https://rsc.gdqy.edu.cn/info/1025/3102.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1025/3102.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "广东轻工职业技术大学2025年集中公开招聘高层次和急需紧缺人...",
-      "url": "https://rsc.gdqy.edu.cn/info/1025/3092.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1025/3092.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "广东轻工职业技术大学2025年集中公开招聘高层次和急需紧缺人...",
-      "url": "https://rsc.gdqy.edu.cn/info/1025/3002.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1025/3002.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "广东轻工职业技术大学2025年集中公开招聘高层次和急需紧缺人...",
-      "url": "https://rsc.gdqy.edu.cn/info/1025/2972.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1025/2972.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "教学督导招聘公告",
-      "url": "https://rsc.gdqy.edu.cn/info/1025/2952.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1025/2952.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "广东轻工职业技术大学 2025年集中公开招聘高层次和急需紧缺人...",
-      "url": "https://rsc.gdqy.edu.cn/info/1025/2932.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1025/2932.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "广东轻工职业技术大学2025年集中公开招聘高层次和急需紧缺人...",
-      "url": "https://rsc.gdqy.edu.cn/info/1025/2922.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1025/2922.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "[人事]广东轻工职业技术学院返聘审批表",
-      "url": "https://rsc.gdqy.edu.cn/info/1033/2029.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1033/2029.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "[劳资]具备1、2级专业技能证书教师任课资格审批表（修订）",
-      "url": "https://rsc.gdqy.edu.cn/info/1031/1606.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1031/1606.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "[劳资]实验教师结算表（2016）",
-      "url": "https://rsc.gdqy.edu.cn/info/1031/1605.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1031/1605.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "[劳资]2017年版校内教师工作量预算（结算）汇总表",
-      "url": "https://rsc.gdqy.edu.cn/info/1031/1604.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1031/1604.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "[劳资]教师结算表（2017）",
-      "url": "https://rsc.gdqy.edu.cn/info/1031/1603.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1031/1603.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "[人事]辞职申请表",
-      "url": "https://rsc.gdqy.edu.cn/info/1033/1648.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1033/1648.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "[劳资]兼职教师结算表（新）",
-      "url": "https://rsc.gdqy.edu.cn/info/1031/1602.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1031/1602.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "[劳资]教师预算表2017",
-      "url": "https://rsc.gdqy.edu.cn/info/1031/1601.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1031/1601.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "[师资]2016年职称评审培训文件",
-      "url": "https://rsc.gdqy.edu.cn/info/1032/1625.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1032/1625.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "[师资]2016上半年教师专业实践考核优秀成果展示",
-      "url": "https://rsc.gdqy.edu.cn/info/1032/1624.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1032/1624.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "[师资]“双师”素质教师有关表格",
-      "url": "https://rsc.gdqy.edu.cn/info/1032/1623.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1032/1623.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "[师资]“双师型”骨干教师有关表格",
-      "url": "https://rsc.gdqy.edu.cn/info/1032/1622.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1032/1622.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "[师资]专业技术岗位聘用审批表",
-      "url": "https://rsc.gdqy.edu.cn/info/1032/1621.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1032/1621.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "[师资]管理人员及外聘专职人员专业技术职务聘任（续聘）审批表",
-      "url": "https://rsc.gdqy.edu.cn/info/1032/1620.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1032/1620.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "[师资]教研室主任职务审批表",
-      "url": "https://rsc.gdqy.edu.cn/info/1032/1619.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1032/1619.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "[师资]教育教学能力测试相关表格",
-      "url": "https://rsc.gdqy.edu.cn/info/1032/1617.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1032/1617.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "[师资]高层次技能型兼职教师申报书",
-      "url": "https://rsc.gdqy.edu.cn/info/1032/1616.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1032/1616.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "[人事]校内人员调动考核审批表",
-      "url": "https://rsc.gdqy.edu.cn/info/1033/1647.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1033/1647.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "[人事]临聘人员备案表",
-      "url": "https://rsc.gdqy.edu.cn/info/1033/1646.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1033/1646.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "[人事]聘用人员（C类人员）考核审批表",
-      "url": "https://rsc.gdqy.edu.cn/info/1033/1645.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1033/1645.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "[人事]编外聘用专职人员调整聘用类别申请表",
-      "url": "https://rsc.gdqy.edu.cn/info/1033/1644.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1033/1644.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "[人事]编外聘用专职人员考核论证报告",
-      "url": "https://rsc.gdqy.edu.cn/info/1033/1643.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1033/1643.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "[人事]人才引进考核论证报告",
-      "url": "https://rsc.gdqy.edu.cn/info/1033/1642.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1033/1642.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东轻工职业技术大学",
       "title": "[人事]年度考核登记表",
-      "url": "https://rsc.gdqy.edu.cn/info/1033/1641.htm",
+      "url": "https://rsc.gdipu.edu.cn/info/1033/1641.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东交通职业技术学院",
+      "title": "教学设施",
+      "url": "https://www.gdcp.edu.cn/rsjy/jxss.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东交通职业技术学院",
+      "title": "教育教学",
+      "url": "https://www.gdcp.edu.cn/jyjx/zysz.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东交通职业技术学院",
+      "title": "人才培养数据状态平台",
+      "url": "http://sjpt.gdcp.cn",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东交通职业技术学院",
+      "title": "2026.01.28\n广东省事业单位2026年集中公开招聘高校毕业生公告（广东交通职业技术学院）",
+      "url": "https://www.gdcp.edu.cn/info/1391/131361.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东交通职业技术学院",
+      "title": "2026.01.28\n广东交通职业技术学院2025年集中公开招聘高层次和急需紧缺人才第二轮滚动招聘拟聘人员公示",
+      "url": "https://www.gdcp.edu.cn/info/1391/131341.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东交通职业技术学院",
+      "title": "2026.01.28\n广东交通职业技术学院2025年集中公开招聘高校毕业生（博士）拟聘用人员公示（第二批）",
+      "url": "https://www.gdcp.edu.cn/info/1391/131331.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东交通职业技术学院",
+      "title": "2025.12.31\n广东交通职业技术学院2025年集中公开招聘高层次和急需紧缺人才第三轮滚动招聘直接业务考核公告",
+      "url": "https://www.gdcp.edu.cn/info/1391/130501.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东交通职业技术学院",
+      "title": "2025.12.29\n广东交通职业技术学院2025年公开招聘工作人员公告",
+      "url": "https://www.gdcp.edu.cn/info/1391/130421.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东交通职业技术学院",
+      "title": "2025.11.26\n广东交通职业技术学院广东省事业单位2025年集中公开招聘高层次和急需紧缺人才第三轮滚动招聘资格复审公告",
+      "url": "https://www.gdcp.edu.cn/info/1391/128801.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东交通职业技术学院",
+      "title": "2025.11.26\n广东交通职业技术学院2025年集中公开招聘高层次和急需紧缺人才第二轮滚动招聘直接业务考核成绩及进入体检考生名单公告",
+      "url": "https://www.gdcp.edu.cn/info/1391/128751.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东交通职业技术学院",
+      "title": "2025.11.17\n广东交通职业技术学院2025年集中公开招聘高层次和急需紧缺人才第二轮滚动招聘直接业务考核公告",
+      "url": "https://www.gdcp.edu.cn/info/1391/128441.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东交通职业技术学院",
+      "title": "2025.11.13\n关于广东省事业单位2025年集中公开招聘高层次和急需紧缺人才第三轮招聘有关事项的公告",
+      "url": "https://www.gdcp.edu.cn/info/1391/128241.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广东交通职业技术学院",
+      "title": "2025.10.28\n广东交通职业技术学院关于广东省事业单位2025年集中公开招聘高层次和急需紧缺人才第二轮滚动招聘资格复审有关事宜的公告",
+      "url": "https://www.gdcp.edu.cn/info/1391/127411.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东南华工商职业学院",
       "title": "人事管理",
       "url": "https://www.nhic.edu.cn/rsc/gzzd/rsgl.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东南华工商职业学院",
       "title": "师资培养",
       "url": "https://www.nhic.edu.cn/rsc/gzzd/szpy.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东南华工商职业学院",
-      "title": "人才招聘",
-      "url": "https://www.nhic.edu.cn/rsc/rczp/zpxx.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东南华工商职业学院",
       "title": "应聘表格",
       "url": "https://www.nhic.edu.cn/rsc/rczp/ypbg.htm",
       "type": "其他",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东南华工商职业学院",
       "title": "教师资格",
       "url": "https://www.nhic.edu.cn/rsc/jszg/wtjd.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东南华工商职业学院",
       "title": "人事代理",
       "url": "https://www.nhic.edu.cn/rsc/sbzn/rsdl.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东南华工商职业学院",
       "title": "人事管理",
       "url": "https://www.nhic.edu.cn/rsc/bgxz/rsgl.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东南华工商职业学院",
       "title": "师资管理",
       "url": "https://www.nhic.edu.cn/rsc/bgxz/szgl.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东南华工商职业学院",
       "title": "广东省高职院校教师职称评审联盟2023年度…",
       "url": "https://www.nhic.edu.cn/rsc/info/1098/1514.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东南华工商职业学院",
       "title": "学校人事处赴广东机电职业技术学院开展人…",
       "url": "https://www.nhic.edu.cn/rsc/info/1098/1517.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东南华工商职业学院",
       "title": "广东省事业单位公开招聘人员办法",
       "url": "https://www.nhic.edu.cn/rsc/info/1135/1404.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东南华工商职业学院",
       "title": "教育部关于印发《新时代高校教师职业行为…",
       "url": "https://www.nhic.edu.cn/rsc/info/1135/1374.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东南华工商职业学院",
       "title": "教育部关于高校教师师德失范行为处理的指…",
       "url": "https://www.nhic.edu.cn/rsc/info/1135/1373.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东南华工商职业学院",
       "title": "《教师资格条例》实施办法",
       "url": "https://www.nhic.edu.cn/rsc/info/1135/1368.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东南华工商职业学院",
       "title": "03/23高校教师资格认定热点问题解答",
       "url": "https://www.nhic.edu.cn/rsc/info/1127/1226.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东机电职业技术学院",
       "title": "申请高校教师资格证办理指南",
       "url": "https://rsc.gdmec.edu.cn/info/1007/1803.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东机电职业技术学院",
       "title": "高职教育教师资格证办理指南",
       "url": "https://rsc.gdmec.edu.cn/info/1007/1804.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东机电职业技术学院",
       "title": "[师资建设]",
       "url": "https://rsc.gdmec.edu.cn/gzzd/szjs.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东机电职业技术学院",
       "title": "2024年高校教师资格认定通知",
       "url": "https://rsc.gdmec.edu.cn/info/1011/1958.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东机电职业技术学院",
       "title": "关于开展高职教育教师资格认证工作的通知",
       "url": "https://rsc.gdmec.edu.cn/info/1011/1928.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东机电职业技术学院",
       "title": "广东省人事考试局",
       "url": "http://rsks.gd.gov.cn/",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东机电职业技术学院",
       "title": "全国教师管理信息系统",
       "url": "https://jiaoshi.gdedu.gov.cn/",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东机电职业技术学院",
       "title": "2022年高等学校教师资格认定工作的通知附件",
       "url": "https://rsc.gdmec.edu.cn/info/1021/1435.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东机电职业技术学院",
       "title": "广东省教师资格申请人员体格检查表(2022年)",
       "url": "https://rsc.gdmec.edu.cn/info/1021/1433.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东机电职业技术学院",
       "title": "高职教师资格认定审批表",
       "url": "https://rsc.gdmec.edu.cn/info/1021/1432.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东机电职业技术学院",
       "title": "广东机电职业技术学院教学基本素质和能力测评表",
       "url": "https://rsc.gdmec.edu.cn/info/1021/1425.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "罗定职业技术学院",
-      "title": "人才招聘",
-      "url": "https://rsc.ldpoly.edu.cn/home/index/ListPage.html?catalogueId=1014337886ce402b8d2bee633791f536",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "罗定职业技术学院",
       "title": "师资建设",
       "url": "https://rsc.ldpoly.edu.cn/home/index/ListPage.html?catalogueId=57a774da37b44b558b4c4e3bef62978e",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "罗定职业技术学院",
       "title": "罗定职业技术学院2025年公开招聘聘用专职工作人员公告",
       "url": "https://rsc.ldpoly.edu.cn/home/index/contentPage.html?articleId=299e2e8243fa4aafb560fe627501070e&catalogueId=3622fa5929964a519ab06c1b6e2976aa",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "罗定职业技术学院",
       "title": "罗定职业技术学院2025年公开招聘专任教师第二批拟聘人员名单公示",
       "url": "https://rsc.ldpoly.edu.cn/home/index/contentPage.html?articleId=1220b71a67cb4363b207e84e4ef4f458&catalogueId=3622fa5929964a519ab06c1b6e2976aa",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "罗定职业技术学院",
       "title": "罗定职业技术学院2025年公开招聘聘用专职工作人员拟聘人员公示 \n2026-01-04",
       "url": "https://rsc.ldpoly.edu.cn/home/index/contentPage.html?articleId=b01017bbce4c439d80ed99c5ab255360&catalogueId=1014337886ce402b8d2bee633791f536&articleId=b01017bbce4c439d80ed99c5ab255360",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "罗定职业技术学院",
       "title": "罗定职业技术学院2025年公开招聘聘用专职工作人员公告\n2025-11-14",
       "url": "https://rsc.ldpoly.edu.cn/home/index/contentPage.html?articleId=299e2e8243fa4aafb560fe627501070e&catalogueId=1014337886ce402b8d2bee633791f536&articleId=299e2e8243fa4aafb560fe627501070e",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "罗定职业技术学院",
       "title": "罗定职业技术学院2025年公开招聘专任教师第二批拟聘人员名单公示\n2025-11-03",
       "url": "https://rsc.ldpoly.edu.cn/home/index/contentPage.html?articleId=1220b71a67cb4363b207e84e4ef4f458&catalogueId=1014337886ce402b8d2bee633791f536&articleId=1220b71a67cb4363b207e84e4ef4f458",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "罗定职业技术学院",
       "title": "罗定职业技术学院2025年公开招聘聘用人员公告\n2025-10-20",
       "url": "https://rsc.ldpoly.edu.cn/home/index/contentPage.html?articleId=8d4a4b0db4d0404c9301c59aea8e8355&catalogueId=1014337886ce402b8d2bee633791f536&articleId=8d4a4b0db4d0404c9301c59aea8e8355",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "罗定职业技术学院",
       "title": "罗定职业技术学院2025年公开招聘专任教师第一批拟聘人员名单公示\n2025-09-09",
       "url": "https://rsc.ldpoly.edu.cn/home/index/contentPage.html?articleId=b9f7614450c84e6ca8c36641b6bf4083&catalogueId=1014337886ce402b8d2bee633791f536&articleId=b9f7614450c84e6ca8c36641b6bf4083",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "罗定职业技术学院",
       "title": "关于公布罗定职业技术学院2021年度“双师素质”教师名单的通知​​​​​​​\n2022-06-30",
       "url": "https://rsc.ldpoly.edu.cn/home/index/contentPage.html?articleId=c6da8175f6754180a684a78d34919a06&catalogueId=57a774da37b44b558b4c4e3bef62978e&articleId=c6da8175f6754180a684a78d34919a06",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "罗定职业技术学院",
       "title": "罗定职业技术学院2021年符合认定高等学校教师资格人员名单公示\n2021-12-14",
       "url": "https://rsc.ldpoly.edu.cn/home/index/contentPage.html?articleId=be442f60e0e34934835df57405e9b4cd&catalogueId=57a774da37b44b558b4c4e3bef62978e&articleId=be442f60e0e34934835df57405e9b4cd",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "罗定职业技术学院",
       "title": "关于全体教师参加教师能力提升培训学习的通知\n2021-03-25",
       "url": "https://rsc.ldpoly.edu.cn/home/index/contentPage.html?articleId=9a6a2ad930c2442e899da8b9a5ed42ff&catalogueId=57a774da37b44b558b4c4e3bef62978e&articleId=9a6a2ad930c2442e899da8b9a5ed42ff",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "罗定职业技术学院",
       "title": "关于做好教学管理人员能力提升培训的通知\n2020-12-24",
       "url": "https://rsc.ldpoly.edu.cn/home/index/contentPage.html?articleId=43b37b65b78e479a83c33e615168b4a7&catalogueId=57a774da37b44b558b4c4e3bef62978e&articleId=43b37b65b78e479a83c33e615168b4a7",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "罗定职业技术学院",
       "title": "罗定职业技术学院2025年公开招聘聘用专职工作人员拟聘人员公示 \n2026-01-04",
       "url": "https://rsc.ldpoly.edu.cn/home/index/contentPage.html?articleId=b01017bbce4c439d80ed99c5ab255360&catalogueId=fe0891011ca64658bd991ff69e24b24e&articleId=b01017bbce4c439d80ed99c5ab255360",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "罗定职业技术学院",
       "title": "罗定职业技术学院2025年公开招聘聘用专职工作人员公告\n2025-11-14",
       "url": "https://rsc.ldpoly.edu.cn/home/index/contentPage.html?articleId=299e2e8243fa4aafb560fe627501070e&catalogueId=fe0891011ca64658bd991ff69e24b24e&articleId=299e2e8243fa4aafb560fe627501070e",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "罗定职业技术学院",
       "title": "罗定职业技术学院2025年公开招聘专任教师第二批拟聘人员名单公示\n2025-11-03",
       "url": "https://rsc.ldpoly.edu.cn/home/index/contentPage.html?articleId=1220b71a67cb4363b207e84e4ef4f458&catalogueId=fe0891011ca64658bd991ff69e24b24e&articleId=1220b71a67cb4363b207e84e4ef4f458",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "罗定职业技术学院",
       "title": "罗定职业技术学院2025年公开招聘聘用人员公告\n2025-10-20",
       "url": "https://rsc.ldpoly.edu.cn/home/index/contentPage.html?articleId=8d4a4b0db4d0404c9301c59aea8e8355&catalogueId=fe0891011ca64658bd991ff69e24b24e&articleId=8d4a4b0db4d0404c9301c59aea8e8355",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "罗定职业技术学院",
       "title": "中共中央 国务院关于全面深化新时代教师队伍建设改革的意见\n2023-07-05",
       "url": "http://www.gov.cn/zhengce/2018-01/31/content_5262659.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "罗定职业技术学院",
       "title": "罗定职业技术学院2024年公开招聘高层次专任教师公告\n2024-09-27",
       "url": "https://rsc.ldpoly.edu.cn/home/index/contentPage.html?articleId=ae90f379075f48ada38b21db570ed8f9&catalogueId=a3c7273c99f748a786e06c722a0753f2&articleId=ae90f379075f48ada38b21db570ed8f9",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "罗定职业技术学院",
       "title": "罗定职业技术学院2024年引进高层次人才专项公开招聘公告\n2024-09-27",
       "url": "https://rsc.ldpoly.edu.cn/home/index/contentPage.html?articleId=e16552a844804d4086a1e6c51ea51093&catalogueId=a3c7273c99f748a786e06c722a0753f2&articleId=e16552a844804d4086a1e6c51ea51093",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "罗定职业技术学院",
       "title": "关于公布罗定职业技术学院2021年度“双师素质”教师名单的通知​​​​​​​\n2022-06-30",
       "url": "https://rsc.ldpoly.edu.cn/home/index/contentPage.html?articleId=c6da8175f6754180a684a78d34919a06&catalogueId=a3c7273c99f748a786e06c722a0753f2&articleId=c6da8175f6754180a684a78d34919a06",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
-    },
-    {
-      "school": "广东省外语艺术职业学院",
-      "title": "人才招聘",
-      "url": "https://rsc.gtcfla.edu.cn/rczp/gkzp.htm",
-      "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东省外语艺术职业学院",
       "title": "师资建设",
       "url": "https://rsc.gtcfla.edu.cn/szjs/pyhj.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东省外语艺术职业学院",
       "title": "人力资源部 教师发展中心党支部组织学习贯彻党的...",
       "url": "https://rsc.gtcfla.edu.cn/info/1028/2703.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东省外语艺术职业学院",
       "title": "擘画人才发展与师资建设新蓝图——人力资源部召...",
       "url": "https://rsc.gtcfla.edu.cn/info/1028/2698.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东省外语艺术职业学院",
       "title": "【学习教育】人力资源部、教师发展中心党支部与...",
       "url": "https://rsc.gtcfla.edu.cn/info/1028/2691.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东省外语艺术职业学院",
       "title": "百万英才汇南粤广东省集中招聘（第...",
       "url": "https://rsc.gtcfla.edu.cn/info/1113/2692.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东省外语艺术职业学院",
       "title": "广东省外语艺术职业学院干部人事档...",
       "url": "https://rsc.gtcfla.edu.cn/info/1059/2577.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东省外语艺术职业学院",
       "title": "广东省外语艺术职业学院公开招聘工...",
       "url": "https://rsc.gtcfla.edu.cn/info/1043/2461.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东省外语艺术职业学院",
       "title": "关于开展2023年高等学校教师资格认...",
       "url": "https://rsc.gtcfla.edu.cn/info/1063/2558.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东理工职业学院",
       "title": "人事工作",
       "url": "https://rsc.gdpi.edu.cn/rsgz/rsdp.htm",
       "type": "行政岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东理工职业学院",
       "title": "人力资源部（教师工作部）工会支部开展贯彻党的二...2025-11-12",
       "url": "https://rsc.gdpi.edu.cn/info/1119/2499.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东理工职业学院",
       "title": "戮力同心  行稳致远 ——人力资源部（教师工作部）...2025-10-16",
       "url": "https://rsc.gdpi.edu.cn/info/1119/2469.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东理工职业学院",
       "title": "人力资源部（教师发展中心）工会党支部开展党的二...2024-09-14",
       "url": "https://rsc.gdpi.edu.cn/info/1119/2349.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     },
     {
       "school": "广东理工职业学院",
       "title": "人力资源部（教师发展中心）工会党支部开展《纪法...2024-06-26",
       "url": "https://rsc.gdpi.edu.cn/info/1119/2329.htm",
       "type": "教师岗",
-      "fetched_at": "2026-02-20"
+      "fetched_at": "2026-02-21"
     }
   ],
   "sources": [
@@ -3257,39 +4223,39 @@
       "type": "本科",
       "recruitment_url": "https://rsc.sysu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "华南理工大学",
       "city": "广州市",
       "type": "本科",
-      "recruitment_url": "https://www.scut.edu.cn/hr/",
-      "recruitment_name": "人才招聘",
-      "last_checked": "2026-02-20 22:15"
+      "recruitment_url": "https://zp.rs.scut.edu.cn/recruitWeb",
+      "recruitment_name": "人才招聘网",
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "暨南大学",
       "city": "广州市",
       "type": "本科",
-      "recruitment_url": "https://hr.jnu.edu.cn/",
+      "recruitment_url": "https://www.jnu.edu.cn/2517/list.htm",
       "recruitment_name": "人才招聘",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "汕头大学",
       "city": "汕头市",
       "type": "本科",
-      "recruitment_url": "https://www.stu.edu.cn/rsc/",
+      "recruitment_url": "https://rsc.stu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "华南农业大学",
       "city": "广州市",
       "type": "本科",
-      "recruitment_url": "https://rsc.scau.edu.cn/",
-      "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "recruitment_url": "https://hr.scau.edu.cn/",
+      "recruitment_name": "人力资源处",
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东海洋大学",
@@ -3297,7 +4263,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gdou.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广州医科大学",
@@ -3305,7 +4271,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gzhmu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东医科大学",
@@ -3313,7 +4279,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gdmu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广州中医药大学",
@@ -3321,7 +4287,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gzucm.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东药科大学",
@@ -3329,15 +4295,15 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gdpu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "华南师范大学",
       "city": "广州市",
       "type": "本科",
-      "recruitment_url": "https://rsc.scnu.edu.cn/",
-      "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "recruitment_url": "http://rsc.scnu.edu.cn/",
+      "recruitment_name": "人力资源处",
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "韶关学院",
@@ -3345,7 +4311,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.sgu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "惠州学院",
@@ -3353,7 +4319,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.hzu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "韩山师范学院",
@@ -3361,7 +4327,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.hstc.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "岭南师范学院",
@@ -3369,7 +4335,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.lingnan.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "肇庆学院",
@@ -3377,7 +4343,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.zqu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "嘉应学院",
@@ -3385,15 +4351,15 @@
       "type": "本科",
       "recruitment_url": "https://rsc.jyu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广州体育学院",
       "city": "广州市",
       "type": "本科",
-      "recruitment_url": "https://rsc.gipe.edu.cn/",
-      "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "recruitment_url": "https://zp.gzsport.edu.cn/",
+      "recruitment_name": "公开招聘网",
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广州美术学院",
@@ -3401,23 +4367,23 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gzarts.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "星海音乐学院",
       "city": "广州市",
       "type": "本科",
-      "recruitment_url": "https://rsc.xhcom.edu.cn/",
-      "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "recruitment_url": "https://zp.xhcom.edu.cn/",
+      "recruitment_name": "招聘系统",
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东技术师范大学",
       "city": "广州市",
       "type": "本科",
-      "recruitment_url": "https://rsc.gpnu.edu.cn/",
+      "recruitment_url": "http://rsc.gpnu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "深圳大学",
@@ -3425,7 +4391,7 @@
       "type": "本科",
       "recruitment_url": "https://hr.szu.edu.cn/",
       "recruitment_name": "人才招聘",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东财经大学",
@@ -3433,15 +4399,15 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gdufe.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东白云学院",
       "city": "广州市",
       "type": "本科",
-      "recruitment_url": "https://www.baiyunu.edu.cn/rsc/",
+      "recruitment_url": "https://rlzy.baiyunu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广州大学",
@@ -3449,7 +4415,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gzhu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广州航海学院",
@@ -3457,7 +4423,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gzmtu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东警官学院",
@@ -3465,7 +4431,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gdppla.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "仲恺农业工程学院",
@@ -3473,15 +4439,15 @@
       "type": "本科",
       "recruitment_url": "https://rsc.zhku.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "五邑大学",
       "city": "江门市",
       "type": "本科",
-      "recruitment_url": "https://rsc.wyu.edu.cn/",
-      "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "recruitment_url": "https://www.wyu.edu.cn/hr/",
+      "recruitment_name": "人力资源管理处",
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东金融学院",
@@ -3489,7 +4455,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gduf.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "电子科技大学中山学院",
@@ -3497,39 +4463,39 @@
       "type": "本科",
       "recruitment_url": "https://rsc.zsc.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东石油化工学院",
       "city": "茂名市",
       "type": "本科",
-      "recruitment_url": "https://rsc.gdupt.edu.cn/",
-      "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "recruitment_url": "https://site.gdupt.edu.cn/renshichu/",
+      "recruitment_name": "人力资源部",
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "东莞理工学院",
       "city": "东莞市",
       "type": "本科",
-      "recruitment_url": "https://rsc.dgut.edu.cn/",
-      "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "recruitment_url": "https://rs.dgut.edu.cn/",
+      "recruitment_name": "人力资源部",
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东工业大学",
       "city": "广州市",
       "type": "本科",
-      "recruitment_url": "https://rsc.gdut.edu.cn/",
+      "recruitment_url": "https://hr.gdut.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东外语外贸大学",
       "city": "广州市",
       "type": "本科",
-      "recruitment_url": "https://rsc.gdufs.edu.cn/",
+      "recruitment_url": "http://rsc.gdufs.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "佛山科学技术学院",
@@ -3537,7 +4503,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.fosu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东培正学院",
@@ -3545,7 +4511,7 @@
       "type": "本科",
       "recruitment_url": "https://www.peizheng.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "南方医科大学",
@@ -3553,7 +4519,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.smu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东东软学院",
@@ -3561,7 +4527,7 @@
       "type": "本科",
       "recruitment_url": "https://www.nuit.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广州城市理工学院",
@@ -3569,7 +4535,7 @@
       "type": "本科",
       "recruitment_url": "https://www.gcu.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广州软件学院",
@@ -3577,7 +4543,7 @@
       "type": "本科",
       "recruitment_url": "https://www.sise.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广州南方学院",
@@ -3585,7 +4551,7 @@
       "type": "本科",
       "recruitment_url": "https://www.nfu.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东外语外贸大学南国商学院",
@@ -3593,7 +4559,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gwng.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广州华商学院",
@@ -3601,7 +4567,7 @@
       "type": "本科",
       "recruitment_url": "https://www.gdhsc.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "湛江科技学院",
@@ -3609,7 +4575,7 @@
       "type": "本科",
       "recruitment_url": "https://www.gdcjxy.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "华南农业大学珠江学院",
@@ -3617,15 +4583,15 @@
       "type": "本科",
       "recruitment_url": "https://www.scauzhujiang.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广州理工学院",
       "city": "广州市",
       "type": "本科",
-      "recruitment_url": "https://www.gzist.edu.cn/rsc/",
+      "recruitment_url": "https://rsc.gzist.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广州华立学院",
@@ -3633,7 +4599,7 @@
       "type": "本科",
       "recruitment_url": "https://www.hualixy.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广州应用科技学院",
@@ -3641,7 +4607,7 @@
       "type": "本科",
       "recruitment_url": "https://www.gzuas.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广州商学院",
@@ -3649,7 +4615,7 @@
       "type": "本科",
       "recruitment_url": "https://www.gcc.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "北京理工大学珠海学院",
@@ -3657,15 +4623,15 @@
       "type": "本科",
       "recruitment_url": "https://rsc.bitzh.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "珠海科技学院",
       "city": "珠海市",
       "type": "本科",
-      "recruitment_url": "https://rsc.zcst.edu.cn/",
+      "recruitment_url": "https://hr.zcst.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广州工商学院",
@@ -3673,7 +4639,7 @@
       "type": "本科",
       "recruitment_url": "https://www.gzgs.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东科技学院",
@@ -3681,7 +4647,7 @@
       "type": "本科",
       "recruitment_url": "https://www.gdust.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东理工学院",
@@ -3689,7 +4655,7 @@
       "type": "本科",
       "recruitment_url": "https://www.gdlgxy.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "东莞城市学院",
@@ -3697,7 +4663,7 @@
       "type": "本科",
       "recruitment_url": "https://www.ccdgut.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广州新华学院",
@@ -3705,7 +4671,7 @@
       "type": "本科",
       "recruitment_url": "https://www.xhsysu.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东第二师范学院",
@@ -3713,7 +4679,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gdei.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "南方科技大学",
@@ -3721,7 +4687,7 @@
       "type": "本科",
       "recruitment_url": "https://hr.sustech.edu.cn/",
       "recruitment_name": "人才招聘",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "深圳技术大学",
@@ -3729,23 +4695,23 @@
       "type": "本科",
       "recruitment_url": "https://hr.sztu.edu.cn/",
       "recruitment_name": "人才招聘",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "深圳职业技术大学",
       "city": "深圳市",
       "type": "本科",
-      "recruitment_url": "https://rsc.szpt.edu.cn/",
-      "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "recruitment_url": "https://www.szpu.edu.cn/jyjx1/rczp.htm",
+      "recruitment_name": "人才招聘",
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东轻工职业技术大学",
       "city": "广州市",
       "type": "本科",
-      "recruitment_url": "https://rsc.gdqy.edu.cn/",
-      "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "recruitment_url": "https://rsc.gdipu.edu.cn/",
+      "recruitment_name": "人力资源部",
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "顺德职业技术大学",
@@ -3753,7 +4719,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.sdpt.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广州职业技术大学",
@@ -3761,7 +4727,7 @@
       "type": "本科",
       "recruitment_url": "https://www.gzpyp.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "深圳信息职业技术大学",
@@ -3769,15 +4735,15 @@
       "type": "本科",
       "recruitment_url": "https://rsc.sziit.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东交通职业技术学院",
       "city": "广州市",
       "type": "专科",
-      "recruitment_url": "https://rsc.gdcp.edu.cn/",
-      "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "recruitment_url": "https://www.gdcp.edu.cn/rczp.htm",
+      "recruitment_name": "人才招聘",
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东水利电力职业技术学院",
@@ -3785,7 +4751,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdsdxy.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "深圳职业技术学院",
@@ -3793,7 +4759,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.szpt.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东南华工商职业学院",
@@ -3801,7 +4767,7 @@
       "type": "专科",
       "recruitment_url": "https://www.nhic.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广州民航职业技术学院",
@@ -3809,7 +4775,7 @@
       "type": "专科",
       "recruitment_url": "https://www.caac.net/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广州番禺职业技术学院",
@@ -3817,7 +4783,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gzpyp.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东松山职业技术学院",
@@ -3825,7 +4791,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdsspt.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东农工商职业技术学院",
@@ -3833,7 +4799,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdaib.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "佛山职业技术学院",
@@ -3841,7 +4807,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.fspt.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东科学技术职业学院",
@@ -3849,7 +4815,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdit.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东食品药品职业学院",
@@ -3857,7 +4823,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdyzy.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东行政职业学院",
@@ -3865,7 +4831,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdxzzy.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东体育职业技术学院",
@@ -3873,7 +4839,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdtzy.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东职业技术学院",
@@ -3881,7 +4847,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdpt.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东建设职业技术学院",
@@ -3889,7 +4855,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdcvi.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东女子职业技术学院",
@@ -3897,7 +4863,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdfs.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东机电职业技术学院",
@@ -3905,7 +4871,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdmec.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "汕尾职业技术学院",
@@ -3913,7 +4879,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.swvtc.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "罗定职业技术学院",
@@ -3921,7 +4887,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.ldpoly.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "阳江职业技术学院",
@@ -3929,7 +4895,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.yjpt.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "河源职业技术学院",
@@ -3937,7 +4903,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.hycollege.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东邮电职业技术学院",
@@ -3945,7 +4911,7 @@
       "type": "专科",
       "recruitment_url": "https://www.gupt.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "汕头职业技术学院",
@@ -3953,7 +4919,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.stpt.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "揭阳职业技术学院",
@@ -3961,7 +4927,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.jyc.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "清远职业技术学院",
@@ -3969,7 +4935,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.qypt.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东工贸职业技术学院",
@@ -3977,7 +4943,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdgm.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东司法警官职业学院",
@@ -3985,7 +4951,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdsfjy.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东省外语艺术职业学院",
@@ -3993,7 +4959,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gtcfla.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东文艺职业学院",
@@ -4001,7 +4967,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdla.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广州体育职业技术学院",
@@ -4009,7 +4975,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gztzy.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广州工程技术职业学院",
@@ -4017,7 +4983,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gziec.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "中山火炬职业技术学院",
@@ -4025,7 +4991,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.zstp.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "江门职业技术学院",
@@ -4033,7 +4999,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.jmpt.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "茂名职业技术学院",
@@ -4041,7 +5007,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.mmpt.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "珠海城市职业技术学院",
@@ -4049,7 +5015,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.zcpt.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东理工职业学院",
@@ -4057,7 +5023,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdpi.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广州城市职业学院",
@@ -4065,7 +5031,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gcp.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东工程职业技术学院",
@@ -4073,7 +5039,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdie.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广州铁路职业技术学院",
@@ -4081,7 +5047,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gtxy.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东科贸职业学院",
@@ -4089,7 +5055,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdkm.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     },
     {
       "name": "广东女子职业学院",
@@ -4097,7 +5063,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdfs.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-20 22:15"
+      "last_checked": "2026-02-21 00:06"
     }
   ]
 }

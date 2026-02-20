@@ -8,6 +8,7 @@
 
 import json
 import os
+import re
 import time
 from datetime import datetime
 from pathlib import Path
@@ -25,6 +26,15 @@ except ImportError:
 KEYWORDS_TEACHER = ["教师", "教师岗", "教学", "师资", "博士", "硕士招聘", "专任教师", "辅导员"]
 KEYWORDS_ADMIN = ["行政", "管理岗", "职员", "人事", "招聘", "人才引进", "公开招聘"]
 KEYWORDS_COMMON = ["招聘", "人才", "应聘", "招录", "公告"]
+
+# 栏目/导航类短标题，不当作具体文章收集（避免“人事政策”“人事改革”等）
+NAV_BLOCKLIST = frozenset([
+    "人事政策", "人事改革", "工作流程", "办事指南", "机构设置", "规章制度",
+    "下载专区", "通知公告", "招聘信息", "首页", "更多", "列表", "栏目",
+    "政策法规", "师资队伍", "部门介绍", "联系我们", "人才招聘",
+])
+# 具体文章/制度常见特征（标题含这些或含年份则视为“具体条目”）
+ARTICLE_INDICATORS = ("公告", "通知", "办法", "条例", "启事", "公示", "简章", "计划", "规定", "意见")
 
 DATA_DIR = Path(__file__).resolve().parent / "data"
 UNIVERSITIES_JSON = DATA_DIR / "universities_guangdong.json"
@@ -86,6 +96,32 @@ def is_likely_job_link(a_tag, base_url: str) -> bool:
     return any(k in combined for k in KEYWORDS_COMMON + KEYWORDS_TEACHER + KEYWORDS_ADMIN)
 
 
+def is_nav_or_category(title: str) -> bool:
+    """短标题且为栏目/导航名则排除，不当作具体文章"""
+    t = (title or "").strip()
+    if len(t) <= 2:
+        return True
+    if t in NAV_BLOCKLIST:
+        return True
+    for nav in NAV_BLOCKLIST:
+        if nav in t and len(t) <= len(nav) + 4:  # 如“人事政策一览”
+            return True
+    return False
+
+
+def is_article_like(title: str) -> bool:
+    """标题像具体文章/制度（含公告、通知、年份等）"""
+    t = (title or "").strip()
+    if is_nav_or_category(t):
+        return False
+    if any(k in t for k in ARTICLE_INDICATORS):
+        return True
+    import re
+    if re.search(r"20\d{2}", t):  # 含年份
+        return True
+    return len(t) >= 12  # 较长标题多为具体文章（栏目名通常较短）
+
+
 def fetch_page(url: str) -> Optional[str]:
     try:
         r = requests.get(url, headers=REQUEST_HEADERS, timeout=REQUEST_TIMEOUT)
@@ -115,6 +151,8 @@ def extract_job_links(html: str, base_url: str, school_name: str) -> List[dict]:
         seen_urls.add(full_url)
         title = (a.get_text() or "").strip()
         if len(title) < 2 or len(title) > 120:
+            continue
+        if is_nav_or_category(title):
             continue
         job_type = classify_job_type(title, full_url)
         jobs.append({

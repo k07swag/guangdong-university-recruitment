@@ -61,22 +61,6 @@
       font-size: 0.9rem;
       cursor: pointer;
     }
-    .pill {
-      display: inline-block;
-      padding: 6px 14px;
-      border-radius: 999px;
-      font-size: 0.85rem;
-      cursor: pointer;
-      border: 1px solid var(--border);
-      background: var(--card);
-      color: var(--text);
-      margin-right: 8px;
-      margin-bottom: 8px;
-    }
-    .pill:hover { border-color: var(--accent); color: var(--accent); }
-    .pill.active { background: var(--accent); border-color: var(--accent); color: var(--bg); }
-    .pill.teacher.active { background: var(--teacher); border-color: var(--teacher); }
-    .pill.admin.active { background: var(--admin); border-color: var(--admin); }
     .meta {
       color: var(--muted);
       font-size: 0.85rem;
@@ -97,18 +81,26 @@
       padding: 0;
       margin: 0;
     }
-    .job-item, .school-item {
-      background: var(--card);
-      border: 1px solid var(--border);
+    .job-item { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px; margin-bottom: 10px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px; }
+    .school-item-wrapper { position: relative; margin-bottom: 10px; }
+    .school-item {
       border-radius: 10px;
       padding: 14px 16px;
-      margin-bottom: 10px;
       display: flex;
       align-items: center;
       justify-content: space-between;
       flex-wrap: wrap;
       gap: 10px;
+      border: 1px solid var(--border);
+      transition: background 0.2s;
     }
+    .school-item.cat-985 { background: rgba(88, 166, 255, 0.22); }
+    .school-item.cat-211 { background: rgba(88, 166, 255, 0.16); }
+    .school-item.cat-普通一本 { background: rgba(88, 166, 255, 0.11); }
+    .school-item.cat-普通二本 { background: rgba(88, 166, 255, 0.07); }
+    .school-item.cat-普通三本 { background: rgba(88, 166, 255, 0.04); }
+    .school-item.cat-大专 { background: rgba(88, 166, 255, 0.02); }
+    .school-item:not([class*="cat-"]) { background: var(--card); }
     .job-item a, .school-item a {
       color: var(--accent);
       text-decoration: none;
@@ -125,8 +117,21 @@
     .job-type.行政岗 { background: rgba(210, 153, 34, 0.2); color: var(--admin); }
     .job-type.其他 { background: rgba(88, 166, 255, 0.2); color: var(--accent); }
     .job-school, .school-name { color: var(--muted); font-size: 0.9rem; }
+    .school-item .link-wrap { margin-left: auto; text-align: right; display: flex; align-items: center; gap: 10px; flex-shrink: 0; }
     .link-primary { font-weight: 500; }
-    .search-fallback { font-size: 0.8rem; color: var(--muted); margin-left: 8px; }
+    .search-fallback { font-size: 1rem; text-decoration: none; }
+    .search-fallback:hover { text-decoration: underline; }
+    .new-badge { font-size: 0.65rem; color: var(--teacher); margin-right: 4px; font-weight: 600; }
+    .wen-badge { font-size: 0.75rem; color: var(--muted); margin-right: 6px; }
+    .school-item-dropdown {
+      background: rgba(88, 166, 255, 0.15); border: 1px solid var(--border); border-top: none;
+      border-radius: 0 0 10px 10px; max-height: 0; overflow: hidden;
+      padding: 0 16px; transition: max-height 0.5s ease;
+    }
+    .school-item-wrapper:hover .school-item-dropdown { max-height: 180px; padding: 10px 16px; overflow: auto; }
+    .school-item-dropdown a { display: block; color: var(--accent); font-size: 0.85rem; padding: 4px 0; text-decoration: none; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .school-item-dropdown a:hover { text-decoration: underline; }
+    .school-item-dropdown .muted { color: var(--muted); font-size: 0.85rem; }
     .empty { color: var(--muted); padding: 24px; text-align: center; }
     .tabs {
       display: flex;
@@ -154,11 +159,6 @@
     <p class="subtitle">收集广东省内本科、专科院校人事处/招聘页入口与抓取的招聘公告，便于统一查看与更新。</p>
 
     <div class="filters">
-      <span><label>岗位</label>
-        <span class="pill active" data-type="all">全部</span>
-        <span class="pill teacher" data-type="教师岗">教师岗</span>
-        <span class="pill admin" data-type="行政岗">行政岗</span>
-      </span>
       <span><label>城市</label>
         <select id="filterCity">
           <option value="">全部城市</option>
@@ -169,6 +169,17 @@
           <option value="">全部</option>
           <option value="本科">本科</option>
           <option value="专科">专科</option>
+        </select>
+      </span>
+      <span><label>院校层次</label>
+        <select id="filterCategory">
+          <option value="">全部</option>
+          <option value="985">985</option>
+          <option value="211">211</option>
+          <option value="普通一本">普通一本</option>
+          <option value="普通二本">普通二本</option>
+          <option value="普通三本">普通三本</option>
+          <option value="大专">大专</option>
         </select>
       </span>
     </div>
@@ -182,7 +193,7 @@
 
     <section id="panel-schools" class="panel active">
       <h2>各校招聘/人事处入口</h2>
-      <p class="meta" style="margin-top:0;">「<strong>搜索该校招聘</strong>」优先跳转至该校人事处/招聘官方页（与百度结果中带【官方】的页面一致）；无直达时打开百度 site:edu.cn 搜索。「<strong>了解更多</strong>」打开该校人事处相关百度搜索页。</p>
+      <p class="meta" style="margin-top:0;">「<strong>招聘页</strong>」为百度搜索「校名 人事 招聘」结果中的【官方】或第一条人事/招聘链接；无则打开该搜索页。「<strong>🔍</strong>」始终打开百度搜索页，可自行点击【官方】链接。</p>
       <ul class="school-list" id="schoolList"></ul>
     </section>
 
@@ -196,9 +207,48 @@
   <script>
     let jobsData = { last_updated: "", jobs: [], sources: [] };
     let universitiesData = { universities: [] };
-    let currentType = "all";
     let currentCity = "";
     let currentSchoolType = "";
+    let currentCategory = "";
+
+    const CATEGORY_ORDER = { "985": 0, "211": 1, "普通一本": 2, "普通二本": 3, "普通三本": 4, "大专": 5 };
+    const WEN_KEYWORDS = /文|文学|历史|哲学|法学|政治|社会|传媒|语言|艺术|教育|心理|马院|思政|中文|外语|经管|新闻|传播|人文/i;
+
+    function isWithin7Days(dateStr) {
+      if (!dateStr) return false;
+      const d = new Date(dateStr); if (isNaN(d.getTime())) return false;
+      const now = new Date(); const diff = (now - d) / (24 * 60 * 60 * 1000);
+      return diff >= 0 && diff <= 7;
+    }
+
+    function getSchoolJobs(schoolName) {
+      const jobs = (jobsData.jobs || []).filter(j => j.school === schoolName);
+      jobs.sort((a, b) => (b.fetched_at || "").localeCompare(a.fetched_at || ""));
+      return jobs;
+    }
+
+    function isArticleLikeTitle(title) {
+      const t = (title || "").trim();
+      const navLike = /^(人事政策|人事改革|工作流程|办事指南|机构设置|规章制度|下载专区|通知公告|招聘信息|首页|更多|列表|栏目|政策法规|师资队伍|部门介绍|联系我们|人才招聘)$/;
+      if (navLike.test(t) || t.length <= 4) return false;
+      if (/公告|通知|办法|条例|启事|公示|简章|计划|规定|意见/.test(t)) return true;
+      if (/20\d{2}/.test(t)) return true;
+      return t.length >= 12;
+    }
+
+    function isRecruitmentOrTalentRelated(title) {
+      const t = (title || "").trim();
+      if (!t) return false;
+      const recruitmentKeywords = /招聘|人才引进|人才政策|引进|招录|选聘|聘任|人才需求|高层次人才|招聘公告|招聘启事|教师招聘|行政招聘|专职教师|人事(招聘|引进)/;
+      return recruitmentKeywords.test(t);
+    }
+
+    function getTop3ArticleLikeJobs(schoolJobs) {
+      const articleLike = schoolJobs.filter(j => isArticleLikeTitle(j.title));
+      const recruitmentRelated = articleLike.filter(j => isRecruitmentOrTalentRelated(j.title));
+      const pool = recruitmentRelated.length > 0 ? recruitmentRelated : articleLike;
+      return pool.slice(0, 3);
+    }
 
     async function loadData() {
       try {
@@ -220,7 +270,6 @@
         + " 共 " + u.length + " 所院校、当前抓取 " + jobs.length + " 条招聘相关信息。"
         + " 更新方式见 README。";
       fillCityOptions(u);
-      renderPills();
       renderJobs();
       renderSchools(u);
     }
@@ -242,16 +291,12 @@
       renderJobs();
       renderSchools(universitiesData.universities || []);
     });
-
-    function renderPills() {
-      document.querySelectorAll(".filters .pill[data-type]").forEach(el => {
-        el.classList.toggle("active", el.dataset.type === currentType);
-        el.onclick = () => { currentType = el.dataset.type; renderPills(); renderJobs(); };
-      });
-    }
+    document.getElementById("filterCategory").addEventListener("change", function() {
+      currentCategory = this.value;
+      renderSchools(universitiesData.universities || []);
+    });
 
     function filterJob(job) {
-      if (currentType !== "all" && job.type !== currentType) return false;
       const schools = universitiesData.universities || [];
       const school = schools.find(s => s.name === job.school);
       if (currentCity && (!school || school.city !== currentCity)) return false;
@@ -284,20 +329,42 @@
       let list = universities;
       if (currentCity) list = list.filter(u => u.city === currentCity);
       if (currentSchoolType) list = list.filter(u => u.type === currentSchoolType);
+      if (currentCategory) list = list.filter(u => (u.category || "") === currentCategory);
+      list = list.slice().sort((a, b) => {
+        const cityC = (a.city || "").localeCompare(b.city || "");
+        if (cityC !== 0) return cityC;
+        const typeOrder = (x) => (x.type === "本科" ? 0 : 1);
+        const typeC = typeOrder(a) - typeOrder(b);
+        if (typeC !== 0) return typeC;
+        return (CATEGORY_ORDER[a.category] ?? 99) - (CATEGORY_ORDER[b.category] ?? 99);
+      });
       const ul = document.getElementById("schoolList");
       ul.innerHTML = "";
       list.forEach(u => {
-        const officialUrl = (u.recruitment_url || "").trim();
-        const searchOfficial = "https://www.baidu.com/s?wd=" + encodeURIComponent(u.name + " 人事处 招聘 site:edu.cn");
-        const searchRenshi = "https://www.baidu.com/s?wd=" + encodeURIComponent(u.name + " 人事处");
-        const primaryHref = officialUrl || searchOfficial;
-        const li = document.createElement("li");
-        li.className = "school-item";
-        li.innerHTML =
-          "<span class=\"school-name\">" + escapeHtml(u.name) + " · " + escapeHtml(u.city || "") + " · " + escapeHtml(u.type || "") + "</span> "
-          + "<a href=\"" + escapeHtml(primaryHref) + "\" target=\"_blank\" rel=\"noopener\" class=\"link-primary\">搜索该校招聘</a>"
-          + " <a href=\"" + searchRenshi + "\" target=\"_blank\" rel=\"noopener\" class=\"search-fallback\">了解更多</a>";
-        ul.appendChild(li);
+        const officialPageUrl = (u.recruitment_url || "").trim();
+        const baiduSearchUrl = "https://www.baidu.com/s?wd=" + encodeURIComponent(u.name + " 人事部 招聘");
+        const category = u.category || "";
+        const primaryHref = officialPageUrl || baiduSearchUrl;
+        const schoolJobs = getSchoolJobs(u.name);
+        const recentJobs = schoolJobs.filter(j => isWithin7Days(j.fetched_at));
+        const hasNew = recentJobs.length > 0;
+        const hasWen = recentJobs.some(j => WEN_KEYWORDS.test(j.title || ""));
+        const top3 = getTop3ArticleLikeJobs(schoolJobs);
+        const catClass = category ? " cat-" + category.replace(/\s/g, "") : "";
+        const wrapper = document.createElement("li");
+        wrapper.className = "school-item-wrapper";
+        const newHtml = hasNew ? "<span class=\"new-badge\">new</span>" : "";
+        const wenHtml = hasWen ? "<span class=\"wen-badge\">文</span>" : "";
+        const dropdownHtml = top3.length > 0
+          ? "<div class=\"school-item-dropdown\">" + top3.map(j => "<a href=\"" + escapeHtml(j.url) + "\" target=\"_blank\" rel=\"noopener\" title=\"" + escapeHtml(j.title) + "\">" + escapeHtml(j.title) + "</a>").join("") + "</div>"
+          : "<div class=\"school-item-dropdown\"><span class=\"muted\">暂无抓取公告，运行 update_jobs.py 可更新</span></div>";
+        wrapper.innerHTML =
+          "<div class=\"school-item" + catClass + "\">"
+          + "<span class=\"school-name\">" + escapeHtml(u.name) + " · " + escapeHtml(u.city || "") + " · " + escapeHtml(u.type || "") + (category ? " · " + escapeHtml(category) : "") + "</span> "
+          + "<span class=\"link-wrap\">" + newHtml + wenHtml + "<a href=\"" + escapeHtml(primaryHref) + "\" target=\"_blank\" rel=\"noopener\" class=\"link-primary\">招聘页</a>"
+          + " <a href=\"" + escapeHtml(baiduSearchUrl) + "\" target=\"_blank\" rel=\"noopener\" class=\"search-fallback\" title=\"百度搜索该校人事部招聘\">🔍</a></span></div>"
+          + dropdownHtml;
+        ul.appendChild(wrapper);
       });
     }
 

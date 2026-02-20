@@ -6,12 +6,13 @@
 
 ```
 GuangdongUniversityRecruitment/
-├── index.html          # 展示页（招聘列表 + 各校入口）
-├── update_jobs.py      # 更新脚本：抓取各校人事处页面并提取招聘链接
-├── requirements.txt   # Python 依赖
+├── index.html                          # 展示页（招聘列表 + 各校入口）
+├── update_jobs.py                      # 更新脚本：抓取各校人事处页面并提取招聘链接
+├── update_official_urls_from_baidu.py # 从百度搜索「校名 人事 招聘」结果中取【官方】/第一条 URL 写回院校 JSON
+├── requirements.txt                   # Python 依赖
 ├── data/
-│   ├── universities_guangdong.json  # 院校名单与招聘页 URL
-│   └── jobs.json                    # 抓取到的招聘信息（由脚本更新）
+│   ├── universities_guangdong.json    # 院校名单与招聘页 URL（招聘页建议用上面脚本从百度更新）
+│   └── jobs.json                      # 抓取到的招聘信息（由 update_jobs.py 更新）
 └── README.md
 ```
 
@@ -69,14 +70,21 @@ python3 update_jobs.py
 
 ## 维护院校名单与链接
 
+- **招聘页 URL 来源（不再使用推测的人事处域名）**：运行 **`update_official_urls_from_baidu.py`**，会从百度搜索「校名 人事 招聘」结果页中提取【官方】或第一条人事/招聘相关结果的真实 URL，写回 `data/universities_guangdong.json` 的 `recruitment_url`。若某校未解析到结果则清空该字段，页面上「招聘页」会显示为打开百度搜索页。
+  ```bash
+  pip install -r requirements.txt   # 若未安装
+  python3 update_official_urls_from_baidu.py
+  ```
+  建议在修改院校名单后或链接失效时执行一次。脚本会对百度做请求并解析，间隔约 1.2 秒/校，全部跑完约数分钟。
+
 - 编辑 `data/universities_guangdong.json`：
   - `name`：学校名称  
   - `city`：城市  
   - `type`：本科 / 专科  
-  - `recruitment_url`：该校人事处或招聘公告列表页的 URL（必填才会被脚本抓取）  
+  - `recruitment_url`：由上面脚本从百度结果写入；也可手动填写该校人事/招聘【官方】页 URL  
   - `recruitment_name`：链接显示名称（如「人事处」「人才招聘」）
 
-新增学校或修正链接后，重新运行 `python3 update_jobs.py` 即可更新数据。
+新增学校或修正链接后，可先运行 `update_official_urls_from_baidu.py` 更新招聘页，再运行 `python3 update_jobs.py` 更新公告数据。
 
 ## 部署到 GitHub Pages
 
