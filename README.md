@@ -81,8 +81,10 @@ python3 update_jobs.py
   - `name`：学校名称  
   - `city`：城市  
   - `type`：本科 / 专科  
-  - `recruitment_url`：由上面脚本从百度结果写入；也可手动填写该校人事/招聘【官方】页 URL  
+  - `recruitment_url`：由上面脚本从百度结果写入；也可手动填写该校人事/招聘【官方】页 URL（留空则「招聘页」打开百度搜索）  
   - `recruitment_name`：链接显示名称（如「人事处」「人才招聘」）
+
+**最全名单来源**：教育部每年公布《全国高等学校名单》，含各省本科、专科完整列表。最新 Excel 下载：<https://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202406/t20240621_1136990.html> 附件 1。可下载后筛选广东省，对照补全 `universities_guangdong.json`。
 
 新增学校或修正链接后，可先运行 `update_official_urls_from_baidu.py` 更新招聘页，再运行 `python3 update_jobs.py` 更新公告数据。
 

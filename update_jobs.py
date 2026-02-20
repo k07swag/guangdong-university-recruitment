@@ -39,6 +39,7 @@ ARTICLE_INDICATORS = ("公告", "通知", "办法", "条例", "启事", "公示"
 DATA_DIR = Path(__file__).resolve().parent / "data"
 UNIVERSITIES_JSON = DATA_DIR / "universities_guangdong.json"
 JOBS_JSON = DATA_DIR / "jobs.json"
+FAILED_SCHOOLS_JSON = DATA_DIR / "failed_recruitment_schools.json"
 REQUEST_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "Accept": "text/html,application/xhtml+xml;q=0.9,*/*;q=0.8",
@@ -187,6 +188,7 @@ def main():
     universities = load_universities()
     data = load_jobs()
     all_jobs = []
+    failed_schools = []
 
     update_sources(universities, data)
 
@@ -203,10 +205,16 @@ def main():
             all_jobs.extend(jobs)
             if jobs:
                 print(f"  发现 {len(jobs)} 条可能招聘信息")
+        else:
+            failed_schools.append(name)
 
     data["jobs"] = all_jobs
     save_jobs(data)
+    with open(FAILED_SCHOOLS_JSON, "w", encoding="utf-8") as f:
+        json.dump(failed_schools, f, ensure_ascii=False, indent=2)
     print(f"已更新 {JOBS_JSON}，共 {len(all_jobs)} 条，时间 {data['last_updated']}")
+    if failed_schools:
+        print(f"招聘页请求失败的院校（共 {len(failed_schools)} 所）已写入 {FAILED_SCHOOLS_JSON}，页面上将显示「疑」并链到百度搜索")
 
 
 if __name__ == "__main__":

@@ -94,13 +94,7 @@
       border: 1px solid var(--border);
       transition: background 0.2s;
     }
-    .school-item.cat-985 { background: rgba(88, 166, 255, 0.22); }
-    .school-item.cat-211 { background: rgba(88, 166, 255, 0.16); }
-    .school-item.cat-普通一本 { background: rgba(88, 166, 255, 0.11); }
-    .school-item.cat-普通二本 { background: rgba(88, 166, 255, 0.07); }
-    .school-item.cat-普通三本 { background: rgba(88, 166, 255, 0.04); }
-    .school-item.cat-大专 { background: rgba(88, 166, 255, 0.02); }
-    .school-item:not([class*="cat-"]) { background: var(--card); }
+    .school-item { background: var(--card); }
     .job-item a, .school-item a {
       color: var(--accent);
       text-decoration: none;
@@ -121,8 +115,9 @@
     .link-primary { font-weight: 500; }
     .search-fallback { font-size: 1rem; text-decoration: none; }
     .search-fallback:hover { text-decoration: underline; }
-    .new-badge { font-size: 0.65rem; color: var(--teacher); margin-right: 4px; font-weight: 600; }
-    .wen-badge { font-size: 0.75rem; color: var(--muted); margin-right: 6px; }
+    .new-badge { font-size: 0.65rem; color: var(--teacher); margin-right: 4px; font-weight: 600; padding: 1px 4px; border-radius: 4px; background: rgba(63,185,80,0.15); }
+    .wen-badge { font-size: 0.75rem; color: var(--muted); margin-right: 6px; padding: 1px 4px; border-radius: 4px; background: rgba(139,148,158,0.15); }
+    .yi-badge { font-size: 0.75rem; color: #d29922; margin-right: 6px; font-weight: 600; padding: 1px 4px; border-radius: 4px; background: rgba(210,153,34,0.15); }
     .school-item-dropdown {
       background: rgba(88, 166, 255, 0.15); border: 1px solid var(--border); border-top: none;
       border-radius: 0 0 10px 10px; max-height: 0; overflow: hidden;
@@ -151,9 +146,95 @@
     .tabs button.active { background: var(--accent); border-color: var(--accent); color: var(--bg); }
     .panel { display: none; }
     .panel.active { display: block; }
+    .footer-legend { margin-top: 32px; padding-top: 20px; border-top: 1px solid var(--border); color: var(--muted); font-size: 0.8rem; line-height: 1.9; }
+    .footer-legend strong { color: var(--text); }
+    .footer-cheer { margin-top: 16px; font-size: 0.95rem; color: var(--accent); text-align: center; }
+    .notebook-btn {
+      position: fixed; right: 20px; top: 50%; transform: translateY(-50%);
+      z-index: 100; padding: 12px 16px; border-radius: 10px;
+      background: var(--card); border: 1px solid var(--border); color: var(--text);
+      cursor: pointer; font-size: 1rem; box-shadow: 0 2px 12px rgba(0,0,0,0.3);
+    }
+    .notebook-btn:hover { border-color: var(--accent); }
+    .notebook-panel {
+      display: none; position: fixed; z-index: 1000;
+      min-width: 280px; min-height: 200px; max-width: 90vw; max-height: 80vh;
+      background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.4); flex-direction: column;
+    }
+    .notebook-panel.open { display: flex; }
+    .notebook-head {
+      padding: 10px 12px; border-bottom: 1px solid var(--border);
+      display: flex; align-items: center; justify-content: space-between;
+      cursor: move; user-select: none; background: rgba(0,0,0,0.2);
+      border-radius: 12px 12px 0 0;
+    }
+    .notebook-head span { font-weight: 600; font-size: 0.9rem; }
+    .notebook-toolbar {
+      display: flex; flex-wrap: wrap; gap: 6px; padding: 8px 10px;
+      border-bottom: 1px solid var(--border); background: rgba(0,0,0,0.1);
+    }
+    .notebook-toolbar button, .notebook-toolbar input[type="color"] {
+      padding: 4px 8px; border: 1px solid var(--border); border-radius: 6px;
+      background: var(--bg); color: var(--text); cursor: pointer; font-size: 0.8rem;
+    }
+    .notebook-toolbar input[type="color"] { width: 28px; height: 24px; padding: 2px; cursor: pointer; }
+    .notebook-toolbar input[type="range"] { width: 70px; vertical-align: middle; }
+    .notebook-body {
+      flex: 1; padding: 12px; overflow: auto;
+      outline: none; font-size: 0.9rem; line-height: 1.6;
+      min-height: 120px;
+      word-wrap: break-word; overflow-wrap: break-word;
+    }
+    .notebook-body:empty::before { content: "在此记录…"; color: var(--muted); }
+    .notebook-body [contenteditable="true"] { min-height: 1em; word-wrap: break-word; overflow-wrap: break-word; }
+    .notebook-checklist-item { display: flex; align-items: flex-start; gap: 8px; margin: 6px 0; }
+    .notebook-checklist-item input[type="checkbox"] { flex-shrink: 0; cursor: pointer; margin-top: 4px; }
+    .notebook-checklist-item .nb-check-text { flex: 1; min-width: 0; word-wrap: break-word; overflow-wrap: break-word; outline: none; white-space: pre-wrap; }
+    .notebook-checklist-item.done .nb-check-text { opacity: 0.7; text-decoration: line-through; }
+    .notebook-panel .resize-handle { position: absolute; right: 0; bottom: 0; width: 20px; height: 20px; cursor: nwse-resize; }
+    .notebook-mini {
+      display: none; position: fixed; z-index: 999;
+      background: var(--card); border: 1px solid var(--border); border-radius: 10px;
+      padding: 8px 12px; align-items: center; gap: 8px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.3); cursor: move; user-select: none;
+    }
+    .notebook-mini.visible { display: flex; }
+    .notebook-mini.minimized { padding: 6px 10px; right: 0; top: 12px; left: auto; transform: translateX(calc(100% - 2.5em)); }
+    .notebook-mini.minimized .nb-mini-close { display: none; }
+    .notebook-mini.fly-to-corner { transition: left 0.45s cubic-bezier(0.25, 0.1, 0.25, 1), top 0.45s cubic-bezier(0.25, 0.1, 0.25, 1), right 0.45s cubic-bezier(0.25, 0.1, 0.25, 1); }
+    .notebook-mini .nb-mini-icon { font-size: 1.2rem; cursor: pointer; }
+    .notebook-mini .nb-mini-close { background: none; border: none; color: var(--muted); cursor: pointer; font-size: 1.1rem; padding: 0 2px; }
+    .cheer-emoji { position: fixed; pointer-events: none; z-index: 2000; font-size: 1.5rem; animation: cheerFly 1.2s ease-out forwards; }
+    @keyframes cheerFly {
+      0% { opacity: 1; transform: translate(0,0) scale(1); }
+      100% { opacity: 0; transform: translate(var(--dx), var(--dy)) scale(0.5); }
+    }
   </style>
 </head>
 <body>
+  <button type="button" class="notebook-btn" id="notebookBtn" title="打开记事本">📝 记事本</button>
+  <div class="notebook-mini" id="notebookMini">
+    <span class="nb-mini-icon" id="nbMiniIcon">📝</span>
+    <button type="button" class="nb-mini-close" id="nbMiniClose">×</button>
+  </div>
+  <div class="notebook-panel" id="notebookPanel">
+    <div class="notebook-head" id="notebookHead">
+      <span>📝 记事本</span>
+      <button type="button" id="notebookClose" style="background:transparent;border:none;color:var(--muted);cursor:pointer;font-size:1.2rem;">×</button>
+    </div>
+    <div class="notebook-toolbar">
+      <button type="button" id="nbBold" title="加粗">B</button>
+      <input type="color" id="nbColor" value="#e6edf3" title="字体颜色" />
+      <button type="button" id="nbChecklist" title="插入待办">☑ 待办</button>
+      <label style="display:inline-flex;align-items:center;gap:4px;"><span>透明度</span><input type="range" id="nbOpacity" min="0.5" max="1" step="0.05" value="0.98" /></label>
+      <label style="display:inline-flex;align-items:center;gap:4px;" title="切换日期可查看/编辑该日的草稿"><span>日期</span><select id="nbDateSelect" style="padding:4px 8px;border-radius:6px;background:var(--bg);color:var(--text);border:1px solid var(--border);font-size:0.8rem;"></select></label>
+      <span class="muted" style="font-size:0.75rem;">（按日期保存，切换可查往日草稿；当日多次保存会覆盖为最新）</span>
+      <button type="button" id="nbSave" style="padding:4px 10px;border-radius:6px;background:var(--accent);color:var(--bg);border:none;cursor:pointer;font-size:0.8rem;">保存</button>
+    </div>
+    <div class="notebook-body" id="notebookBody" contenteditable="true"></div>
+    <div class="resize-handle" id="notebookResize"></div>
+  </div>
   <div class="container">
     <h1>广东省高校教师岗 · 行政岗招聘信息</h1>
     <p class="subtitle">收集广东省内本科、专科院校人事处/招聘页入口与抓取的招聘公告，便于统一查看与更新。</p>
@@ -187,7 +268,7 @@
     <p class="meta" id="meta">加载中…</p>
 
     <div class="tabs">
-      <button type="button" data-tab="schools">按学校入口（106 所院校直达链接）</button>
+      <button type="button" data-tab="schools">按学校入口（<span id="schoolCount">—</span> 所院校直达链接）</button>
       <button type="button" data-tab="jobs">招聘信息列表</button>
     </div>
 
@@ -202,23 +283,43 @@
       <ul class="job-list" id="jobList"></ul>
       <p class="empty" id="jobEmpty" style="display:none;">暂无抓取到的招聘条目。在终端执行：<br><code>cd 项目目录 && pip3 install -r requirements.txt && python3 update_jobs.py</code></p>
     </section>
+
+    <div class="footer-legend" id="footerLegend">
+      <strong>图例：</strong><br>
+      招聘页：该校人事/招聘页（来自百度搜索【官方】或首条）；无则打开百度搜索页。<br>
+      🔍：打开百度「校名 人事 招聘」搜索页，可自点【官方】链接。<br>
+      文：近 30 天内有文科相关招聘或公告。<br>
+      new：近 7 天内有与招聘/人才/公示/制度/引进/公告/通知等相关的更新。<br>
+      疑：招聘页无法打开时，链接为百度「校名 人事 招聘」搜索页，请自点首条结果；下拉显示「暂无信息，请手动点击🔍核实搜索结果」。<br>
+      下拉框：仅展示与招聘/人才相关的最新 3 条公告，无则不展示。
+    </div>
+    <p class="footer-cheer" id="footerCheer" title="双击飞出小惊喜">朝着想要的生活去实践，终能收获属于自己的幸福。</p>
   </div>
 
   <script>
     let jobsData = { last_updated: "", jobs: [], sources: [] };
     let universitiesData = { universities: [] };
+    let failedSchoolsSet = new Set();
+    var SUSPECTED_FAILED_SCHOOLS = ["广州商学院","北京理工大学珠海学院","广东科技学院","广东理工学院","东莞城市学院","广州新华学院","广东第二师范学院","南方科技大学","深圳信息职业技术大学","广州民航职业技术学院"];
     let currentCity = "";
     let currentSchoolType = "";
     let currentCategory = "";
 
     const CATEGORY_ORDER = { "985": 0, "211": 1, "普通一本": 2, "普通二本": 3, "普通三本": 4, "大专": 5 };
     const WEN_KEYWORDS = /文|文学|历史|哲学|法学|政治|社会|传媒|语言|艺术|教育|心理|马院|思政|中文|外语|经管|新闻|传播|人文/i;
+    var NEW_KEYWORDS = /招聘|人才|公示|制度|引进|开始|公告|通知|招录|选聘|聘任|人事|高层次|教师|行政|公开招聘/i;
 
     function isWithin7Days(dateStr) {
       if (!dateStr) return false;
       const d = new Date(dateStr); if (isNaN(d.getTime())) return false;
       const now = new Date(); const diff = (now - d) / (24 * 60 * 60 * 1000);
       return diff >= 0 && diff <= 7;
+    }
+    function isWithin30Days(dateStr) {
+      if (!dateStr) return false;
+      const d = new Date(dateStr); if (isNaN(d.getTime())) return false;
+      const now = new Date(); const diff = (now - d) / (24 * 60 * 60 * 1000);
+      return diff >= 0 && diff <= 30;
     }
 
     function getSchoolJobs(schoolName) {
@@ -244,20 +345,26 @@
     }
 
     function getTop3ArticleLikeJobs(schoolJobs) {
-      const articleLike = schoolJobs.filter(j => isArticleLikeTitle(j.title));
-      const recruitmentRelated = articleLike.filter(j => isRecruitmentOrTalentRelated(j.title));
-      const pool = recruitmentRelated.length > 0 ? recruitmentRelated : articleLike;
+      var pool = schoolJobs.filter(function(j) {
+        return isRecruitmentOrTalentRelated(j.title) || WEN_KEYWORDS.test(j.title || "");
+      });
       return pool.slice(0, 3);
     }
 
     async function loadData() {
       try {
-        const [jobsRes, univRes] = await Promise.all([
+        const [jobsRes, univRes, failedRes] = await Promise.all([
           fetch("data/jobs.json"),
-          fetch("data/universities_guangdong.json")
+          fetch("data/universities_guangdong.json"),
+          fetch("data/failed_recruitment_schools.json").catch(() => null)
         ]);
         if (jobsRes.ok) jobsData = await jobsRes.json();
         if (univRes.ok) universitiesData = await univRes.json();
+        if (failedRes && failedRes.ok) {
+          const arr = await failedRes.json();
+          failedSchoolsSet = new Set(Array.isArray(arr) ? arr : []);
+        }
+        SUSPECTED_FAILED_SCHOOLS.forEach(function(name) { failedSchoolsSet.add(name); });
       } catch (e) {
         console.error(e);
         document.getElementById("meta").textContent = "无法加载 data 下的 JSON（请用本地服务器打开页面，如 python -m http.server）。";
@@ -265,6 +372,8 @@
       }
       const u = universitiesData.universities || [];
       const jobs = jobsData.jobs || [];
+      var countEl = document.getElementById("schoolCount");
+      if (countEl) countEl.textContent = u.length;
       document.getElementById("meta").innerHTML =
         "数据更新时间：<strong>" + (jobsData.last_updated || "—") + "</strong>。"
         + " 共 " + u.length + " 所院校、当前抓取 " + jobs.length + " 条招聘相关信息。"
@@ -274,16 +383,27 @@
       renderSchools(u);
     }
 
+    var CITY_GDP_ORDER = ["深圳市","广州市","佛山市","东莞市","惠州市","珠海市","中山市","江门市","湛江市","茂名市","肇庆市","汕头市","清远市","韶关市","揭阳市","阳江市","梅州市","潮州市","河源市","汕尾市","云浮市"];
+    function cityOrder(c) { const i = CITY_GDP_ORDER.indexOf(c || ""); return i >= 0 ? i : 999; }
     function fillCityOptions(universities) {
       const set = new Set(universities.map(x => x.city).filter(Boolean));
       const sel = document.getElementById("filterCity");
-      ["全部城市", ...Array.from(set).sort()].forEach((c, i) => {
+      const sorted = Array.from(set).sort((a, b) => cityOrder(a) - cityOrder(b));
+      sel.innerHTML = "";
+      const opt0 = document.createElement("option");
+      opt0.value = "";
+      opt0.textContent = "全部城市";
+      sel.appendChild(opt0);
+      sorted.forEach(c => {
         const opt = document.createElement("option");
-        opt.value = i === 0 ? "" : c;
+        opt.value = c;
         opt.textContent = c;
         sel.appendChild(opt);
       });
-      sel.addEventListener("change", () => { currentCity = sel.value; renderJobs(); renderSchools(universitiesData.universities || []); });
+      if (!sel._bound) {
+        sel._bound = true;
+        sel.addEventListener("change", () => { currentCity = sel.value; renderJobs(); renderSchools(universitiesData.universities || []); });
+      }
     }
 
     document.getElementById("filterSchoolType").addEventListener("change", function() {
@@ -331,7 +451,7 @@
       if (currentSchoolType) list = list.filter(u => u.type === currentSchoolType);
       if (currentCategory) list = list.filter(u => (u.category || "") === currentCategory);
       list = list.slice().sort((a, b) => {
-        const cityC = (a.city || "").localeCompare(b.city || "");
+        const cityC = cityOrder(a.city) - cityOrder(b.city);
         if (cityC !== 0) return cityC;
         const typeOrder = (x) => (x.type === "本科" ? 0 : 1);
         const typeC = typeOrder(a) - typeOrder(b);
@@ -341,27 +461,34 @@
       const ul = document.getElementById("schoolList");
       ul.innerHTML = "";
       list.forEach(u => {
-        const officialPageUrl = (u.recruitment_url || "").trim();
+        const isFailed = failedSchoolsSet.has(u.name);
         const baiduSearchUrl = "https://www.baidu.com/s?wd=" + encodeURIComponent(u.name + " 人事部 招聘");
+        const officialPageUrl = (u.recruitment_url || "").trim();
         const category = u.category || "";
-        const primaryHref = officialPageUrl || baiduSearchUrl;
+        const primaryHref = isFailed ? baiduSearchUrl : (officialPageUrl || baiduSearchUrl);
         const schoolJobs = getSchoolJobs(u.name);
         const recentJobs = schoolJobs.filter(j => isWithin7Days(j.fetched_at));
-        const hasNew = recentJobs.length > 0;
-        const hasWen = recentJobs.some(j => WEN_KEYWORDS.test(j.title || ""));
+        const recentJobs30 = schoolJobs.filter(j => isWithin30Days(j.fetched_at));
+        const hasNew = recentJobs.some(j => NEW_KEYWORDS.test(j.title || ""));
+        const hasWen = recentJobs30.some(j => WEN_KEYWORDS.test(j.title || ""));
         const top3 = getTop3ArticleLikeJobs(schoolJobs);
-        const catClass = category ? " cat-" + category.replace(/\s/g, "") : "";
         const wrapper = document.createElement("li");
         wrapper.className = "school-item-wrapper";
         const newHtml = hasNew ? "<span class=\"new-badge\">new</span>" : "";
         const wenHtml = hasWen ? "<span class=\"wen-badge\">文</span>" : "";
-        const dropdownHtml = top3.length > 0
-          ? "<div class=\"school-item-dropdown\">" + top3.map(j => "<a href=\"" + escapeHtml(j.url) + "\" target=\"_blank\" rel=\"noopener\" title=\"" + escapeHtml(j.title) + "\">" + escapeHtml(j.title) + "</a>").join("") + "</div>"
-          : "<div class=\"school-item-dropdown\"><span class=\"muted\">暂无抓取公告，运行 update_jobs.py 可更新</span></div>";
+        const yiHtml = isFailed ? "<span class=\"yi-badge\">疑</span>" : "";
+        let dropdownHtml;
+        if (top3.length > 0) {
+          dropdownHtml = "<div class=\"school-item-dropdown\">" + top3.map(j => "<a href=\"" + escapeHtml(j.url) + "\" target=\"_blank\" rel=\"noopener\" title=\"" + escapeHtml(j.title) + "\">" + escapeHtml(j.title) + "</a>").join("") + "</div>";
+        } else if (isFailed) {
+          dropdownHtml = "<div class=\"school-item-dropdown\"><span class=\"muted\">暂无信息，请手动点击🔍核实搜索结果</span></div>";
+        } else {
+          dropdownHtml = "<div class=\"school-item-dropdown\"><span class=\"muted\">暂无抓取公告，运行 update_jobs.py 可更新</span></div>";
+        }
         wrapper.innerHTML =
-          "<div class=\"school-item" + catClass + "\">"
+          "<div class=\"school-item\">"
           + "<span class=\"school-name\">" + escapeHtml(u.name) + " · " + escapeHtml(u.city || "") + " · " + escapeHtml(u.type || "") + (category ? " · " + escapeHtml(category) : "") + "</span> "
-          + "<span class=\"link-wrap\">" + newHtml + wenHtml + "<a href=\"" + escapeHtml(primaryHref) + "\" target=\"_blank\" rel=\"noopener\" class=\"link-primary\">招聘页</a>"
+          + "<span class=\"link-wrap\">" + newHtml + wenHtml + yiHtml + "<a href=\"" + escapeHtml(primaryHref) + "\" target=\"_blank\" rel=\"noopener\" class=\"link-primary\">招聘页</a>"
           + " <a href=\"" + escapeHtml(baiduSearchUrl) + "\" target=\"_blank\" rel=\"noopener\" class=\"search-fallback\" title=\"百度搜索该校人事部招聘\">🔍</a></span></div>"
           + dropdownHtml;
         ul.appendChild(wrapper);
@@ -389,6 +516,245 @@
     document.querySelector("#panel-schools").classList.add("active");
 
     loadData();
+
+    (function notebook() {
+      const STORAGE_KEY = "guangdong_recruitment_notebook";
+      const panel = document.getElementById("notebookPanel");
+      const head = document.getElementById("notebookHead");
+      const body = document.getElementById("notebookBody");
+      const btn = document.getElementById("notebookBtn");
+      const closeBtn = document.getElementById("notebookClose");
+      const nbBold = document.getElementById("nbBold");
+      const nbColor = document.getElementById("nbColor");
+      const nbChecklist = document.getElementById("nbChecklist");
+      const nbOpacity = document.getElementById("nbOpacity");
+      const nbWidth = document.getElementById("nbWidth");
+      const nbHeight = document.getElementById("nbHeight");
+      const nbDateSelect = document.getElementById("nbDateSelect");
+
+      function todayStr() { const d = new Date(); return d.getFullYear() + "-" + String(d.getMonth()+1).padStart(2,"0") + "-" + String(d.getDate()).padStart(2,"0"); }
+      function loadStorage() { try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}"); } catch(e) { return {}; } }
+      function saveStorage(o) { try { localStorage.setItem(STORAGE_KEY, JSON.stringify(o)); } catch(e) {} }
+
+      let currentDate = todayStr();
+      let dragStart = null;
+
+      function getState() {
+        return {
+          html: body.innerHTML,
+          width: panel.offsetWidth,
+          height: panel.offsetHeight,
+          opacity: parseFloat(panel.style.opacity || "1"),
+          left: parseInt(panel.style.left, 10) || 100,
+          top: parseInt(panel.style.top, 10) || 100
+        };
+      }
+      function setState(s) {
+        if (s.html != null) body.innerHTML = s.html;
+        if (s.width != null) panel.style.width = s.width + "px";
+        if (s.height != null) panel.style.height = s.height + "px";
+        if (s.opacity != null) panel.style.opacity = s.opacity;
+        if (s.left != null) panel.style.left = s.left + "px";
+        if (s.top != null) panel.style.top = s.top + "px";
+      }
+      function saveCurrent() {
+        const o = loadStorage();
+        o[currentDate] = getState();
+        o.currentDate = currentDate;
+        saveStorage(o);
+      }
+      function refreshDateSelect() {
+        const o = loadStorage();
+        const dates = Object.keys(o).filter(k => k !== "currentDate" && /^\d{4}-\d{2}-\d{2}$/.test(k)).sort().reverse();
+        const today = todayStr();
+        if (dates.indexOf(today) === -1) dates.unshift(today);
+        nbDateSelect.innerHTML = dates.map(d => "<option value=\"" + d + "\"" + (d === currentDate ? " selected" : "") + ">" + d + "</option>").join("");
+      }
+      function loadForDate(date) {
+        if (currentDate && currentDate !== date) saveCurrent();
+        currentDate = date;
+        const o = loadStorage();
+        const s = o[date] || {};
+        const defaultLeft = Math.max(20, (window.innerWidth || 800) - 400);
+        const defaultTop = Math.max(20, Math.floor((window.innerHeight || 600) * 0.15));
+        setState({
+          html: s.html != null ? s.html : "",
+          width: s.width || 320,
+          height: s.height || 280,
+          opacity: s.opacity != null ? s.opacity : 0.98,
+          left: s.left != null ? s.left : defaultLeft,
+          top: s.top != null ? s.top : defaultTop
+        });
+        refreshDateSelect();
+      }
+
+      const mini = document.getElementById("notebookMini");
+      const miniIcon = document.getElementById("nbMiniIcon");
+      const miniClose = document.getElementById("nbMiniClose");
+      const nbSave = document.getElementById("nbSave");
+      const resizeHandle = document.getElementById("notebookResize");
+
+      nbSave.addEventListener("click", function() {
+        saveCurrent();
+        refreshDateSelect();
+        const t = nbSave.textContent;
+        nbSave.textContent = "已保存";
+        nbSave.title = "已按当前日期（" + currentDate + "）保存，可通过上方「日期」下拉查看往日草稿";
+        setTimeout(function() { nbSave.textContent = t; nbSave.title = ""; }, 2000);
+      });
+      nbDateSelect.addEventListener("change", function() { loadForDate(this.value); });
+      btn.addEventListener("click", function() {
+        panel.classList.add("open");
+        btn.style.display = "none";
+        mini.classList.remove("visible");
+        currentDate = todayStr();
+        loadForDate(currentDate);
+        body.focus();
+      });
+      closeBtn.addEventListener("click", function() {
+        saveCurrent();
+        var panelRect = panel.getBoundingClientRect();
+        panel.classList.remove("open");
+        btn.style.display = "none";
+        mini.classList.remove("minimized");
+        mini.style.transition = "none";
+        mini.style.left = panelRect.left + "px";
+        mini.style.top = panelRect.top + "px";
+        mini.style.right = "auto";
+        mini.classList.add("visible");
+        requestAnimationFrame(function() {
+          requestAnimationFrame(function() {
+            mini.classList.add("fly-to-corner");
+            mini.style.transition = "left 0.45s cubic-bezier(0.25,0.1,0.25,1), top 0.45s cubic-bezier(0.25,0.1,0.25,1)";
+            mini.style.left = "auto";
+            mini.style.right = "0";
+            mini.style.top = "12px";
+            mini.classList.add("minimized");
+            setTimeout(function() { mini.style.transition = ""; mini.classList.remove("fly-to-corner"); }, 500);
+          });
+        });
+      });
+      miniIcon.addEventListener("click", function() {
+        mini.classList.remove("visible");
+        panel.classList.add("open");
+        btn.style.display = "none";
+        currentDate = todayStr();
+        loadForDate(currentDate);
+        body.focus();
+      });
+      miniClose.addEventListener("click", function() {
+        mini.classList.add("minimized");
+        mini.style.right = "20px";
+        mini.style.top = "20px";
+        mini.style.left = "auto";
+      });
+      mini.addEventListener("mousedown", function(e) {
+        if (e.target === miniClose || e.target === miniIcon) return;
+        const mx = e.clientX - (parseInt(mini.style.left, 10) || 0);
+        const my = e.clientY - (parseInt(mini.style.top, 10) || 0);
+        function move(ev) {
+          mini.style.left = (ev.clientX - mx) + "px";
+          mini.style.top = (ev.clientY - my) + "px";
+          mini.style.right = "auto";
+        }
+        function up() { document.removeEventListener("mousemove", move); document.removeEventListener("mouseup", up); }
+        document.addEventListener("mousemove", move);
+        document.addEventListener("mouseup", up);
+      });
+
+      nbOpacity.addEventListener("input", function() { panel.style.opacity = this.value; saveCurrent(); });
+      nbBold.addEventListener("click", function() { document.execCommand("bold", false, null); body.focus(); });
+      nbColor.addEventListener("input", function() { document.execCommand("foreColor", false, this.value); body.focus(); });
+      nbChecklist.addEventListener("click", function() {
+        const div = document.createElement("div");
+        div.className = "notebook-checklist-item";
+        const text = document.createElement("div");
+        text.className = "nb-check-text";
+        text.contentEditable = "true";
+        text.textContent = "待办项";
+        div.innerHTML = "";
+        div.appendChild(document.createElement("input")).type = "checkbox";
+        div.appendChild(text);
+        div.querySelector("input").addEventListener("change", function() { div.classList.toggle("done", this.checked); saveCurrent(); });
+        text.addEventListener("input", saveCurrent);
+        body.appendChild(div);
+        text.focus();
+      });
+
+      let resizeStart = null;
+      resizeHandle.addEventListener("mousedown", function(e) {
+        e.preventDefault();
+        resizeStart = { w: panel.offsetWidth, h: panel.offsetHeight, x: e.clientX, y: e.clientY };
+      });
+      document.addEventListener("mousemove", function(e) {
+        if (!resizeStart) return;
+        const dw = e.clientX - resizeStart.x, dh = e.clientY - resizeStart.y;
+        panel.style.width = Math.min(600, Math.max(240, resizeStart.w + dw)) + "px";
+        panel.style.height = Math.min(500, Math.max(180, resizeStart.h + dh)) + "px";
+      });
+      document.addEventListener("mouseup", function() { if (resizeStart) saveCurrent(); resizeStart = null; });
+
+      head.addEventListener("mousedown", function(e) {
+        if (e.target === closeBtn || e.target.closest("#notebookClose")) return;
+        dragStart = { x: e.clientX - (parseInt(panel.style.left,10)||0), y: e.clientY - (parseInt(panel.style.top,10)||0) };
+      });
+      document.addEventListener("mousemove", function(e) {
+        if (!dragStart) return;
+        panel.style.left = (e.clientX - dragStart.x) + "px";
+        panel.style.top = (e.clientY - dragStart.y) + "px";
+      });
+      document.addEventListener("mouseup", function() { dragStart = null; });
+
+      body.addEventListener("input", function() { saveCurrent(); });
+      body.addEventListener("blur", function() { saveCurrent(); });
+      body.addEventListener("keydown", function(e) {
+        if (e.key !== "Enter") return;
+        var el = e.target;
+        if (!el || !el.closest || !el.closest(".nb-check-text")) return;
+        e.preventDefault();
+        e.stopPropagation();
+        var sel = window.getSelection();
+        if (!sel || sel.rangeCount === 0) return;
+        var range = sel.getRangeAt(0);
+        var container = el.closest(".nb-check-text");
+        if (!container) return;
+        var br1 = document.createElement("br");
+        var br2 = document.createElement("br");
+        range.deleteContents();
+        range.insertNode(br2);
+        range.insertNode(br1);
+        range.setStartAfter(br1);
+        range.setEndAfter(br1);
+        sel.removeAllRanges();
+        sel.addRange(range);
+        saveCurrent();
+      });
+      window.addEventListener("beforeunload", function() { saveCurrent(); });
+    })();
+
+    (function cheerEmoji() {
+      const el = document.getElementById("footerCheer");
+      const emojis = ["❤️","❤️","❤️","👏🏻","👏🏻","💪🏻","💪🏻","💰","💰","💦","💦","🌟","✨","🌈","🎯","🌻"];
+      el.addEventListener("dblclick", function(e) {
+        const rect = el.getBoundingClientRect();
+        const cx = rect.left + rect.width / 2, cy = rect.top + rect.height / 2;
+        const pick = emojis[Math.floor(Math.random() * emojis.length)];
+        const n = 12 + Math.floor(Math.random() * 10);
+        for (let i = 0; i < n; i++) {
+          const span = document.createElement("span");
+          span.className = "cheer-emoji";
+          span.textContent = pick;
+          const angle = (i / n) * Math.PI * 2 + Math.random() * 0.5;
+          const dist = 60 + Math.random() * 80;
+          span.style.left = (cx + Math.cos(angle) * 30) + "px";
+          span.style.top = (cy + Math.sin(angle) * 30) + "px";
+          span.style.setProperty("--dx", Math.cos(angle) * dist + "px");
+          span.style.setProperty("--dy", Math.sin(angle) * dist + "px");
+          document.body.appendChild(span);
+          setTimeout(function() { span.remove(); }, 1200);
+        }
+      });
+    })();
   </script>
 </body>
 </html>

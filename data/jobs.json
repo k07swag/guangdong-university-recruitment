@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-21 00:13",
+  "last_updated": "2026-02-21 00:29",
   "jobs": [
     {
       "school": "中山大学",
@@ -643,34 +643,6 @@
       "title": "《华南师范大学教师公派出国研修管理办法（修订）》",
       "url": "https://sso.scnu.edu.cn/AccountService/article/a_xxgw_88713_1.html",
       "type": "教师岗",
-      "fetched_at": "2026-02-21"
-    },
-    {
-      "school": "韶关学院",
-      "title": "招聘公告",
-      "url": "https://rsc.sgu.edu.cn/product/recruit/website/RecruitNoticeNew.jsp?FM_SYS_ID=sgxy",
-      "type": "行政岗",
-      "fetched_at": "2026-02-21"
-    },
-    {
-      "school": "韶关学院",
-      "title": "招聘岗位",
-      "url": "https://rsc.sgu.edu.cn/product/recruit/website/RecruitPostNew.jsp?FM_SYS_ID=sgxy",
-      "type": "行政岗",
-      "fetched_at": "2026-02-21"
-    },
-    {
-      "school": "韶关学院",
-      "title": "应聘指南",
-      "url": "https://rsc.sgu.edu.cn/product/recruit/website/RecruitGuideNew.jsp?FM_SYS_ID=sgxy",
-      "type": "其他",
-      "fetched_at": "2026-02-21"
-    },
-    {
-      "school": "韶关学院",
-      "title": "人事处",
-      "url": "http://www.sgu.edu.cn/rczpw/zpgg.htm?FM_SYS_ID=sgxy",
-      "type": "行政岗",
       "fetched_at": "2026-02-21"
     },
     {
@@ -2084,6 +2056,160 @@
       "school": "广东白云学院",
       "title": "广东省教师继续教育管理信息系统",
       "url": "https://jsglpt.gdedu.gov.cn/login.jsp",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州大学",
+      "title": "高层次人才招聘公告",
+      "url": "https://rsc.gzhu.edu.cn/rczp/gccrczpgg.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州大学",
+      "title": "教学科研系列招聘公告",
+      "url": "https://rsc.gzhu.edu.cn/rczp/jxkyxlzpgg.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州大学",
+      "title": "其他系列招聘公告",
+      "url": "https://rsc.gzhu.edu.cn/rczp/qtxlzpgg.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州大学",
+      "title": "杰出人才",
+      "url": "https://rsc.gzhu.edu.cn/szdw_/jcrc.htm",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州大学",
+      "title": "博士后管理",
+      "url": "https://rsc.gzhu.edu.cn/bshgl.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州大学",
+      "title": "应聘申请",
+      "url": "https://rsc.gzhu.edu.cn/bshgl/ypsq.htm",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州大学",
+      "title": "人事人才",
+      "url": "https://rsc.gzhu.edu.cn/rszc/rsrc.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州大学",
+      "title": "师资培养",
+      "url": "https://rsc.gzhu.edu.cn/rszc/szpy.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州大学",
+      "title": "人事档案",
+      "url": "https://rsc.gzhu.edu.cn/rszc/rsda.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州大学",
+      "title": "人事人才",
+      "url": "https://rsc.gzhu.edu.cn/bszn/rsrc.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州大学",
+      "title": "师资培养",
+      "url": "https://rsc.gzhu.edu.cn/bszn/szpy.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州大学",
+      "title": "人事档案",
+      "url": "https://rsc.gzhu.edu.cn/bszn/rsda.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州大学",
+      "title": "高层次人才",
+      "url": "https://rsc.gzhu.edu.cn/zlxz/gccrc.htm",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州大学",
+      "title": "人事管理",
+      "url": "https://rsc.gzhu.edu.cn/zlxz/rsgl.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州大学",
+      "title": "师资培养",
+      "url": "https://rsc.gzhu.edu.cn/zlxz/szpy.htm",
+      "type": "教师岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州大学",
+      "title": "人事档案",
+      "url": "https://rsc.gzhu.edu.cn/zlxz/rsda.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州大学",
+      "title": "人事处简介",
+      "url": "https://rsc.gzhu.edu.cn/jgsz/rscjj.htm",
+      "type": "行政岗",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州大学",
+      "title": "01-04广州大学2025年引进高层次人才/急需人...",
+      "url": "https://rsc.gzhu.edu.cn/info/1011/4065.htm",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州大学",
+      "title": "12-15广州大学2025年引进高层次人才/急需人...",
+      "url": "https://rsc.gzhu.edu.cn/info/1011/4035.htm",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州大学",
+      "title": "12-04广州大学2025年引进高层次人才/急需人...",
+      "url": "https://rsc.gzhu.edu.cn/info/1011/4005.htm",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州大学",
+      "title": "关于公布《广州大学关...\n各位应聘人员：根据《广州大学关于广东省事业单位2025年集中...\n2025-06-20",
+      "url": "https://rsc.gzhu.edu.cn/info/1035/3765.htm",
+      "type": "其他",
+      "fetched_at": "2026-02-21"
+    },
+    {
+      "school": "广州大学",
+      "title": "广州市博士后管理工作实施办法",
+      "url": "https://rsc.gzhu.edu.cn/info/1017/1302.htm",
       "type": "教师岗",
       "fetched_at": "2026-02-21"
     },
@@ -4223,7 +4349,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.sysu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "华南理工大学",
@@ -4231,7 +4357,7 @@
       "type": "本科",
       "recruitment_url": "https://zp.rs.scut.edu.cn/recruitWeb",
       "recruitment_name": "人才招聘网",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "暨南大学",
@@ -4239,7 +4365,7 @@
       "type": "本科",
       "recruitment_url": "https://www.jnu.edu.cn/2517/list.htm",
       "recruitment_name": "人才招聘",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "汕头大学",
@@ -4247,7 +4373,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.stu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "华南农业大学",
@@ -4255,7 +4381,7 @@
       "type": "本科",
       "recruitment_url": "https://hr.scau.edu.cn/",
       "recruitment_name": "人力资源处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东海洋大学",
@@ -4263,7 +4389,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gdou.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广州医科大学",
@@ -4271,7 +4397,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gzhmu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东医科大学",
@@ -4279,7 +4405,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gdmu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广州中医药大学",
@@ -4287,7 +4413,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gzucm.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东药科大学",
@@ -4295,7 +4421,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gdpu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "华南师范大学",
@@ -4303,7 +4429,7 @@
       "type": "本科",
       "recruitment_url": "http://rsc.scnu.edu.cn/",
       "recruitment_name": "人力资源处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "韶关学院",
@@ -4311,7 +4437,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.sgu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "惠州学院",
@@ -4319,7 +4445,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.hzu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "韩山师范学院",
@@ -4327,7 +4453,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.hstc.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "岭南师范学院",
@@ -4335,7 +4461,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.lingnan.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "肇庆学院",
@@ -4343,7 +4469,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.zqu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "嘉应学院",
@@ -4351,7 +4477,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.jyu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广州体育学院",
@@ -4359,7 +4485,7 @@
       "type": "本科",
       "recruitment_url": "https://zp.gzsport.edu.cn/",
       "recruitment_name": "公开招聘网",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广州美术学院",
@@ -4367,7 +4493,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gzarts.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "星海音乐学院",
@@ -4375,7 +4501,7 @@
       "type": "本科",
       "recruitment_url": "https://zp.xhcom.edu.cn/",
       "recruitment_name": "招聘系统",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东技术师范大学",
@@ -4383,7 +4509,7 @@
       "type": "本科",
       "recruitment_url": "http://rsc.gpnu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "深圳大学",
@@ -4391,7 +4517,7 @@
       "type": "本科",
       "recruitment_url": "https://hr.szu.edu.cn/",
       "recruitment_name": "人才招聘",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东财经大学",
@@ -4399,7 +4525,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gdufe.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东白云学院",
@@ -4407,7 +4533,7 @@
       "type": "本科",
       "recruitment_url": "https://rlzy.baiyunu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广州大学",
@@ -4415,7 +4541,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gzhu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广州航海学院",
@@ -4423,7 +4549,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gzmtu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东警官学院",
@@ -4431,7 +4557,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gdppla.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "仲恺农业工程学院",
@@ -4439,7 +4565,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.zhku.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "五邑大学",
@@ -4447,7 +4573,7 @@
       "type": "本科",
       "recruitment_url": "https://www.wyu.edu.cn/hr/",
       "recruitment_name": "人力资源管理处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东金融学院",
@@ -4455,7 +4581,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gduf.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "电子科技大学中山学院",
@@ -4463,7 +4589,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.zsc.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东石油化工学院",
@@ -4471,7 +4597,7 @@
       "type": "本科",
       "recruitment_url": "https://site.gdupt.edu.cn/renshichu/",
       "recruitment_name": "人力资源部",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "东莞理工学院",
@@ -4479,7 +4605,7 @@
       "type": "本科",
       "recruitment_url": "https://rs.dgut.edu.cn/",
       "recruitment_name": "人力资源部",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东工业大学",
@@ -4487,7 +4613,7 @@
       "type": "本科",
       "recruitment_url": "https://hr.gdut.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东外语外贸大学",
@@ -4495,7 +4621,7 @@
       "type": "本科",
       "recruitment_url": "http://rsc.gdufs.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "佛山科学技术学院",
@@ -4503,7 +4629,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.fosu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东培正学院",
@@ -4511,7 +4637,7 @@
       "type": "本科",
       "recruitment_url": "https://www.peizheng.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "南方医科大学",
@@ -4519,7 +4645,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.smu.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东东软学院",
@@ -4527,7 +4653,7 @@
       "type": "本科",
       "recruitment_url": "https://www.nuit.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广州城市理工学院",
@@ -4535,7 +4661,7 @@
       "type": "本科",
       "recruitment_url": "https://www.gcu.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广州软件学院",
@@ -4543,7 +4669,7 @@
       "type": "本科",
       "recruitment_url": "https://www.sise.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广州南方学院",
@@ -4551,7 +4677,7 @@
       "type": "本科",
       "recruitment_url": "https://www.nfu.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东外语外贸大学南国商学院",
@@ -4559,7 +4685,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gwng.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广州华商学院",
@@ -4567,7 +4693,7 @@
       "type": "本科",
       "recruitment_url": "https://www.gdhsc.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "湛江科技学院",
@@ -4575,7 +4701,7 @@
       "type": "本科",
       "recruitment_url": "https://www.gdcjxy.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "华南农业大学珠江学院",
@@ -4583,7 +4709,7 @@
       "type": "本科",
       "recruitment_url": "https://www.scauzhujiang.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广州理工学院",
@@ -4591,7 +4717,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gzist.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广州华立学院",
@@ -4599,7 +4725,7 @@
       "type": "本科",
       "recruitment_url": "https://www.hualixy.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广州应用科技学院",
@@ -4607,7 +4733,7 @@
       "type": "本科",
       "recruitment_url": "https://www.gzuas.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广州商学院",
@@ -4615,7 +4741,7 @@
       "type": "本科",
       "recruitment_url": "https://www.gcc.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "北京理工大学珠海学院",
@@ -4623,7 +4749,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.bitzh.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "珠海科技学院",
@@ -4631,7 +4757,7 @@
       "type": "本科",
       "recruitment_url": "https://hr.zcst.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广州工商学院",
@@ -4639,7 +4765,7 @@
       "type": "本科",
       "recruitment_url": "https://www.gzgs.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东科技学院",
@@ -4647,7 +4773,7 @@
       "type": "本科",
       "recruitment_url": "https://www.gdust.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东理工学院",
@@ -4655,7 +4781,7 @@
       "type": "本科",
       "recruitment_url": "https://www.gdlgxy.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "东莞城市学院",
@@ -4663,7 +4789,7 @@
       "type": "本科",
       "recruitment_url": "https://www.ccdgut.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广州新华学院",
@@ -4671,7 +4797,7 @@
       "type": "本科",
       "recruitment_url": "https://www.xhsysu.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东第二师范学院",
@@ -4679,7 +4805,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gdei.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "南方科技大学",
@@ -4687,7 +4813,7 @@
       "type": "本科",
       "recruitment_url": "https://hr.sustech.edu.cn/",
       "recruitment_name": "人才招聘",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "深圳技术大学",
@@ -4695,7 +4821,7 @@
       "type": "本科",
       "recruitment_url": "https://hr.sztu.edu.cn/",
       "recruitment_name": "人才招聘",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "深圳职业技术大学",
@@ -4703,7 +4829,7 @@
       "type": "本科",
       "recruitment_url": "https://www.szpu.edu.cn/jyjx1/rczp.htm",
       "recruitment_name": "人才招聘",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东轻工职业技术大学",
@@ -4711,7 +4837,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.gdipu.edu.cn/",
       "recruitment_name": "人力资源部",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "顺德职业技术大学",
@@ -4719,7 +4845,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.sdpt.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广州职业技术大学",
@@ -4727,7 +4853,7 @@
       "type": "本科",
       "recruitment_url": "https://www.gzpyp.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "深圳信息职业技术大学",
@@ -4735,7 +4861,7 @@
       "type": "本科",
       "recruitment_url": "https://rsc.sziit.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东交通职业技术学院",
@@ -4743,7 +4869,7 @@
       "type": "专科",
       "recruitment_url": "https://www.gdcp.edu.cn/rczp.htm",
       "recruitment_name": "人才招聘",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东水利电力职业技术学院",
@@ -4751,7 +4877,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdsdxy.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "深圳职业技术学院",
@@ -4759,7 +4885,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.szpt.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东南华工商职业学院",
@@ -4767,7 +4893,7 @@
       "type": "专科",
       "recruitment_url": "https://www.nhic.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广州民航职业技术学院",
@@ -4775,7 +4901,7 @@
       "type": "专科",
       "recruitment_url": "https://www.caac.net/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广州番禺职业技术学院",
@@ -4783,7 +4909,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gzpyp.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东松山职业技术学院",
@@ -4791,7 +4917,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdsspt.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东农工商职业技术学院",
@@ -4799,7 +4925,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdaib.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "佛山职业技术学院",
@@ -4807,7 +4933,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.fspt.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东科学技术职业学院",
@@ -4815,7 +4941,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdit.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东食品药品职业学院",
@@ -4823,7 +4949,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdyzy.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东行政职业学院",
@@ -4831,7 +4957,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdxzzy.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东体育职业技术学院",
@@ -4839,7 +4965,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdtzy.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东职业技术学院",
@@ -4847,7 +4973,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdpt.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东建设职业技术学院",
@@ -4855,7 +4981,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdcvi.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东女子职业技术学院",
@@ -4863,7 +4989,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdfs.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东机电职业技术学院",
@@ -4871,7 +4997,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdmec.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "汕尾职业技术学院",
@@ -4879,7 +5005,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.swvtc.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "罗定职业技术学院",
@@ -4887,7 +5013,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.ldpoly.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "阳江职业技术学院",
@@ -4895,7 +5021,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.yjpt.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "河源职业技术学院",
@@ -4903,7 +5029,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.hycollege.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东邮电职业技术学院",
@@ -4911,7 +5037,7 @@
       "type": "专科",
       "recruitment_url": "https://www.gupt.edu.cn/rsc/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "汕头职业技术学院",
@@ -4919,7 +5045,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.stpt.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "揭阳职业技术学院",
@@ -4927,7 +5053,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.jyc.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "清远职业技术学院",
@@ -4935,7 +5061,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.qypt.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东工贸职业技术学院",
@@ -4943,7 +5069,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdgm.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东司法警官职业学院",
@@ -4951,7 +5077,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdsfjy.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东省外语艺术职业学院",
@@ -4959,7 +5085,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gtcfla.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东文艺职业学院",
@@ -4967,7 +5093,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdla.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广州体育职业技术学院",
@@ -4975,7 +5101,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gztzy.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广州工程技术职业学院",
@@ -4983,7 +5109,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gziec.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "中山火炬职业技术学院",
@@ -4991,7 +5117,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.zstp.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "江门职业技术学院",
@@ -4999,7 +5125,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.jmpt.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "茂名职业技术学院",
@@ -5007,7 +5133,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.mmpt.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "珠海城市职业技术学院",
@@ -5015,7 +5141,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.zcpt.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东理工职业学院",
@@ -5023,7 +5149,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdpi.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广州城市职业学院",
@@ -5031,7 +5157,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gcp.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东工程职业技术学院",
@@ -5039,7 +5165,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdie.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广州铁路职业技术学院",
@@ -5047,7 +5173,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gtxy.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东科贸职业学院",
@@ -5055,7 +5181,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdkm.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     },
     {
       "name": "广东女子职业学院",
@@ -5063,7 +5189,7 @@
       "type": "专科",
       "recruitment_url": "https://rsc.gdfs.edu.cn/",
       "recruitment_name": "人事处",
-      "last_checked": "2026-02-21 00:06"
+      "last_checked": "2026-02-21 00:22"
     }
   ]
 }
